@@ -1,0 +1,872 @@
+[2022-02-14 09:22:50,701] {processor.py:163} INFO - Started process (PID=4115) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:22:50,702] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:22:50,704] {logging_mixin.py:109} INFO - [2022-02-14 09:22:50,703] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:22:50,731] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:22:50,754] {logging_mixin.py:109} INFO - [2022-02-14 09:22:50,754] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:22:50,771] {logging_mixin.py:109} INFO - [2022-02-14 09:22:50,771] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:22:50,771] {logging_mixin.py:109} INFO - [2022-02-14 09:22:50,771] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:22:50,794] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.096 seconds
+[2022-02-14 09:23:28,781] {processor.py:163} INFO - Started process (PID=4147) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:23:28,783] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:23:28,784] {logging_mixin.py:109} INFO - [2022-02-14 09:23:28,784] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:23:28,809] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:23:28,823] {logging_mixin.py:109} INFO - [2022-02-14 09:23:28,823] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:23:28,843] {logging_mixin.py:109} INFO - [2022-02-14 09:23:28,843] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:23:28,843] {logging_mixin.py:109} INFO - [2022-02-14 09:23:28,843] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:23:28,864] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.085 seconds
+[2022-02-14 09:24:03,662] {processor.py:163} INFO - Started process (PID=4179) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:24:03,665] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:24:03,666] {logging_mixin.py:109} INFO - [2022-02-14 09:24:03,666] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:24:03,685] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:24:03,701] {logging_mixin.py:109} INFO - [2022-02-14 09:24:03,701] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:24:03,717] {logging_mixin.py:109} INFO - [2022-02-14 09:24:03,717] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:24:03,717] {logging_mixin.py:109} INFO - [2022-02-14 09:24:03,717] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:24:03,740] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.079 seconds
+[2022-02-14 09:24:37,223] {processor.py:163} INFO - Started process (PID=4211) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:24:37,225] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:24:37,226] {logging_mixin.py:109} INFO - [2022-02-14 09:24:37,226] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:24:37,251] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:24:37,268] {logging_mixin.py:109} INFO - [2022-02-14 09:24:37,268] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:24:37,282] {logging_mixin.py:109} INFO - [2022-02-14 09:24:37,282] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:24:37,283] {logging_mixin.py:109} INFO - [2022-02-14 09:24:37,283] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:24:37,299] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.078 seconds
+[2022-02-14 09:25:13,702] {processor.py:163} INFO - Started process (PID=4243) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:25:13,704] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:25:13,705] {logging_mixin.py:109} INFO - [2022-02-14 09:25:13,705] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:25:13,741] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:25:13,768] {logging_mixin.py:109} INFO - [2022-02-14 09:25:13,768] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:25:13,795] {logging_mixin.py:109} INFO - [2022-02-14 09:25:13,795] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:25:13,796] {logging_mixin.py:109} INFO - [2022-02-14 09:25:13,796] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:25:13,825] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.127 seconds
+[2022-02-14 09:56:15,199] {processor.py:163} INFO - Started process (PID=4970) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:56:15,201] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:56:15,201] {logging_mixin.py:109} INFO - [2022-02-14 09:56:15,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:56:15,226] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:56:15,243] {logging_mixin.py:109} INFO - [2022-02-14 09:56:15,243] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:56:15,260] {logging_mixin.py:109} INFO - [2022-02-14 09:56:15,260] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:56:15,260] {logging_mixin.py:109} INFO - [2022-02-14 09:56:15,260] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:56:15,281] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.085 seconds
+[2022-02-14 09:56:50,565] {processor.py:163} INFO - Started process (PID=5004) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:56:50,574] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:56:50,575] {logging_mixin.py:109} INFO - [2022-02-14 09:56:50,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:56:50,599] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:56:50,611] {logging_mixin.py:109} INFO - [2022-02-14 09:56:50,611] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:56:50,622] {logging_mixin.py:109} INFO - [2022-02-14 09:56:50,622] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:56:50,623] {logging_mixin.py:109} INFO - [2022-02-14 09:56:50,623] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:56:50,643] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.080 seconds
+[2022-02-14 09:57:55,921] {processor.py:163} INFO - Started process (PID=5066) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:57:55,930] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:57:55,930] {logging_mixin.py:109} INFO - [2022-02-14 09:57:55,930] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:57:55,955] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:57:55,970] {logging_mixin.py:109} INFO - [2022-02-14 09:57:55,970] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:57:55,985] {logging_mixin.py:109} INFO - [2022-02-14 09:57:55,984] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:57:55,985] {logging_mixin.py:109} INFO - [2022-02-14 09:57:55,985] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:57:56,002] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.083 seconds
+[2022-02-14 09:58:32,413] {processor.py:163} INFO - Started process (PID=5100) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:58:32,416] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:58:32,416] {logging_mixin.py:109} INFO - [2022-02-14 09:58:32,416] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:58:32,435] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:58:32,448] {logging_mixin.py:109} INFO - [2022-02-14 09:58:32,448] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:58:32,463] {logging_mixin.py:109} INFO - [2022-02-14 09:58:32,463] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:58:32,464] {logging_mixin.py:109} INFO - [2022-02-14 09:58:32,464] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:58:32,486] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.075 seconds
+[2022-02-14 09:59:13,610] {processor.py:163} INFO - Started process (PID=5138) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:59:13,619] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:59:13,620] {logging_mixin.py:109} INFO - [2022-02-14 09:59:13,619] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:59:13,640] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:59:13,652] {logging_mixin.py:109} INFO - [2022-02-14 09:59:13,652] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:59:13,664] {logging_mixin.py:109} INFO - [2022-02-14 09:59:13,664] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:59:13,665] {logging_mixin.py:109} INFO - [2022-02-14 09:59:13,665] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:59:13,687] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.080 seconds
+[2022-02-14 09:59:51,915] {processor.py:163} INFO - Started process (PID=5175) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:59:51,916] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 09:59:51,917] {logging_mixin.py:109} INFO - [2022-02-14 09:59:51,917] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:59:51,937] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 09:59:51,951] {logging_mixin.py:109} INFO - [2022-02-14 09:59:51,951] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 09:59:51,964] {logging_mixin.py:109} INFO - [2022-02-14 09:59:51,963] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 09:59:51,964] {logging_mixin.py:109} INFO - [2022-02-14 09:59:51,964] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 09:59:51,981] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.069 seconds
+[2022-02-14 10:00:27,318] {processor.py:163} INFO - Started process (PID=5208) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:00:27,320] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:00:27,320] {logging_mixin.py:109} INFO - [2022-02-14 10:00:27,320] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:00:27,343] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:00:27,360] {logging_mixin.py:109} INFO - [2022-02-14 10:00:27,359] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:00:27,378] {logging_mixin.py:109} INFO - [2022-02-14 10:00:27,378] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:00:27,379] {logging_mixin.py:109} INFO - [2022-02-14 10:00:27,379] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:00:27,402] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.088 seconds
+[2022-02-14 10:01:03,508] {processor.py:163} INFO - Started process (PID=5244) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:01:03,517] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:01:03,519] {logging_mixin.py:109} INFO - [2022-02-14 10:01:03,518] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:01:03,545] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:01:03,560] {logging_mixin.py:109} INFO - [2022-02-14 10:01:03,560] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:01:03,575] {logging_mixin.py:109} INFO - [2022-02-14 10:01:03,575] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:01:03,576] {logging_mixin.py:109} INFO - [2022-02-14 10:01:03,576] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:01:03,595] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.091 seconds
+[2022-02-14 10:01:44,892] {processor.py:163} INFO - Started process (PID=5284) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:01:44,900] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:01:44,901] {logging_mixin.py:109} INFO - [2022-02-14 10:01:44,901] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:01:44,923] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:01:44,938] {logging_mixin.py:109} INFO - [2022-02-14 10:01:44,938] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:01:44,953] {logging_mixin.py:109} INFO - [2022-02-14 10:01:44,953] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:01:44,954] {logging_mixin.py:109} INFO - [2022-02-14 10:01:44,953] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:01:44,974] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.085 seconds
+[2022-02-14 10:02:26,908] {processor.py:163} INFO - Started process (PID=5322) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:02:26,910] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:02:26,911] {logging_mixin.py:109} INFO - [2022-02-14 10:02:26,911] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:02:26,956] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:02:26,980] {logging_mixin.py:109} INFO - [2022-02-14 10:02:26,979] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:02:27,008] {logging_mixin.py:109} INFO - [2022-02-14 10:02:27,007] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:02:27,009] {logging_mixin.py:109} INFO - [2022-02-14 10:02:27,008] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:02:27,029] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.125 seconds
+[2022-02-14 10:03:04,530] {processor.py:163} INFO - Started process (PID=5357) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:03:04,532] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:03:04,533] {logging_mixin.py:109} INFO - [2022-02-14 10:03:04,532] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:03:04,559] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:03:04,576] {logging_mixin.py:109} INFO - [2022-02-14 10:03:04,575] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:03:04,591] {logging_mixin.py:109} INFO - [2022-02-14 10:03:04,590] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:03:04,591] {logging_mixin.py:109} INFO - [2022-02-14 10:03:04,591] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:03:04,611] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.084 seconds
+[2022-02-14 10:03:46,432] {processor.py:163} INFO - Started process (PID=5393) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:03:46,433] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:03:46,434] {logging_mixin.py:109} INFO - [2022-02-14 10:03:46,434] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:03:46,451] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:03:46,464] {logging_mixin.py:109} INFO - [2022-02-14 10:03:46,463] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:03:46,476] {logging_mixin.py:109} INFO - [2022-02-14 10:03:46,476] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:03:46,476] {logging_mixin.py:109} INFO - [2022-02-14 10:03:46,476] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:03:46,493] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.064 seconds
+[2022-02-14 10:04:25,266] {processor.py:163} INFO - Started process (PID=5429) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:04:25,269] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:04:25,270] {logging_mixin.py:109} INFO - [2022-02-14 10:04:25,270] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:04:25,293] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:04:25,311] {logging_mixin.py:109} INFO - [2022-02-14 10:04:25,310] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:04:25,326] {logging_mixin.py:109} INFO - [2022-02-14 10:04:25,326] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:04:25,327] {logging_mixin.py:109} INFO - [2022-02-14 10:04:25,327] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:04:25,347] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.083 seconds
+[2022-02-14 10:05:03,363] {processor.py:163} INFO - Started process (PID=5464) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:05:03,366] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:05:03,367] {logging_mixin.py:109} INFO - [2022-02-14 10:05:03,367] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:05:03,390] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:05:03,406] {logging_mixin.py:109} INFO - [2022-02-14 10:05:03,406] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:05:03,425] {logging_mixin.py:109} INFO - [2022-02-14 10:05:03,425] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:05:03,425] {logging_mixin.py:109} INFO - [2022-02-14 10:05:03,425] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:05:03,445] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.084 seconds
+[2022-02-14 10:05:58,828] {processor.py:163} INFO - Started process (PID=5513) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:05:58,837] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:05:58,838] {logging_mixin.py:109} INFO - [2022-02-14 10:05:58,838] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:05:58,860] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:05:58,873] {logging_mixin.py:109} INFO - [2022-02-14 10:05:58,873] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:05:58,886] {logging_mixin.py:109} INFO - [2022-02-14 10:05:58,886] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:05:58,887] {logging_mixin.py:109} INFO - [2022-02-14 10:05:58,887] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:05:58,902] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.076 seconds
+[2022-02-14 10:06:40,358] {processor.py:163} INFO - Started process (PID=5552) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:06:40,360] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:06:40,360] {logging_mixin.py:109} INFO - [2022-02-14 10:06:40,360] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:06:40,379] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:06:40,392] {logging_mixin.py:109} INFO - [2022-02-14 10:06:40,391] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:06:40,405] {logging_mixin.py:109} INFO - [2022-02-14 10:06:40,405] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:06:40,405] {logging_mixin.py:109} INFO - [2022-02-14 10:06:40,405] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:06:40,421] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.065 seconds
+[2022-02-14 10:07:17,906] {processor.py:163} INFO - Started process (PID=5588) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:07:17,914] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:07:17,915] {logging_mixin.py:109} INFO - [2022-02-14 10:07:17,915] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:07:17,935] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:07:17,949] {logging_mixin.py:109} INFO - [2022-02-14 10:07:17,949] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:07:17,966] {logging_mixin.py:109} INFO - [2022-02-14 10:07:17,965] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:07:17,966] {logging_mixin.py:109} INFO - [2022-02-14 10:07:17,966] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:07:17,984] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 10:07:57,144] {processor.py:163} INFO - Started process (PID=5626) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:07:57,153] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:07:57,153] {logging_mixin.py:109} INFO - [2022-02-14 10:07:57,153] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:07:57,171] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:07:57,183] {logging_mixin.py:109} INFO - [2022-02-14 10:07:57,183] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:07:57,195] {logging_mixin.py:109} INFO - [2022-02-14 10:07:57,195] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:07:57,195] {logging_mixin.py:109} INFO - [2022-02-14 10:07:57,195] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:07:57,217] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.075 seconds
+[2022-02-14 10:08:35,693] {processor.py:163} INFO - Started process (PID=5667) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:08:35,695] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:08:35,696] {logging_mixin.py:109} INFO - [2022-02-14 10:08:35,696] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:08:35,718] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:08:35,735] {logging_mixin.py:109} INFO - [2022-02-14 10:08:35,735] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:08:35,751] {logging_mixin.py:109} INFO - [2022-02-14 10:08:35,751] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:08:35,751] {logging_mixin.py:109} INFO - [2022-02-14 10:08:35,751] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:08:35,771] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 10:09:17,881] {processor.py:163} INFO - Started process (PID=5706) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:09:17,884] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:09:17,885] {logging_mixin.py:109} INFO - [2022-02-14 10:09:17,885] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:09:17,907] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:09:17,923] {logging_mixin.py:109} INFO - [2022-02-14 10:09:17,923] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:09:17,939] {logging_mixin.py:109} INFO - [2022-02-14 10:09:17,938] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:09:17,939] {logging_mixin.py:109} INFO - [2022-02-14 10:09:17,939] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:09:17,957] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.079 seconds
+[2022-02-14 10:09:59,025] {processor.py:163} INFO - Started process (PID=5743) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:09:59,034] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:09:59,035] {logging_mixin.py:109} INFO - [2022-02-14 10:09:59,034] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:09:59,056] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:09:59,069] {logging_mixin.py:109} INFO - [2022-02-14 10:09:59,069] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:09:59,082] {logging_mixin.py:109} INFO - [2022-02-14 10:09:59,082] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:09:59,082] {logging_mixin.py:109} INFO - [2022-02-14 10:09:59,082] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:09:59,097] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.074 seconds
+[2022-02-14 10:10:34,385] {processor.py:163} INFO - Started process (PID=6159) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:10:34,387] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:10:34,388] {logging_mixin.py:109} INFO - [2022-02-14 10:10:34,388] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:10:34,415] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:10:34,430] {logging_mixin.py:109} INFO - [2022-02-14 10:10:34,429] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:10:34,449] {logging_mixin.py:109} INFO - [2022-02-14 10:10:34,449] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:10:34,449] {logging_mixin.py:109} INFO - [2022-02-14 10:10:34,449] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:10:34,467] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.085 seconds
+[2022-02-14 10:11:22,440] {processor.py:163} INFO - Started process (PID=6218) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:11:22,442] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:11:22,442] {logging_mixin.py:109} INFO - [2022-02-14 10:11:22,442] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:11:22,462] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:11:22,474] {logging_mixin.py:109} INFO - [2022-02-14 10:11:22,474] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:11:22,487] {logging_mixin.py:109} INFO - [2022-02-14 10:11:22,486] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:11:22,487] {logging_mixin.py:109} INFO - [2022-02-14 10:11:22,487] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:11:22,503] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.065 seconds
+[2022-02-14 10:12:22,485] {processor.py:163} INFO - Started process (PID=6271) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:12:22,487] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:12:22,487] {logging_mixin.py:109} INFO - [2022-02-14 10:12:22,487] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:12:22,526] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:12:22,549] {logging_mixin.py:109} INFO - [2022-02-14 10:12:22,549] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:12:22,572] {logging_mixin.py:109} INFO - [2022-02-14 10:12:22,572] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:12:22,573] {logging_mixin.py:109} INFO - [2022-02-14 10:12:22,573] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:12:22,598] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.118 seconds
+[2022-02-14 10:13:11,547] {processor.py:163} INFO - Started process (PID=6334) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:13:11,549] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:13:11,550] {logging_mixin.py:109} INFO - [2022-02-14 10:13:11,550] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:13:11,572] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:13:11,588] {logging_mixin.py:109} INFO - [2022-02-14 10:13:11,588] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:13:11,603] {logging_mixin.py:109} INFO - [2022-02-14 10:13:11,603] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:13:11,603] {logging_mixin.py:109} INFO - [2022-02-14 10:13:11,603] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:13:11,626] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 10:13:52,846] {processor.py:163} INFO - Started process (PID=6379) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:13:52,849] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:13:52,850] {logging_mixin.py:109} INFO - [2022-02-14 10:13:52,850] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:13:52,873] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:13:52,888] {logging_mixin.py:109} INFO - [2022-02-14 10:13:52,888] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:13:52,904] {logging_mixin.py:109} INFO - [2022-02-14 10:13:52,903] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:13:52,904] {logging_mixin.py:109} INFO - [2022-02-14 10:13:52,904] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:13:52,925] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.082 seconds
+[2022-02-14 10:14:36,046] {processor.py:163} INFO - Started process (PID=6442) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:14:36,047] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:14:36,048] {logging_mixin.py:109} INFO - [2022-02-14 10:14:36,048] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:14:36,065] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:14:36,077] {logging_mixin.py:109} INFO - [2022-02-14 10:14:36,077] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:14:36,091] {logging_mixin.py:109} INFO - [2022-02-14 10:14:36,091] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:14:36,092] {logging_mixin.py:109} INFO - [2022-02-14 10:14:36,092] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:14:36,108] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.064 seconds
+[2022-02-14 10:15:17,810] {processor.py:163} INFO - Started process (PID=6491) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:15:17,819] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:15:17,820] {logging_mixin.py:109} INFO - [2022-02-14 10:15:17,820] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:15:17,840] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:15:17,853] {logging_mixin.py:109} INFO - [2022-02-14 10:15:17,853] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:15:17,871] {logging_mixin.py:109} INFO - [2022-02-14 10:15:17,871] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:15:17,871] {logging_mixin.py:109} INFO - [2022-02-14 10:15:17,871] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:15:17,889] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 10:16:02,092] {processor.py:163} INFO - Started process (PID=6552) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:16:02,101] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:16:02,102] {logging_mixin.py:109} INFO - [2022-02-14 10:16:02,102] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:16:02,126] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:16:02,141] {logging_mixin.py:109} INFO - [2022-02-14 10:16:02,141] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:16:02,159] {logging_mixin.py:109} INFO - [2022-02-14 10:16:02,159] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:16:02,160] {logging_mixin.py:109} INFO - [2022-02-14 10:16:02,160] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:16:02,180] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.091 seconds
+[2022-02-14 10:16:46,724] {processor.py:163} INFO - Started process (PID=6610) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:16:46,732] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:16:46,733] {logging_mixin.py:109} INFO - [2022-02-14 10:16:46,733] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:16:46,754] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:16:46,770] {logging_mixin.py:109} INFO - [2022-02-14 10:16:46,769] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:16:46,782] {logging_mixin.py:109} INFO - [2022-02-14 10:16:46,782] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:16:46,783] {logging_mixin.py:109} INFO - [2022-02-14 10:16:46,783] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:16:46,800] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.079 seconds
+[2022-02-14 10:17:32,164] {processor.py:163} INFO - Started process (PID=6657) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:17:32,168] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:17:32,169] {logging_mixin.py:109} INFO - [2022-02-14 10:17:32,169] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:17:32,188] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:17:32,200] {logging_mixin.py:109} INFO - [2022-02-14 10:17:32,200] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:17:32,213] {logging_mixin.py:109} INFO - [2022-02-14 10:17:32,213] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:17:32,213] {logging_mixin.py:109} INFO - [2022-02-14 10:17:32,213] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:17:32,230] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.068 seconds
+[2022-02-14 10:18:15,487] {processor.py:163} INFO - Started process (PID=6702) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:18:15,489] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:18:15,490] {logging_mixin.py:109} INFO - [2022-02-14 10:18:15,490] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:18:15,529] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:18:15,551] {logging_mixin.py:109} INFO - [2022-02-14 10:18:15,551] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:18:15,569] {logging_mixin.py:109} INFO - [2022-02-14 10:18:15,569] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:18:15,570] {logging_mixin.py:109} INFO - [2022-02-14 10:18:15,570] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:18:15,600] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.116 seconds
+[2022-02-14 10:19:05,930] {processor.py:163} INFO - Started process (PID=6759) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:19:05,931] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:19:05,932] {logging_mixin.py:109} INFO - [2022-02-14 10:19:05,932] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:19:05,953] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:19:05,970] {logging_mixin.py:109} INFO - [2022-02-14 10:19:05,969] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:19:05,983] {logging_mixin.py:109} INFO - [2022-02-14 10:19:05,983] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:19:05,984] {logging_mixin.py:109} INFO - [2022-02-14 10:19:05,984] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:19:06,002] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.075 seconds
+[2022-02-14 10:19:51,966] {processor.py:163} INFO - Started process (PID=6809) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:19:51,975] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:19:51,976] {logging_mixin.py:109} INFO - [2022-02-14 10:19:51,976] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:19:52,005] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:19:52,025] {logging_mixin.py:109} INFO - [2022-02-14 10:19:52,025] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:19:52,046] {logging_mixin.py:109} INFO - [2022-02-14 10:19:52,046] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:19:52,046] {logging_mixin.py:109} INFO - [2022-02-14 10:19:52,046] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:19:52,068] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.104 seconds
+[2022-02-14 10:20:29,887] {processor.py:163} INFO - Started process (PID=6852) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:20:29,896] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:20:29,897] {logging_mixin.py:109} INFO - [2022-02-14 10:20:29,897] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:20:29,914] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:20:29,925] {logging_mixin.py:109} INFO - [2022-02-14 10:20:29,925] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:20:29,937] {logging_mixin.py:109} INFO - [2022-02-14 10:20:29,937] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:20:29,938] {logging_mixin.py:109} INFO - [2022-02-14 10:20:29,938] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:20:29,954] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.069 seconds
+[2022-02-14 10:21:10,177] {processor.py:163} INFO - Started process (PID=6896) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:21:10,186] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:21:10,187] {logging_mixin.py:109} INFO - [2022-02-14 10:21:10,187] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:21:10,207] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:21:10,219] {logging_mixin.py:109} INFO - [2022-02-14 10:21:10,219] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:21:10,232] {logging_mixin.py:109} INFO - [2022-02-14 10:21:10,232] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:21:10,232] {logging_mixin.py:109} INFO - [2022-02-14 10:21:10,232] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:21:10,249] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.074 seconds
+[2022-02-14 10:21:52,070] {processor.py:163} INFO - Started process (PID=6949) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:21:52,079] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:21:52,079] {logging_mixin.py:109} INFO - [2022-02-14 10:21:52,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:21:52,101] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:21:52,117] {logging_mixin.py:109} INFO - [2022-02-14 10:21:52,116] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:21:52,131] {logging_mixin.py:109} INFO - [2022-02-14 10:21:52,131] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:21:52,131] {logging_mixin.py:109} INFO - [2022-02-14 10:21:52,131] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:21:52,146] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.078 seconds
+[2022-02-14 10:22:39,728] {processor.py:163} INFO - Started process (PID=7007) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:22:39,730] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:22:39,730] {logging_mixin.py:109} INFO - [2022-02-14 10:22:39,730] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:22:39,761] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:22:39,790] {logging_mixin.py:109} INFO - [2022-02-14 10:22:39,790] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:22:39,821] {logging_mixin.py:109} INFO - [2022-02-14 10:22:39,820] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:22:39,823] {logging_mixin.py:109} INFO - [2022-02-14 10:22:39,821] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:22:39,848] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.122 seconds
+[2022-02-14 10:23:28,140] {processor.py:163} INFO - Started process (PID=7065) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:23:28,148] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:23:28,149] {logging_mixin.py:109} INFO - [2022-02-14 10:23:28,149] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:23:28,173] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:23:28,194] {logging_mixin.py:109} INFO - [2022-02-14 10:23:28,194] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:23:28,221] {logging_mixin.py:109} INFO - [2022-02-14 10:23:28,221] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:23:28,222] {logging_mixin.py:109} INFO - [2022-02-14 10:23:28,222] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:23:28,250] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.114 seconds
+[2022-02-14 10:24:18,371] {processor.py:163} INFO - Started process (PID=7119) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:24:18,381] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:24:18,382] {logging_mixin.py:109} INFO - [2022-02-14 10:24:18,381] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:24:18,409] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:24:18,433] {logging_mixin.py:109} INFO - [2022-02-14 10:24:18,433] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:24:18,451] {logging_mixin.py:109} INFO - [2022-02-14 10:24:18,451] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:24:18,451] {logging_mixin.py:109} INFO - [2022-02-14 10:24:18,451] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:24:18,470] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.102 seconds
+[2022-02-14 10:24:57,443] {processor.py:163} INFO - Started process (PID=7163) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:24:57,445] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:24:57,445] {logging_mixin.py:109} INFO - [2022-02-14 10:24:57,445] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:24:57,471] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:24:57,488] {logging_mixin.py:109} INFO - [2022-02-14 10:24:57,488] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:24:57,525] {logging_mixin.py:109} INFO - [2022-02-14 10:24:57,525] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:24:57,526] {logging_mixin.py:109} INFO - [2022-02-14 10:24:57,525] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:24:57,547] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.108 seconds
+[2022-02-14 10:25:47,724] {processor.py:163} INFO - Started process (PID=7218) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:25:47,727] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:25:47,728] {logging_mixin.py:109} INFO - [2022-02-14 10:25:47,728] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:25:47,767] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:25:47,802] {logging_mixin.py:109} INFO - [2022-02-14 10:25:47,802] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:25:47,841] {logging_mixin.py:109} INFO - [2022-02-14 10:25:47,840] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:25:47,841] {logging_mixin.py:109} INFO - [2022-02-14 10:25:47,841] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:25:47,875] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.155 seconds
+[2022-02-14 10:26:35,705] {processor.py:163} INFO - Started process (PID=7267) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:26:35,715] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:26:35,716] {logging_mixin.py:109} INFO - [2022-02-14 10:26:35,715] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:26:35,737] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:26:35,749] {logging_mixin.py:109} INFO - [2022-02-14 10:26:35,748] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:26:35,764] {logging_mixin.py:109} INFO - [2022-02-14 10:26:35,764] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:26:35,765] {logging_mixin.py:109} INFO - [2022-02-14 10:26:35,765] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:26:35,782] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.079 seconds
+[2022-02-14 10:27:16,466] {processor.py:163} INFO - Started process (PID=7311) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:27:16,467] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:27:16,468] {logging_mixin.py:109} INFO - [2022-02-14 10:27:16,468] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:27:16,495] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:27:16,509] {logging_mixin.py:109} INFO - [2022-02-14 10:27:16,509] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:27:16,525] {logging_mixin.py:109} INFO - [2022-02-14 10:27:16,524] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:27:16,525] {logging_mixin.py:109} INFO - [2022-02-14 10:27:16,525] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:27:16,541] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.078 seconds
+[2022-02-14 10:27:59,744] {processor.py:163} INFO - Started process (PID=7363) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:27:59,746] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:27:59,748] {logging_mixin.py:109} INFO - [2022-02-14 10:27:59,748] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:27:59,781] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:27:59,807] {logging_mixin.py:109} INFO - [2022-02-14 10:27:59,805] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:27:59,843] {logging_mixin.py:109} INFO - [2022-02-14 10:27:59,843] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:27:59,844] {logging_mixin.py:109} INFO - [2022-02-14 10:27:59,844] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:27:59,869] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.130 seconds
+[2022-02-14 10:28:41,637] {processor.py:163} INFO - Started process (PID=7408) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:28:41,647] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:28:41,647] {logging_mixin.py:109} INFO - [2022-02-14 10:28:41,647] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:28:41,667] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:28:41,684] {logging_mixin.py:109} INFO - [2022-02-14 10:28:41,684] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:28:41,699] {logging_mixin.py:109} INFO - [2022-02-14 10:28:41,699] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:28:41,699] {logging_mixin.py:109} INFO - [2022-02-14 10:28:41,699] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:28:41,718] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.083 seconds
+[2022-02-14 10:29:22,867] {processor.py:163} INFO - Started process (PID=7452) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:29:22,870] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:29:22,871] {logging_mixin.py:109} INFO - [2022-02-14 10:29:22,871] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:29:22,895] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:29:22,910] {logging_mixin.py:109} INFO - [2022-02-14 10:29:22,910] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:29:22,926] {logging_mixin.py:109} INFO - [2022-02-14 10:29:22,926] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:29:22,926] {logging_mixin.py:109} INFO - [2022-02-14 10:29:22,926] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:29:22,949] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.085 seconds
+[2022-02-14 10:30:04,734] {processor.py:163} INFO - Started process (PID=7496) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:30:04,737] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:30:04,737] {logging_mixin.py:109} INFO - [2022-02-14 10:30:04,737] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:30:04,773] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:30:04,793] {logging_mixin.py:109} INFO - [2022-02-14 10:30:04,793] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:30:04,819] {logging_mixin.py:109} INFO - [2022-02-14 10:30:04,818] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:30:04,819] {logging_mixin.py:109} INFO - [2022-02-14 10:30:04,819] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:30:04,843] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.113 seconds
+[2022-02-14 10:30:48,361] {processor.py:163} INFO - Started process (PID=7545) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:30:48,371] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:30:48,372] {logging_mixin.py:109} INFO - [2022-02-14 10:30:48,372] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:30:48,396] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:30:48,411] {logging_mixin.py:109} INFO - [2022-02-14 10:30:48,411] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:30:48,428] {logging_mixin.py:109} INFO - [2022-02-14 10:30:48,428] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:30:48,428] {logging_mixin.py:109} INFO - [2022-02-14 10:30:48,428] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:30:48,446] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.087 seconds
+[2022-02-14 10:31:34,592] {processor.py:163} INFO - Started process (PID=7601) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:31:34,594] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:31:34,595] {logging_mixin.py:109} INFO - [2022-02-14 10:31:34,594] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:31:34,614] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:31:34,628] {logging_mixin.py:109} INFO - [2022-02-14 10:31:34,628] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:31:34,643] {logging_mixin.py:109} INFO - [2022-02-14 10:31:34,642] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:31:34,643] {logging_mixin.py:109} INFO - [2022-02-14 10:31:34,643] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:31:34,660] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.071 seconds
+[2022-02-14 10:32:14,710] {processor.py:163} INFO - Started process (PID=7644) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:32:14,719] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:32:14,720] {logging_mixin.py:109} INFO - [2022-02-14 10:32:14,720] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:32:14,742] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:32:14,756] {logging_mixin.py:109} INFO - [2022-02-14 10:32:14,756] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:32:14,770] {logging_mixin.py:109} INFO - [2022-02-14 10:32:14,770] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:32:14,770] {logging_mixin.py:109} INFO - [2022-02-14 10:32:14,770] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:32:14,786] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.078 seconds
+[2022-02-14 10:33:03,535] {processor.py:163} INFO - Started process (PID=7695) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:33:03,537] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:33:03,537] {logging_mixin.py:109} INFO - [2022-02-14 10:33:03,537] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:33:03,559] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:33:03,574] {logging_mixin.py:109} INFO - [2022-02-14 10:33:03,574] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:33:03,590] {logging_mixin.py:109} INFO - [2022-02-14 10:33:03,590] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:33:03,590] {logging_mixin.py:109} INFO - [2022-02-14 10:33:03,590] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:33:03,607] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.074 seconds
+[2022-02-14 10:33:41,705] {processor.py:163} INFO - Started process (PID=7738) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:33:41,713] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:33:41,714] {logging_mixin.py:109} INFO - [2022-02-14 10:33:41,714] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:33:41,739] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:33:41,754] {logging_mixin.py:109} INFO - [2022-02-14 10:33:41,753] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:33:41,771] {logging_mixin.py:109} INFO - [2022-02-14 10:33:41,771] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:33:41,772] {logging_mixin.py:109} INFO - [2022-02-14 10:33:41,772] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:33:41,792] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.090 seconds
+[2022-02-14 10:34:22,325] {processor.py:163} INFO - Started process (PID=7781) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:34:22,334] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:34:22,335] {logging_mixin.py:109} INFO - [2022-02-14 10:34:22,335] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:34:22,356] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:34:22,370] {logging_mixin.py:109} INFO - [2022-02-14 10:34:22,369] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:34:22,385] {logging_mixin.py:109} INFO - [2022-02-14 10:34:22,385] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:34:22,385] {logging_mixin.py:109} INFO - [2022-02-14 10:34:22,385] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:34:22,403] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.080 seconds
+[2022-02-14 10:35:04,215] {processor.py:163} INFO - Started process (PID=7826) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:35:04,217] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:35:04,218] {logging_mixin.py:109} INFO - [2022-02-14 10:35:04,217] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:35:04,246] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:35:04,263] {logging_mixin.py:109} INFO - [2022-02-14 10:35:04,263] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:35:04,283] {logging_mixin.py:109} INFO - [2022-02-14 10:35:04,282] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:35:04,283] {logging_mixin.py:109} INFO - [2022-02-14 10:35:04,283] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:35:04,304] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.091 seconds
+[2022-02-14 10:35:43,410] {processor.py:163} INFO - Started process (PID=7869) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:35:43,411] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:35:43,412] {logging_mixin.py:109} INFO - [2022-02-14 10:35:43,412] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:35:43,430] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:35:43,448] {logging_mixin.py:109} INFO - [2022-02-14 10:35:43,447] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:35:43,464] {logging_mixin.py:109} INFO - [2022-02-14 10:35:43,464] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:35:43,464] {logging_mixin.py:109} INFO - [2022-02-14 10:35:43,464] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:35:43,483] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.076 seconds
+[2022-02-14 10:36:26,964] {processor.py:163} INFO - Started process (PID=7921) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:36:26,966] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:36:26,966] {logging_mixin.py:109} INFO - [2022-02-14 10:36:26,966] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:36:26,985] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:36:26,998] {logging_mixin.py:109} INFO - [2022-02-14 10:36:26,997] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:36:27,010] {logging_mixin.py:109} INFO - [2022-02-14 10:36:27,010] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:36:27,011] {logging_mixin.py:109} INFO - [2022-02-14 10:36:27,011] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:36:27,027] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.065 seconds
+[2022-02-14 10:37:09,391] {processor.py:163} INFO - Started process (PID=7966) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:37:09,393] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:37:09,394] {logging_mixin.py:109} INFO - [2022-02-14 10:37:09,394] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:37:09,415] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:37:09,428] {logging_mixin.py:109} INFO - [2022-02-14 10:37:09,428] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:37:09,441] {logging_mixin.py:109} INFO - [2022-02-14 10:37:09,441] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:37:09,441] {logging_mixin.py:109} INFO - [2022-02-14 10:37:09,441] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:37:09,457] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.069 seconds
+[2022-02-14 10:37:49,367] {processor.py:163} INFO - Started process (PID=8011) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:37:49,375] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:37:49,376] {logging_mixin.py:109} INFO - [2022-02-14 10:37:49,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:37:49,396] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:37:49,410] {logging_mixin.py:109} INFO - [2022-02-14 10:37:49,410] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:37:49,426] {logging_mixin.py:109} INFO - [2022-02-14 10:37:49,425] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:37:49,426] {logging_mixin.py:109} INFO - [2022-02-14 10:37:49,426] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:37:49,443] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.078 seconds
+[2022-02-14 10:38:40,343] {processor.py:163} INFO - Started process (PID=8063) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:38:40,355] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:38:40,356] {logging_mixin.py:109} INFO - [2022-02-14 10:38:40,356] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:38:40,391] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:38:40,412] {logging_mixin.py:109} INFO - [2022-02-14 10:38:40,412] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:38:40,438] {logging_mixin.py:109} INFO - [2022-02-14 10:38:40,438] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:38:40,438] {logging_mixin.py:109} INFO - [2022-02-14 10:38:40,438] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:38:40,606] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.267 seconds
+[2022-02-14 10:39:30,810] {processor.py:163} INFO - Started process (PID=8128) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:39:30,812] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:39:30,812] {logging_mixin.py:109} INFO - [2022-02-14 10:39:30,812] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:39:30,831] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:39:30,843] {logging_mixin.py:109} INFO - [2022-02-14 10:39:30,842] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:39:30,859] {logging_mixin.py:109} INFO - [2022-02-14 10:39:30,859] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:39:30,859] {logging_mixin.py:109} INFO - [2022-02-14 10:39:30,859] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:39:30,878] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.070 seconds
+[2022-02-14 10:40:14,540] {processor.py:163} INFO - Started process (PID=8174) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:40:14,542] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:40:14,543] {logging_mixin.py:109} INFO - [2022-02-14 10:40:14,543] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:40:14,569] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:40:14,587] {logging_mixin.py:109} INFO - [2022-02-14 10:40:14,587] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:40:14,602] {logging_mixin.py:109} INFO - [2022-02-14 10:40:14,601] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:40:14,602] {logging_mixin.py:109} INFO - [2022-02-14 10:40:14,602] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:40:14,620] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.083 seconds
+[2022-02-14 10:40:56,342] {processor.py:163} INFO - Started process (PID=8219) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:40:56,345] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:40:56,346] {logging_mixin.py:109} INFO - [2022-02-14 10:40:56,345] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:40:56,376] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:40:56,399] {logging_mixin.py:109} INFO - [2022-02-14 10:40:56,399] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:40:56,415] {logging_mixin.py:109} INFO - [2022-02-14 10:40:56,415] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:40:56,415] {logging_mixin.py:109} INFO - [2022-02-14 10:40:56,415] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:40:56,434] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.097 seconds
+[2022-02-14 10:41:39,511] {processor.py:163} INFO - Started process (PID=8269) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:41:39,513] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:41:39,513] {logging_mixin.py:109} INFO - [2022-02-14 10:41:39,513] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:41:39,541] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:41:39,557] {logging_mixin.py:109} INFO - [2022-02-14 10:41:39,557] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:41:39,573] {logging_mixin.py:109} INFO - [2022-02-14 10:41:39,573] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:41:39,574] {logging_mixin.py:109} INFO - [2022-02-14 10:41:39,573] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:41:39,589] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 10:42:42,199] {processor.py:163} INFO - Started process (PID=8352) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:42:42,201] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:42:42,202] {logging_mixin.py:109} INFO - [2022-02-14 10:42:42,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:42:42,223] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:42:42,241] {logging_mixin.py:109} INFO - [2022-02-14 10:42:42,241] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:42:42,259] {logging_mixin.py:109} INFO - [2022-02-14 10:42:42,259] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:42:42,259] {logging_mixin.py:109} INFO - [2022-02-14 10:42:42,259] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:42:42,280] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.084 seconds
+[2022-02-14 10:43:28,265] {processor.py:163} INFO - Started process (PID=8409) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:43:28,267] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:43:28,268] {logging_mixin.py:109} INFO - [2022-02-14 10:43:28,268] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:43:28,291] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:43:28,306] {logging_mixin.py:109} INFO - [2022-02-14 10:43:28,306] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:43:28,321] {logging_mixin.py:109} INFO - [2022-02-14 10:43:28,321] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:43:28,322] {logging_mixin.py:109} INFO - [2022-02-14 10:43:28,322] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:43:28,342] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.080 seconds
+[2022-02-14 10:44:11,604] {processor.py:163} INFO - Started process (PID=8455) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:44:11,613] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:44:11,613] {logging_mixin.py:109} INFO - [2022-02-14 10:44:11,613] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:44:11,635] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:44:11,659] {logging_mixin.py:109} INFO - [2022-02-14 10:44:11,658] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:44:11,689] {logging_mixin.py:109} INFO - [2022-02-14 10:44:11,689] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:44:11,691] {logging_mixin.py:109} INFO - [2022-02-14 10:44:11,690] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:44:11,716] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.115 seconds
+[2022-02-14 10:45:04,094] {processor.py:163} INFO - Started process (PID=8633) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:45:04,096] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:45:04,096] {logging_mixin.py:109} INFO - [2022-02-14 10:45:04,096] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:45:04,127] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:45:04,146] {logging_mixin.py:109} INFO - [2022-02-14 10:45:04,145] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:45:04,163] {logging_mixin.py:109} INFO - [2022-02-14 10:45:04,163] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:45:04,164] {logging_mixin.py:109} INFO - [2022-02-14 10:45:04,164] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:45:04,184] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.094 seconds
+[2022-02-14 10:45:43,682] {processor.py:163} INFO - Started process (PID=8676) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:45:43,691] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:45:43,691] {logging_mixin.py:109} INFO - [2022-02-14 10:45:43,691] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:45:43,715] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:45:43,730] {logging_mixin.py:109} INFO - [2022-02-14 10:45:43,730] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:45:43,744] {logging_mixin.py:109} INFO - [2022-02-14 10:45:43,744] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:45:43,744] {logging_mixin.py:109} INFO - [2022-02-14 10:45:43,744] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:45:43,761] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 10:46:32,647] {processor.py:163} INFO - Started process (PID=8725) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:46:32,649] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:46:32,650] {logging_mixin.py:109} INFO - [2022-02-14 10:46:32,650] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:46:32,677] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:46:32,697] {logging_mixin.py:109} INFO - [2022-02-14 10:46:32,696] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:46:32,721] {logging_mixin.py:109} INFO - [2022-02-14 10:46:32,721] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:46:32,722] {logging_mixin.py:109} INFO - [2022-02-14 10:46:32,721] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:46:32,745] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.100 seconds
+[2022-02-14 10:47:26,490] {processor.py:163} INFO - Started process (PID=8786) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:47:26,493] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:47:26,494] {logging_mixin.py:109} INFO - [2022-02-14 10:47:26,494] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:47:26,518] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:47:26,533] {logging_mixin.py:109} INFO - [2022-02-14 10:47:26,533] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:47:26,552] {logging_mixin.py:109} INFO - [2022-02-14 10:47:26,552] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:47:26,553] {logging_mixin.py:109} INFO - [2022-02-14 10:47:26,553] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:47:26,575] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.089 seconds
+[2022-02-14 10:48:14,928] {processor.py:163} INFO - Started process (PID=8843) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:48:14,937] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:48:14,937] {logging_mixin.py:109} INFO - [2022-02-14 10:48:14,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:48:14,959] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:48:14,974] {logging_mixin.py:109} INFO - [2022-02-14 10:48:14,974] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:48:14,987] {logging_mixin.py:109} INFO - [2022-02-14 10:48:14,987] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:48:14,987] {logging_mixin.py:109} INFO - [2022-02-14 10:48:14,987] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:48:15,010] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.085 seconds
+[2022-02-14 10:49:04,117] {processor.py:163} INFO - Started process (PID=8904) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:49:04,127] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:49:04,128] {logging_mixin.py:109} INFO - [2022-02-14 10:49:04,128] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:49:04,157] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:49:04,176] {logging_mixin.py:109} INFO - [2022-02-14 10:49:04,176] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:49:04,194] {logging_mixin.py:109} INFO - [2022-02-14 10:49:04,194] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:49:04,194] {logging_mixin.py:109} INFO - [2022-02-14 10:49:04,194] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:49:04,214] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.099 seconds
+[2022-02-14 10:49:57,218] {processor.py:163} INFO - Started process (PID=8972) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:49:57,220] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:49:57,221] {logging_mixin.py:109} INFO - [2022-02-14 10:49:57,221] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:49:57,242] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:49:57,254] {logging_mixin.py:109} INFO - [2022-02-14 10:49:57,254] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:49:57,267] {logging_mixin.py:109} INFO - [2022-02-14 10:49:57,267] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:49:57,267] {logging_mixin.py:109} INFO - [2022-02-14 10:49:57,267] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:49:57,284] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.068 seconds
+[2022-02-14 10:50:37,306] {processor.py:163} INFO - Started process (PID=9015) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:50:37,315] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:50:37,316] {logging_mixin.py:109} INFO - [2022-02-14 10:50:37,316] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:50:37,335] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:50:37,350] {logging_mixin.py:109} INFO - [2022-02-14 10:50:37,350] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:50:37,366] {logging_mixin.py:109} INFO - [2022-02-14 10:50:37,366] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:50:37,366] {logging_mixin.py:109} INFO - [2022-02-14 10:50:37,366] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:50:37,385] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.082 seconds
+[2022-02-14 10:51:31,709] {processor.py:163} INFO - Started process (PID=9083) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:51:31,710] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:51:31,710] {logging_mixin.py:109} INFO - [2022-02-14 10:51:31,710] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:51:31,732] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:51:31,746] {logging_mixin.py:109} INFO - [2022-02-14 10:51:31,746] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:51:31,762] {logging_mixin.py:109} INFO - [2022-02-14 10:51:31,762] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:51:31,762] {logging_mixin.py:109} INFO - [2022-02-14 10:51:31,762] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:51:31,779] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.073 seconds
+[2022-02-14 10:52:16,320] {processor.py:163} INFO - Started process (PID=9130) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:52:16,329] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:52:16,330] {logging_mixin.py:109} INFO - [2022-02-14 10:52:16,330] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:52:16,360] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:52:16,378] {logging_mixin.py:109} INFO - [2022-02-14 10:52:16,378] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:52:16,394] {logging_mixin.py:109} INFO - [2022-02-14 10:52:16,394] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:52:16,395] {logging_mixin.py:109} INFO - [2022-02-14 10:52:16,395] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:52:16,419] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.102 seconds
+[2022-02-14 10:52:56,717] {processor.py:163} INFO - Started process (PID=9173) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:52:56,719] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:52:56,720] {logging_mixin.py:109} INFO - [2022-02-14 10:52:56,720] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:52:56,738] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:52:56,751] {logging_mixin.py:109} INFO - [2022-02-14 10:52:56,751] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:52:56,763] {logging_mixin.py:109} INFO - [2022-02-14 10:52:56,763] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:52:56,763] {logging_mixin.py:109} INFO - [2022-02-14 10:52:56,763] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:52:56,781] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.067 seconds
+[2022-02-14 10:53:41,829] {processor.py:163} INFO - Started process (PID=9223) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:53:41,831] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:53:41,833] {logging_mixin.py:109} INFO - [2022-02-14 10:53:41,832] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:53:41,860] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:53:41,878] {logging_mixin.py:109} INFO - [2022-02-14 10:53:41,877] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:53:41,890] {logging_mixin.py:109} INFO - [2022-02-14 10:53:41,890] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:53:41,890] {logging_mixin.py:109} INFO - [2022-02-14 10:53:41,890] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:53:41,909] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.084 seconds
+[2022-02-14 10:54:28,619] {processor.py:163} INFO - Started process (PID=9279) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:54:28,627] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:54:28,628] {logging_mixin.py:109} INFO - [2022-02-14 10:54:28,628] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:54:28,676] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:54:28,698] {logging_mixin.py:109} INFO - [2022-02-14 10:54:28,697] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:54:28,722] {logging_mixin.py:109} INFO - [2022-02-14 10:54:28,721] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:54:28,722] {logging_mixin.py:109} INFO - [2022-02-14 10:54:28,722] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:54:28,746] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.130 seconds
+[2022-02-14 10:55:12,374] {processor.py:163} INFO - Started process (PID=9325) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:55:12,383] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:55:12,384] {logging_mixin.py:109} INFO - [2022-02-14 10:55:12,383] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:55:12,406] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:55:12,430] {logging_mixin.py:109} INFO - [2022-02-14 10:55:12,430] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:55:12,454] {logging_mixin.py:109} INFO - [2022-02-14 10:55:12,454] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:55:12,454] {logging_mixin.py:109} INFO - [2022-02-14 10:55:12,454] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:55:12,478] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.108 seconds
+[2022-02-14 10:55:51,543] {processor.py:163} INFO - Started process (PID=9368) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:55:51,552] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:55:51,553] {logging_mixin.py:109} INFO - [2022-02-14 10:55:51,553] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:55:51,580] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:55:51,599] {logging_mixin.py:109} INFO - [2022-02-14 10:55:51,599] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:55:51,620] {logging_mixin.py:109} INFO - [2022-02-14 10:55:51,619] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:55:51,620] {logging_mixin.py:109} INFO - [2022-02-14 10:55:51,620] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:55:51,652] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.113 seconds
+[2022-02-14 10:56:40,042] {processor.py:163} INFO - Started process (PID=9421) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:56:40,043] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:56:40,044] {logging_mixin.py:109} INFO - [2022-02-14 10:56:40,044] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:56:40,067] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:56:40,080] {logging_mixin.py:109} INFO - [2022-02-14 10:56:40,080] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:56:40,095] {logging_mixin.py:109} INFO - [2022-02-14 10:56:40,095] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:56:40,096] {logging_mixin.py:109} INFO - [2022-02-14 10:56:40,096] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:56:40,112] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.073 seconds
+[2022-02-14 10:57:26,841] {processor.py:163} INFO - Started process (PID=9478) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:57:26,842] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:57:26,843] {logging_mixin.py:109} INFO - [2022-02-14 10:57:26,843] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:57:26,866] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:57:26,881] {logging_mixin.py:109} INFO - [2022-02-14 10:57:26,881] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:57:26,902] {logging_mixin.py:109} INFO - [2022-02-14 10:57:26,901] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:57:26,902] {logging_mixin.py:109} INFO - [2022-02-14 10:57:26,902] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:57:26,922] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.083 seconds
+[2022-02-14 10:58:07,965] {processor.py:163} INFO - Started process (PID=9631) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:58:07,974] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:58:07,975] {logging_mixin.py:109} INFO - [2022-02-14 10:58:07,974] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:58:07,993] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:58:08,004] {logging_mixin.py:109} INFO - [2022-02-14 10:58:08,004] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:58:08,016] {logging_mixin.py:109} INFO - [2022-02-14 10:58:08,016] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:58:08,016] {logging_mixin.py:109} INFO - [2022-02-14 10:58:08,016] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:58:08,031] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.067 seconds
+[2022-02-14 10:58:51,116] {processor.py:163} INFO - Started process (PID=9679) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:58:51,118] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:58:51,119] {logging_mixin.py:109} INFO - [2022-02-14 10:58:51,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:58:51,139] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:58:51,156] {logging_mixin.py:109} INFO - [2022-02-14 10:58:51,156] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:58:51,173] {logging_mixin.py:109} INFO - [2022-02-14 10:58:51,173] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:58:51,173] {logging_mixin.py:109} INFO - [2022-02-14 10:58:51,173] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:58:51,196] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 10:59:32,698] {processor.py:163} INFO - Started process (PID=9724) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:59:32,699] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 10:59:32,700] {logging_mixin.py:109} INFO - [2022-02-14 10:59:32,700] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:59:32,723] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 10:59:32,740] {logging_mixin.py:109} INFO - [2022-02-14 10:59:32,740] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 10:59:32,756] {logging_mixin.py:109} INFO - [2022-02-14 10:59:32,756] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 10:59:32,756] {logging_mixin.py:109} INFO - [2022-02-14 10:59:32,756] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 10:59:32,773] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.079 seconds
+[2022-02-14 11:00:19,614] {processor.py:163} INFO - Started process (PID=9771) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:00:19,617] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:00:19,618] {logging_mixin.py:109} INFO - [2022-02-14 11:00:19,617] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:00:19,647] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:00:19,675] {logging_mixin.py:109} INFO - [2022-02-14 11:00:19,674] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:00:19,706] {logging_mixin.py:109} INFO - [2022-02-14 11:00:19,705] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:00:19,707] {logging_mixin.py:109} INFO - [2022-02-14 11:00:19,707] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:00:19,732] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.122 seconds
+[2022-02-14 11:01:00,204] {processor.py:163} INFO - Started process (PID=9815) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:01:00,206] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:01:00,207] {logging_mixin.py:109} INFO - [2022-02-14 11:01:00,207] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:01:00,230] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:01:00,246] {logging_mixin.py:109} INFO - [2022-02-14 11:01:00,246] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:01:00,263] {logging_mixin.py:109} INFO - [2022-02-14 11:01:00,262] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:01:00,263] {logging_mixin.py:109} INFO - [2022-02-14 11:01:00,263] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:01:00,287] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.086 seconds
+[2022-02-14 11:01:50,901] {processor.py:163} INFO - Started process (PID=9873) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:01:50,910] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:01:50,910] {logging_mixin.py:109} INFO - [2022-02-14 11:01:50,910] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:01:50,927] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:01:50,940] {logging_mixin.py:109} INFO - [2022-02-14 11:01:50,940] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:01:50,954] {logging_mixin.py:109} INFO - [2022-02-14 11:01:50,954] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:01:50,955] {logging_mixin.py:109} INFO - [2022-02-14 11:01:50,955] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:01:50,976] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.077 seconds
+[2022-02-14 11:02:28,521] {processor.py:163} INFO - Started process (PID=9915) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:02:28,530] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:02:28,531] {logging_mixin.py:109} INFO - [2022-02-14 11:02:28,530] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:02:28,555] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:02:28,570] {logging_mixin.py:109} INFO - [2022-02-14 11:02:28,570] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:02:28,585] {logging_mixin.py:109} INFO - [2022-02-14 11:02:28,584] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:02:28,585] {logging_mixin.py:109} INFO - [2022-02-14 11:02:28,585] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:02:28,606] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.088 seconds
+[2022-02-14 11:03:05,820] {processor.py:163} INFO - Started process (PID=9957) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:03:05,829] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:03:05,830] {logging_mixin.py:109} INFO - [2022-02-14 11:03:05,829] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:03:05,852] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:03:05,868] {logging_mixin.py:109} INFO - [2022-02-14 11:03:05,868] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:03:05,886] {logging_mixin.py:109} INFO - [2022-02-14 11:03:05,885] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:03:05,886] {logging_mixin.py:109} INFO - [2022-02-14 11:03:05,886] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:03:05,904] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.087 seconds
+[2022-02-14 11:03:45,295] {processor.py:163} INFO - Started process (PID=10001) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:03:45,296] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:03:45,297] {logging_mixin.py:109} INFO - [2022-02-14 11:03:45,297] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:03:45,317] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:03:45,333] {logging_mixin.py:109} INFO - [2022-02-14 11:03:45,333] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:03:45,350] {logging_mixin.py:109} INFO - [2022-02-14 11:03:45,350] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:03:45,351] {logging_mixin.py:109} INFO - [2022-02-14 11:03:45,351] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:03:45,373] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.081 seconds
+[2022-02-14 11:04:25,514] {processor.py:163} INFO - Started process (PID=10045) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:04:25,523] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:04:25,524] {logging_mixin.py:109} INFO - [2022-02-14 11:04:25,524] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:04:25,545] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:04:25,556] {logging_mixin.py:109} INFO - [2022-02-14 11:04:25,556] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:04:25,569] {logging_mixin.py:109} INFO - [2022-02-14 11:04:25,569] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:04:25,570] {logging_mixin.py:109} INFO - [2022-02-14 11:04:25,569] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:04:25,585] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.074 seconds
+[2022-02-14 11:05:11,532] {processor.py:163} INFO - Started process (PID=10099) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:05:11,541] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:05:11,542] {logging_mixin.py:109} INFO - [2022-02-14 11:05:11,542] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:05:11,568] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:05:11,582] {logging_mixin.py:109} INFO - [2022-02-14 11:05:11,582] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:05:11,599] {logging_mixin.py:109} INFO - [2022-02-14 11:05:11,599] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:05:11,600] {logging_mixin.py:109} INFO - [2022-02-14 11:05:11,600] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:05:11,616] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.087 seconds
+[2022-02-14 11:05:52,917] {processor.py:163} INFO - Started process (PID=10145) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:05:52,926] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:05:52,927] {logging_mixin.py:109} INFO - [2022-02-14 11:05:52,927] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:05:52,946] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:05:52,957] {logging_mixin.py:109} INFO - [2022-02-14 11:05:52,957] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:05:52,969] {logging_mixin.py:109} INFO - [2022-02-14 11:05:52,969] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:05:52,969] {logging_mixin.py:109} INFO - [2022-02-14 11:05:52,969] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:05:52,989] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.074 seconds
+[2022-02-14 11:06:43,600] {processor.py:163} INFO - Started process (PID=10196) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:06:43,603] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:06:43,605] {logging_mixin.py:109} INFO - [2022-02-14 11:06:43,605] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:06:43,637] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:06:43,654] {logging_mixin.py:109} INFO - [2022-02-14 11:06:43,654] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:06:43,670] {logging_mixin.py:109} INFO - [2022-02-14 11:06:43,670] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:06:43,670] {logging_mixin.py:109} INFO - [2022-02-14 11:06:43,670] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:06:43,690] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.094 seconds
+[2022-02-14 11:07:25,284] {processor.py:163} INFO - Started process (PID=10248) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:07:25,286] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:07:25,287] {logging_mixin.py:109} INFO - [2022-02-14 11:07:25,287] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:07:25,310] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:07:25,329] {logging_mixin.py:109} INFO - [2022-02-14 11:07:25,329] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:07:25,350] {logging_mixin.py:109} INFO - [2022-02-14 11:07:25,350] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:07:25,351] {logging_mixin.py:109} INFO - [2022-02-14 11:07:25,351] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:07:25,370] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.089 seconds
+[2022-02-14 11:08:10,785] {processor.py:163} INFO - Started process (PID=10295) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:08:10,787] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:08:10,787] {logging_mixin.py:109} INFO - [2022-02-14 11:08:10,787] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:08:10,812] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:08:10,825] {logging_mixin.py:109} INFO - [2022-02-14 11:08:10,825] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:08:10,842] {logging_mixin.py:109} INFO - [2022-02-14 11:08:10,841] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:08:10,843] {logging_mixin.py:109} INFO - [2022-02-14 11:08:10,843] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:08:10,864] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.082 seconds
+[2022-02-14 11:08:51,050] {processor.py:163} INFO - Started process (PID=10338) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:08:51,059] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:08:51,060] {logging_mixin.py:109} INFO - [2022-02-14 11:08:51,060] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:08:51,080] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:08:51,093] {logging_mixin.py:109} INFO - [2022-02-14 11:08:51,093] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:08:51,106] {logging_mixin.py:109} INFO - [2022-02-14 11:08:51,106] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:08:51,106] {logging_mixin.py:109} INFO - [2022-02-14 11:08:51,106] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:08:51,121] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.074 seconds
+[2022-02-14 11:09:31,589] {processor.py:163} INFO - Started process (PID=10383) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:09:31,590] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:09:31,591] {logging_mixin.py:109} INFO - [2022-02-14 11:09:31,591] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:09:31,612] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:09:31,624] {logging_mixin.py:109} INFO - [2022-02-14 11:09:31,624] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:09:31,646] {logging_mixin.py:109} INFO - [2022-02-14 11:09:31,646] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:09:31,647] {logging_mixin.py:109} INFO - [2022-02-14 11:09:31,647] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:09:31,665] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.079 seconds
+[2022-02-14 11:10:22,136] {processor.py:163} INFO - Started process (PID=10440) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:10:22,137] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:10:22,138] {logging_mixin.py:109} INFO - [2022-02-14 11:10:22,137] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:10:22,162] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:10:22,178] {logging_mixin.py:109} INFO - [2022-02-14 11:10:22,178] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:10:22,194] {logging_mixin.py:109} INFO - [2022-02-14 11:10:22,194] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:10:22,195] {logging_mixin.py:109} INFO - [2022-02-14 11:10:22,195] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:10:22,212] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.079 seconds
+[2022-02-14 11:11:05,727] {processor.py:163} INFO - Started process (PID=10494) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:11:05,729] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:11:05,729] {logging_mixin.py:109} INFO - [2022-02-14 11:11:05,729] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:11:05,748] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:11:05,760] {logging_mixin.py:109} INFO - [2022-02-14 11:11:05,760] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:11:05,772] {logging_mixin.py:109} INFO - [2022-02-14 11:11:05,772] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:11:05,772] {logging_mixin.py:109} INFO - [2022-02-14 11:11:05,772] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:11:05,787] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.062 seconds
+[2022-02-14 11:11:52,985] {processor.py:163} INFO - Started process (PID=10544) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:11:52,987] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-14 11:11:52,987] {logging_mixin.py:109} INFO - [2022-02-14 11:11:52,987] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:11:53,009] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-14 11:11:53,024] {logging_mixin.py:109} INFO - [2022-02-14 11:11:53,024] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-14 11:11:53,041] {logging_mixin.py:109} INFO - [2022-02-14 11:11:53,040] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-14 11:11:53,041] {logging_mixin.py:109} INFO - [2022-02-14 11:11:53,041] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-14 11:11:53,059] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.076 seconds

@@ -1,0 +1,595 @@
+[2022-02-14 09:22:53,122] {processor.py:163} INFO - Started process (PID=4117) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:22:53,124] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:22:53,125] {logging_mixin.py:109} INFO - [2022-02-14 09:22:53,125] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:22:53,145] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:22:53,152] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-02-14 09:23:31,638] {processor.py:163} INFO - Started process (PID=4149) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:23:31,640] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:23:31,641] {logging_mixin.py:109} INFO - [2022-02-14 09:23:31,641] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:23:31,659] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:23:31,663] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-02-14 09:24:06,158] {processor.py:163} INFO - Started process (PID=4181) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:24:06,166] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:24:06,167] {logging_mixin.py:109} INFO - [2022-02-14 09:24:06,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:24:06,177] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:24:06,180] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 09:24:39,229] {processor.py:163} INFO - Started process (PID=4213) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:24:39,230] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:24:39,231] {logging_mixin.py:109} INFO - [2022-02-14 09:24:39,231] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:24:39,244] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:24:39,248] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 09:25:16,855] {processor.py:163} INFO - Started process (PID=4245) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:25:16,857] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:25:16,857] {logging_mixin.py:109} INFO - [2022-02-14 09:25:16,857] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:25:16,870] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:25:16,874] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 09:55:54,238] {processor.py:163} INFO - Started process (PID=4951) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:55:54,240] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:55:54,240] {logging_mixin.py:109} INFO - [2022-02-14 09:55:54,240] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:55:54,254] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:55:54,257] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 09:56:29,848] {processor.py:163} INFO - Started process (PID=4985) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:56:29,850] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:56:29,851] {logging_mixin.py:109} INFO - [2022-02-14 09:56:29,851] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:56:29,877] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:56:29,884] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2022-02-14 09:57:06,109] {processor.py:163} INFO - Started process (PID=5017) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:57:06,112] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:57:06,113] {logging_mixin.py:109} INFO - [2022-02-14 09:57:06,112] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:57:06,123] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:57:06,125] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 09:58:01,288] {processor.py:163} INFO - Started process (PID=5071) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:58:01,297] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:58:01,298] {logging_mixin.py:109} INFO - [2022-02-14 09:58:01,298] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:58:01,309] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:58:01,312] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 09:58:35,769] {processor.py:163} INFO - Started process (PID=5103) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:58:35,772] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:58:35,773] {logging_mixin.py:109} INFO - [2022-02-14 09:58:35,773] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:58:35,789] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:58:35,791] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2022-02-14 09:59:10,933] {processor.py:163} INFO - Started process (PID=5135) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:59:10,934] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:59:10,935] {logging_mixin.py:109} INFO - [2022-02-14 09:59:10,935] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:59:10,946] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:59:10,950] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-02-14 09:59:44,022] {processor.py:163} INFO - Started process (PID=5167) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:59:44,024] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 09:59:44,024] {logging_mixin.py:109} INFO - [2022-02-14 09:59:44,024] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:59:44,038] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 09:59:44,040] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-02-14 10:00:19,767] {processor.py:163} INFO - Started process (PID=5201) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:00:19,769] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:00:19,770] {logging_mixin.py:109} INFO - [2022-02-14 10:00:19,770] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:00:19,786] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:00:19,791] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-02-14 10:00:55,977] {processor.py:163} INFO - Started process (PID=5237) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:00:55,980] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:00:55,980] {logging_mixin.py:109} INFO - [2022-02-14 10:00:55,980] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:00:55,991] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:00:55,994] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 10:01:29,453] {processor.py:163} INFO - Started process (PID=5268) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:01:29,461] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:01:29,462] {logging_mixin.py:109} INFO - [2022-02-14 10:01:29,462] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:01:29,474] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:01:29,477] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 10:02:07,595] {processor.py:163} INFO - Started process (PID=5305) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:02:07,597] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:02:07,597] {logging_mixin.py:109} INFO - [2022-02-14 10:02:07,597] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:02:07,611] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:02:07,614] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2022-02-14 10:02:43,842] {processor.py:163} INFO - Started process (PID=5337) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:02:43,846] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:02:43,846] {logging_mixin.py:109} INFO - [2022-02-14 10:02:43,846] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:02:43,857] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:02:43,859] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 10:03:19,699] {processor.py:163} INFO - Started process (PID=5370) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:03:19,700] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:03:19,701] {logging_mixin.py:109} INFO - [2022-02-14 10:03:19,701] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:03:19,719] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:03:19,722] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-02-14 10:03:59,815] {processor.py:163} INFO - Started process (PID=5405) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:03:59,816] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:03:59,817] {logging_mixin.py:109} INFO - [2022-02-14 10:03:59,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:03:59,831] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:03:59,835] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2022-02-14 10:04:35,162] {processor.py:163} INFO - Started process (PID=5438) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:04:35,171] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:04:35,172] {logging_mixin.py:109} INFO - [2022-02-14 10:04:35,172] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:04:35,188] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:04:35,192] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-02-14 10:05:16,458] {processor.py:163} INFO - Started process (PID=5474) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:05:16,461] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:05:16,462] {logging_mixin.py:109} INFO - [2022-02-14 10:05:16,462] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:05:16,472] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:05:16,474] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:06:06,613] {processor.py:163} INFO - Started process (PID=5520) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:06:06,616] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:06:06,616] {logging_mixin.py:109} INFO - [2022-02-14 10:06:06,616] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:06:06,629] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:06:06,631] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 10:06:42,678] {processor.py:163} INFO - Started process (PID=5554) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:06:42,687] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:06:42,688] {logging_mixin.py:109} INFO - [2022-02-14 10:06:42,688] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:06:42,700] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:06:42,703] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-02-14 10:07:21,355] {processor.py:163} INFO - Started process (PID=5591) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:07:21,363] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:07:21,363] {logging_mixin.py:109} INFO - [2022-02-14 10:07:21,363] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:07:21,373] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:07:21,375] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:08:01,133] {processor.py:163} INFO - Started process (PID=5630) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:08:01,135] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:08:01,136] {logging_mixin.py:109} INFO - [2022-02-14 10:08:01,136] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:08:01,150] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:08:01,153] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:08:40,743] {processor.py:163} INFO - Started process (PID=5671) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:08:40,744] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:08:40,745] {logging_mixin.py:109} INFO - [2022-02-14 10:08:40,745] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:08:40,754] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:08:40,757] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-02-14 10:09:15,995] {processor.py:163} INFO - Started process (PID=5704) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:09:16,005] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:09:16,007] {logging_mixin.py:109} INFO - [2022-02-14 10:09:16,005] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:09:16,028] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:09:16,033] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2022-02-14 10:09:56,724] {processor.py:163} INFO - Started process (PID=5741) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:09:56,725] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:09:56,726] {logging_mixin.py:109} INFO - [2022-02-14 10:09:56,726] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:09:56,738] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:09:56,741] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-02-14 10:10:32,033] {processor.py:163} INFO - Started process (PID=6157) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:10:32,038] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:10:32,041] {logging_mixin.py:109} INFO - [2022-02-14 10:10:32,040] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:10:32,065] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:10:32,069] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2022-02-14 10:11:09,685] {processor.py:163} INFO - Started process (PID=6191) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:11:09,686] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:11:09,687] {logging_mixin.py:109} INFO - [2022-02-14 10:11:09,687] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:11:09,700] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:11:09,703] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 10:12:01,299] {processor.py:163} INFO - Started process (PID=6251) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:12:01,301] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:12:01,302] {logging_mixin.py:109} INFO - [2022-02-14 10:12:01,302] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:12:01,329] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:12:01,333] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2022-02-14 10:12:47,666] {processor.py:163} INFO - Started process (PID=6297) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:12:47,676] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:12:47,678] {logging_mixin.py:109} INFO - [2022-02-14 10:12:47,677] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:12:47,707] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:12:47,721] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2022-02-14 10:13:35,536] {processor.py:163} INFO - Started process (PID=6361) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:13:35,538] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:13:35,539] {logging_mixin.py:109} INFO - [2022-02-14 10:13:35,539] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:13:35,552] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:13:35,555] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 10:14:16,163] {processor.py:163} INFO - Started process (PID=6423) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:14:16,165] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:14:16,166] {logging_mixin.py:109} INFO - [2022-02-14 10:14:16,166] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:14:16,181] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:14:16,184] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:14:57,195] {processor.py:163} INFO - Started process (PID=6466) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:14:57,203] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:14:57,204] {logging_mixin.py:109} INFO - [2022-02-14 10:14:57,204] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:14:57,213] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:14:57,216] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:15:36,921] {processor.py:163} INFO - Started process (PID=6514) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:15:36,923] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:15:36,924] {logging_mixin.py:109} INFO - [2022-02-14 10:15:36,923] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:15:36,937] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:15:36,940] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2022-02-14 10:16:23,681] {processor.py:163} INFO - Started process (PID=6582) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:16:23,683] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:16:23,684] {logging_mixin.py:109} INFO - [2022-02-14 10:16:23,683] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:16:23,695] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:16:23,700] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 10:17:05,415] {processor.py:163} INFO - Started process (PID=6625) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:17:05,417] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:17:05,418] {logging_mixin.py:109} INFO - [2022-02-14 10:17:05,417] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:17:05,431] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:17:05,435] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:17:48,581] {processor.py:163} INFO - Started process (PID=6678) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:17:48,584] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:17:48,587] {logging_mixin.py:109} INFO - [2022-02-14 10:17:48,586] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:17:48,618] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:17:48,625] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2022-02-14 10:18:34,350] {processor.py:163} INFO - Started process (PID=6724) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:18:34,351] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:18:34,352] {logging_mixin.py:109} INFO - [2022-02-14 10:18:34,352] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:18:34,366] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:18:34,369] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 10:19:13,601] {processor.py:163} INFO - Started process (PID=6766) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:19:13,603] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:19:13,603] {logging_mixin.py:109} INFO - [2022-02-14 10:19:13,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:19:13,616] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:19:13,619] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-02-14 10:19:50,797] {processor.py:163} INFO - Started process (PID=6808) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:19:50,806] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:19:50,806] {logging_mixin.py:109} INFO - [2022-02-14 10:19:50,806] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:19:50,818] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:19:50,820] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 10:20:29,571] {processor.py:163} INFO - Started process (PID=6851) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:20:29,580] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:20:29,581] {logging_mixin.py:109} INFO - [2022-02-14 10:20:29,580] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:20:29,598] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:20:29,601] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2022-02-14 10:21:09,029] {processor.py:163} INFO - Started process (PID=6895) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:21:09,039] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:21:09,040] {logging_mixin.py:109} INFO - [2022-02-14 10:21:09,040] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:21:09,057] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:21:09,060] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-02-14 10:21:49,778] {processor.py:163} INFO - Started process (PID=6947) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:21:49,780] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:21:49,781] {logging_mixin.py:109} INFO - [2022-02-14 10:21:49,781] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:21:49,791] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:21:49,794] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 10:22:33,844] {processor.py:163} INFO - Started process (PID=7002) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:22:33,845] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:22:33,846] {logging_mixin.py:109} INFO - [2022-02-14 10:22:33,846] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:22:33,858] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:22:33,860] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:23:12,617] {processor.py:163} INFO - Started process (PID=7042) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:23:12,625] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:23:12,626] {logging_mixin.py:109} INFO - [2022-02-14 10:23:12,626] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:23:12,638] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:23:12,642] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-02-14 10:23:57,589] {processor.py:163} INFO - Started process (PID=7099) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:23:57,598] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:23:57,598] {logging_mixin.py:109} INFO - [2022-02-14 10:23:57,598] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:23:57,609] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:23:57,612] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 10:24:34,883] {processor.py:163} INFO - Started process (PID=7141) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:24:34,885] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:24:34,885] {logging_mixin.py:109} INFO - [2022-02-14 10:24:34,885] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:24:34,900] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:24:34,903] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 10:25:15,750] {processor.py:163} INFO - Started process (PID=7184) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:25:15,763] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:25:15,767] {logging_mixin.py:109} INFO - [2022-02-14 10:25:15,766] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:25:15,798] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:25:15,802] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.057 seconds
+[2022-02-14 10:25:55,235] {processor.py:163} INFO - Started process (PID=7224) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:25:55,236] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:25:55,237] {logging_mixin.py:109} INFO - [2022-02-14 10:25:55,237] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:25:55,248] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:25:55,250] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:26:32,122] {processor.py:163} INFO - Started process (PID=7264) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:26:32,124] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:26:32,125] {logging_mixin.py:109} INFO - [2022-02-14 10:26:32,124] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:26:32,137] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:26:32,139] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-02-14 10:27:13,004] {processor.py:163} INFO - Started process (PID=7308) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:27:13,013] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:27:13,014] {logging_mixin.py:109} INFO - [2022-02-14 10:27:13,014] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:27:13,028] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:27:13,031] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-02-14 10:27:56,157] {processor.py:163} INFO - Started process (PID=7360) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:27:56,158] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:27:56,159] {logging_mixin.py:109} INFO - [2022-02-14 10:27:56,159] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:27:56,171] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:27:56,173] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 10:28:38,168] {processor.py:163} INFO - Started process (PID=7405) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:28:38,171] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:28:38,171] {logging_mixin.py:109} INFO - [2022-02-14 10:28:38,171] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:28:38,184] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:28:38,187] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 10:29:19,411] {processor.py:163} INFO - Started process (PID=7449) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:29:19,413] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:29:19,414] {logging_mixin.py:109} INFO - [2022-02-14 10:29:19,414] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:29:19,428] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:29:19,431] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2022-02-14 10:30:01,060] {processor.py:163} INFO - Started process (PID=7493) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:30:01,062] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:30:01,064] {logging_mixin.py:109} INFO - [2022-02-14 10:30:01,063] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:30:01,090] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:30:01,098] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2022-02-14 10:30:44,620] {processor.py:163} INFO - Started process (PID=7541) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:30:44,629] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:30:44,629] {logging_mixin.py:109} INFO - [2022-02-14 10:30:44,629] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:30:44,640] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:30:44,643] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2022-02-14 10:31:20,273] {processor.py:163} INFO - Started process (PID=7581) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:31:20,282] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:31:20,283] {logging_mixin.py:109} INFO - [2022-02-14 10:31:20,283] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:31:20,298] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:31:20,302] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-02-14 10:32:00,355] {processor.py:163} INFO - Started process (PID=7624) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:32:00,364] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:32:00,365] {logging_mixin.py:109} INFO - [2022-02-14 10:32:00,365] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:32:00,380] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:32:00,383] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-02-14 10:32:39,039] {processor.py:163} INFO - Started process (PID=7667) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:32:39,047] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:32:39,048] {logging_mixin.py:109} INFO - [2022-02-14 10:32:39,048] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:32:39,058] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:32:39,061] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2022-02-14 10:33:19,689] {processor.py:163} INFO - Started process (PID=7710) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:33:19,697] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:33:19,698] {logging_mixin.py:109} INFO - [2022-02-14 10:33:19,698] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:33:19,707] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:33:19,710] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:33:57,180] {processor.py:163} INFO - Started process (PID=7752) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:33:57,181] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:33:57,182] {logging_mixin.py:109} INFO - [2022-02-14 10:33:57,182] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:33:57,193] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:33:57,196] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:34:39,291] {processor.py:163} INFO - Started process (PID=7803) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:34:39,293] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:34:39,294] {logging_mixin.py:109} INFO - [2022-02-14 10:34:39,293] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:34:39,309] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:34:39,315] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 10:35:21,276] {processor.py:163} INFO - Started process (PID=7848) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:35:21,285] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:35:21,286] {logging_mixin.py:109} INFO - [2022-02-14 10:35:21,285] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:35:21,297] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:35:21,299] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 10:36:00,557] {processor.py:163} INFO - Started process (PID=7890) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:36:00,565] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:36:00,566] {logging_mixin.py:109} INFO - [2022-02-14 10:36:00,566] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:36:00,579] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:36:00,582] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-02-14 10:36:43,437] {processor.py:163} INFO - Started process (PID=7935) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:36:43,439] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:36:43,439] {logging_mixin.py:109} INFO - [2022-02-14 10:36:43,439] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:36:43,451] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:36:43,453] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:37:24,411] {processor.py:163} INFO - Started process (PID=7987) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:37:24,413] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:37:24,413] {logging_mixin.py:109} INFO - [2022-02-14 10:37:24,413] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:37:24,423] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:37:24,426] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-02-14 10:38:02,964] {processor.py:163} INFO - Started process (PID=8030) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:38:02,973] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:38:02,973] {logging_mixin.py:109} INFO - [2022-02-14 10:38:02,973] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:38:02,986] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:38:02,989] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-02-14 10:38:49,516] {processor.py:163} INFO - Started process (PID=8077) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:38:49,518] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:38:49,519] {logging_mixin.py:109} INFO - [2022-02-14 10:38:49,519] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:38:49,532] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:38:49,535] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 10:39:40,422] {processor.py:163} INFO - Started process (PID=8135) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:39:40,424] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:39:40,425] {logging_mixin.py:109} INFO - [2022-02-14 10:39:40,425] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:39:40,439] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:39:40,442] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:40:19,940] {processor.py:163} INFO - Started process (PID=8178) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:40:19,949] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:40:19,949] {logging_mixin.py:109} INFO - [2022-02-14 10:40:19,949] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:40:19,959] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:40:19,961] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:40:59,234] {processor.py:163} INFO - Started process (PID=8223) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:40:59,243] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:40:59,244] {logging_mixin.py:109} INFO - [2022-02-14 10:40:59,244] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:40:59,256] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:40:59,260] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-02-14 10:41:34,348] {processor.py:163} INFO - Started process (PID=8263) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:41:34,350] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:41:34,350] {logging_mixin.py:109} INFO - [2022-02-14 10:41:34,350] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:41:34,361] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:41:34,364] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:42:28,253] {processor.py:163} INFO - Started process (PID=8338) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:42:28,254] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:42:28,255] {logging_mixin.py:109} INFO - [2022-02-14 10:42:28,255] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:42:28,265] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:42:28,267] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2022-02-14 10:43:12,669] {processor.py:163} INFO - Started process (PID=8394) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:43:12,673] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:43:12,674] {logging_mixin.py:109} INFO - [2022-02-14 10:43:12,674] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:43:12,687] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:43:12,689] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:43:54,913] {processor.py:163} INFO - Started process (PID=8439) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:43:54,922] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:43:54,923] {logging_mixin.py:109} INFO - [2022-02-14 10:43:54,923] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:43:54,934] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:43:54,937] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 10:44:34,210] {processor.py:163} INFO - Started process (PID=8598) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:44:34,212] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:44:34,213] {logging_mixin.py:109} INFO - [2022-02-14 10:44:34,213] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:44:34,226] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:44:34,228] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-02-14 10:45:12,010] {processor.py:163} INFO - Started process (PID=8640) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:45:12,012] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:45:12,013] {logging_mixin.py:109} INFO - [2022-02-14 10:45:12,013] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:45:12,027] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:45:12,030] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 10:45:54,221] {processor.py:163} INFO - Started process (PID=8684) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:45:54,230] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:45:54,231] {logging_mixin.py:109} INFO - [2022-02-14 10:45:54,231] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:45:54,244] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:45:54,247] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-02-14 10:46:37,927] {processor.py:163} INFO - Started process (PID=8729) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:46:37,936] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:46:37,936] {logging_mixin.py:109} INFO - [2022-02-14 10:46:37,936] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:46:37,947] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:46:37,949] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2022-02-14 10:47:20,903] {processor.py:163} INFO - Started process (PID=8781) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:47:20,906] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:47:20,907] {logging_mixin.py:109} INFO - [2022-02-14 10:47:20,907] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:47:20,918] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:47:20,920] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 10:48:01,765] {processor.py:163} INFO - Started process (PID=8824) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:48:01,768] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:48:01,769] {logging_mixin.py:109} INFO - [2022-02-14 10:48:01,769] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:48:01,781] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:48:01,785] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 10:48:45,314] {processor.py:163} INFO - Started process (PID=8880) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:48:45,323] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:48:45,324] {logging_mixin.py:109} INFO - [2022-02-14 10:48:45,324] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:48:45,335] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:48:45,339] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-02-14 10:49:35,315] {processor.py:163} INFO - Started process (PID=8945) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:49:35,317] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:49:35,318] {logging_mixin.py:109} INFO - [2022-02-14 10:49:35,318] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:49:35,344] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:49:35,351] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2022-02-14 10:50:23,099] {processor.py:163} INFO - Started process (PID=9002) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:50:23,100] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:50:23,101] {logging_mixin.py:109} INFO - [2022-02-14 10:50:23,100] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:50:23,112] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:50:23,115] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:51:10,497] {processor.py:163} INFO - Started process (PID=9058) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:51:10,498] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:51:10,499] {logging_mixin.py:109} INFO - [2022-02-14 10:51:10,499] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:51:10,515] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:51:10,520] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 10:51:50,110] {processor.py:163} INFO - Started process (PID=9099) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:51:50,112] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:51:50,113] {logging_mixin.py:109} INFO - [2022-02-14 10:51:50,113] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:51:50,129] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:51:50,134] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-02-14 10:52:29,353] {processor.py:163} INFO - Started process (PID=9142) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:52:29,355] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:52:29,355] {logging_mixin.py:109} INFO - [2022-02-14 10:52:29,355] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:52:29,367] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:52:29,369] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:53:10,947] {processor.py:163} INFO - Started process (PID=9193) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:53:10,948] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:53:10,949] {logging_mixin.py:109} INFO - [2022-02-14 10:53:10,949] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:53:10,959] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:53:10,962] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 10:53:46,083] {processor.py:163} INFO - Started process (PID=9233) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:53:46,085] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:53:46,086] {logging_mixin.py:109} INFO - [2022-02-14 10:53:46,086] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:53:46,099] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:53:46,102] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2022-02-14 10:54:23,387] {processor.py:163} INFO - Started process (PID=9274) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:54:23,388] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:54:23,389] {logging_mixin.py:109} INFO - [2022-02-14 10:54:23,389] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:54:23,401] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:54:23,404] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 10:55:07,206] {processor.py:163} INFO - Started process (PID=9320) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:55:07,209] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:55:07,210] {logging_mixin.py:109} INFO - [2022-02-14 10:55:07,210] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:55:07,224] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:55:07,227] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 10:55:46,987] {processor.py:163} INFO - Started process (PID=9363) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:55:46,989] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:55:46,990] {logging_mixin.py:109} INFO - [2022-02-14 10:55:46,989] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:55:47,002] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:55:47,004] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2022-02-14 10:56:33,956] {processor.py:163} INFO - Started process (PID=9413) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:56:33,965] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:56:33,966] {logging_mixin.py:109} INFO - [2022-02-14 10:56:33,966] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:56:33,977] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:56:33,979] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2022-02-14 10:57:12,459] {processor.py:163} INFO - Started process (PID=9458) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:57:12,467] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:57:12,468] {logging_mixin.py:109} INFO - [2022-02-14 10:57:12,468] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:57:12,478] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:57:12,480] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 10:57:50,473] {processor.py:163} INFO - Started process (PID=9609) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:57:50,474] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:57:50,475] {logging_mixin.py:109} INFO - [2022-02-14 10:57:50,475] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:57:50,485] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:57:50,487] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2022-02-14 10:58:29,947] {processor.py:163} INFO - Started process (PID=9651) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:58:29,955] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:58:29,956] {logging_mixin.py:109} INFO - [2022-02-14 10:58:29,956] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:58:29,964] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:58:29,967] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2022-02-14 10:59:02,654] {processor.py:163} INFO - Started process (PID=9689) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:59:02,664] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:59:02,665] {logging_mixin.py:109} INFO - [2022-02-14 10:59:02,664] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:59:02,677] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:59:02,680] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-02-14 10:59:37,861] {processor.py:163} INFO - Started process (PID=9728) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:59:37,870] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 10:59:37,870] {logging_mixin.py:109} INFO - [2022-02-14 10:59:37,870] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:59:37,882] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 10:59:37,885] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 11:00:16,001] {processor.py:163} INFO - Started process (PID=9768) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:00:16,003] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:00:16,004] {logging_mixin.py:109} INFO - [2022-02-14 11:00:16,004] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:00:16,017] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:00:16,021] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2022-02-14 11:00:54,851] {processor.py:163} INFO - Started process (PID=9810) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:00:54,860] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:00:54,861] {logging_mixin.py:109} INFO - [2022-02-14 11:00:54,861] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:00:54,874] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:00:54,879] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-02-14 11:01:33,190] {processor.py:163} INFO - Started process (PID=9850) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:01:33,199] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:01:33,200] {logging_mixin.py:109} INFO - [2022-02-14 11:01:33,200] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:01:33,211] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:01:33,213] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2022-02-14 11:02:13,582] {processor.py:163} INFO - Started process (PID=9900) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:02:13,584] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:02:13,585] {logging_mixin.py:109} INFO - [2022-02-14 11:02:13,585] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:02:13,600] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:02:13,603] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 11:02:47,926] {processor.py:163} INFO - Started process (PID=9940) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:02:47,928] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:02:47,929] {logging_mixin.py:109} INFO - [2022-02-14 11:02:47,928] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:02:47,944] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:02:47,948] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 11:03:23,470] {processor.py:163} INFO - Started process (PID=9980) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:03:23,472] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:03:23,473] {logging_mixin.py:109} INFO - [2022-02-14 11:03:23,473] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:03:23,485] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:03:23,488] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 11:04:00,152] {processor.py:163} INFO - Started process (PID=10021) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:04:00,155] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:04:00,155] {logging_mixin.py:109} INFO - [2022-02-14 11:04:00,155] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:04:00,168] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:04:00,170] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2022-02-14 11:04:39,405] {processor.py:163} INFO - Started process (PID=10063) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:04:39,414] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:04:39,415] {logging_mixin.py:109} INFO - [2022-02-14 11:04:39,415] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:04:39,426] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:04:39,429] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2022-02-14 11:05:18,251] {processor.py:163} INFO - Started process (PID=10105) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:05:18,259] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:05:18,260] {logging_mixin.py:109} INFO - [2022-02-14 11:05:18,260] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:05:18,274] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:05:18,276] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-02-14 11:05:56,291] {processor.py:163} INFO - Started process (PID=10148) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:05:56,300] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:05:56,300] {logging_mixin.py:109} INFO - [2022-02-14 11:05:56,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:05:56,312] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:05:56,314] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-02-14 11:06:37,678] {processor.py:163} INFO - Started process (PID=10190) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:06:37,686] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:06:37,687] {logging_mixin.py:109} INFO - [2022-02-14 11:06:37,686] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:06:37,699] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:06:37,702] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2022-02-14 11:07:13,928] {processor.py:163} INFO - Started process (PID=10231) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:07:13,937] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:07:13,938] {logging_mixin.py:109} INFO - [2022-02-14 11:07:13,938] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:07:13,954] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:07:13,958] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2022-02-14 11:07:48,980] {processor.py:163} INFO - Started process (PID=10270) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:07:48,981] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:07:48,982] {logging_mixin.py:109} INFO - [2022-02-14 11:07:48,982] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:07:48,998] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:07:49,001] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 11:08:25,641] {processor.py:163} INFO - Started process (PID=10309) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:08:25,650] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:08:25,650] {logging_mixin.py:109} INFO - [2022-02-14 11:08:25,650] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:08:25,664] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:08:25,666] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2022-02-14 11:09:06,005] {processor.py:163} INFO - Started process (PID=10359) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:09:06,007] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:09:06,007] {logging_mixin.py:109} INFO - [2022-02-14 11:09:06,007] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:09:06,020] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:09:06,022] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 11:09:44,371] {processor.py:163} INFO - Started process (PID=10401) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:09:44,373] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:09:44,374] {logging_mixin.py:109} INFO - [2022-02-14 11:09:44,374] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:09:44,385] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:09:44,387] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2022-02-14 11:10:29,290] {processor.py:163} INFO - Started process (PID=10446) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:10:29,293] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:10:29,293] {logging_mixin.py:109} INFO - [2022-02-14 11:10:29,293] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:10:29,303] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:10:29,305] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2022-02-14 11:11:12,431] {processor.py:163} INFO - Started process (PID=10499) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:11:12,433] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:11:12,434] {logging_mixin.py:109} INFO - [2022-02-14 11:11:12,434] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:11:12,448] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:11:12,453] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2022-02-14 11:11:59,661] {processor.py:163} INFO - Started process (PID=10556) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:11:59,663] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-02-14 11:11:59,664] {logging_mixin.py:109} INFO - [2022-02-14 11:11:59,664] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:11:59,675] {processor.py:656} WARNING - No viable dags retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-02-14 11:11:59,677] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds

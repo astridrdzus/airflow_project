@@ -1,0 +1,119 @@
+[2022-02-14 10:48:55,891] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: credit_card_dag.etl manual__2022-02-14T16:47:03.214936+00:00 [queued]>
+[2022-02-14 10:48:55,900] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: credit_card_dag.etl manual__2022-02-14T16:47:03.214936+00:00 [queued]>
+[2022-02-14 10:48:55,900] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 10:48:55,900] {taskinstance.py:1239} INFO - Starting attempt 2 of 2
+[2022-02-14 10:48:55,900] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 10:48:55,919] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): etl> on 2022-02-14 16:47:03.214936+00:00
+[2022-02-14 10:48:55,922] {standard_task_runner.py:52} INFO - Started process 8897 to run task
+[2022-02-14 10:48:55,925] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'credit_card_dag', 'etl', 'manual__2022-02-14T16:47:03.214936+00:00', '--job-id', '27', '--raw', '--subdir', 'DAGS_FOLDER/pipeline.py', '--cfg-path', '/tmp/tmpx3m79c8c', '--error-file', '/tmp/tmpfc6jqhmy']
+[2022-02-14 10:48:55,926] {standard_task_runner.py:77} INFO - Job 27: Subtask etl
+[2022-02-14 10:48:55,993] {logging_mixin.py:109} INFO - Running <TaskInstance: credit_card_dag.etl manual__2022-02-14T16:47:03.214936+00:00 [running]> on host LAPTOP-GCF7F7F0.localdomain
+[2022-02-14 10:48:56,042] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=credit_card_dag
+AIRFLOW_CTX_TASK_ID=etl
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-14T16:47:03.214936+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-02-14T16:47:03.214936+00:00
+[2022-02-14 10:48:56,269] {logging_mixin.py:109} INFO -     customer_id        customer_name  click_events       date
+0         23733     Stephanie Wilson             5 2004-12-01
+1         78182         Antonio Koch            10 2006-01-10
+2         78033        Angela Barker            11 2009-11-09
+3         13457        Dustin Wright             7 2010-05-26
+4         55013          Amy Vazquez             5 2012-11-21
+5         97220      Crystal Pearson            25 2013-04-08
+6         76568        Denise Barber            20 2013-06-06
+7         16734      Jennifer Howard            20 2013-10-09
+8         90926        Angela Chaney            26 2013-12-10
+9         71672     Jennifer Edwards             3 2014-04-14
+10        11165     Darlene Roberson            20 2015-08-10
+11        30463         Brandon Ford            10 2016-09-26
+12         8020             John Cox            27 2016-12-09
+13         4781           Mark Curry            10 2018-07-19
+14        44701        Dustin Hoover            25 2019-02-12
+15        94348          Larry Riley            13 2019-04-22
+16        33510  Adrienne Morris DDS            29 2019-07-11
+17        63444        Deanna Wilcox            24 2019-07-25
+18        74597          Joshua Cook            10 2019-11-13
+19        56151        Jasmine Davis            11 2020-01-22
+20        34213      Ashley Gonzalez             8 2020-08-14
+21        79383           Sean Mayer             5 2020-10-13
+22         8777      Brian Contreras             8 2021-01-25
+23        41703        Adam Jennings            24 2021-12-29
+24        58012        Timothy Burke            27 2022-02-17
+25        83940          Carlos Hill             5 2004-03-10
+26        43881          Robert Best            27 2004-08-31
+27        17243          Scott Weiss            12 2004-09-01
+28        96764           John Reese            12 2005-09-22
+29        80737         Ronald Avery            12 2022-01-31
+[2022-02-14 10:48:56,272] {logging_mixin.py:109} INFO - Opened database successfully
+[2022-02-14 10:48:56,273] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/astrid/airflow/dags/credit_card_etl.py", line 52, in extract_validate_load
+    df.to_sql("app_data", engine, index=False, if_exists='append')
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/core/generic.py", line 2963, in to_sql
+    return sql.to_sql(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/io/sql.py", line 697, in to_sql
+    return pandas_sql.to_sql(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/io/sql.py", line 1727, in to_sql
+    sql_engine = get_engine(engine)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/io/sql.py", line 1351, in get_engine
+    raise ImportError(
+ImportError: Unable to find a usable engine; tried using: 'sqlalchemy'.
+A suitable version of sqlalchemy is required for sql I/O support.
+Trying to import the above resulted in these errors:
+ - Pandas requires version '1.4.0' or newer of 'sqlalchemy' (version '1.3.24' currently installed).
+[2022-02-14 10:48:56,285] {taskinstance.py:1267} INFO - Marking task as FAILED. dag_id=credit_card_dag, task_id=etl, execution_date=20220214T164703, start_date=20220214T164855, end_date=20220214T164856
+[2022-02-14 10:48:56,303] {standard_task_runner.py:89} ERROR - Failed to execute job 27 for task etl
+Traceback (most recent call last):
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/astrid/airflow/dags/credit_card_etl.py", line 52, in extract_validate_load
+    df.to_sql("app_data", engine, index=False, if_exists='append')
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/core/generic.py", line 2963, in to_sql
+    return sql.to_sql(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/io/sql.py", line 697, in to_sql
+    return pandas_sql.to_sql(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/io/sql.py", line 1727, in to_sql
+    sql_engine = get_engine(engine)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/pandas/io/sql.py", line 1351, in get_engine
+    raise ImportError(
+ImportError: Unable to find a usable engine; tried using: 'sqlalchemy'.
+A suitable version of sqlalchemy is required for sql I/O support.
+Trying to import the above resulted in these errors:
+ - Pandas requires version '1.4.0' or newer of 'sqlalchemy' (version '1.3.24' currently installed).
+[2022-02-14 10:48:56,340] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-02-14 10:48:56,360] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,847 @@
+[2022-02-14 09:22:49,122] {processor.py:163} INFO - Started process (PID=4113) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:22:49,123] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:22:49,124] {logging_mixin.py:109} INFO - [2022-02-14 09:22:49,123] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:22:49,162] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:22:49,179] {logging_mixin.py:109} INFO - [2022-02-14 09:22:49,179] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:22:49,201] {logging_mixin.py:109} INFO - [2022-02-14 09:22:49,200] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:22:49,225] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.106 seconds
+[2022-02-14 09:23:26,262] {processor.py:163} INFO - Started process (PID=4145) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:23:26,263] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:23:26,264] {logging_mixin.py:109} INFO - [2022-02-14 09:23:26,264] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:23:26,295] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:23:26,313] {logging_mixin.py:109} INFO - [2022-02-14 09:23:26,313] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:23:26,335] {logging_mixin.py:109} INFO - [2022-02-14 09:23:26,335] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:23:26,357] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.099 seconds
+[2022-02-14 09:24:02,140] {processor.py:163} INFO - Started process (PID=4177) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:24:02,149] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:24:02,149] {logging_mixin.py:109} INFO - [2022-02-14 09:24:02,149] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:24:02,171] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:24:02,188] {logging_mixin.py:109} INFO - [2022-02-14 09:24:02,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:24:02,204] {logging_mixin.py:109} INFO - [2022-02-14 09:24:02,203] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:24:02,221] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2022-02-14 09:24:35,215] {processor.py:163} INFO - Started process (PID=4209) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:24:35,216] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:24:35,217] {logging_mixin.py:109} INFO - [2022-02-14 09:24:35,217] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:24:35,239] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:24:35,248] {logging_mixin.py:109} INFO - [2022-02-14 09:24:35,247] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:24:35,260] {logging_mixin.py:109} INFO - [2022-02-14 09:24:35,260] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:24:35,276] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2022-02-14 09:25:11,292] {processor.py:163} INFO - Started process (PID=4241) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:25:11,295] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:25:11,296] {logging_mixin.py:109} INFO - [2022-02-14 09:25:11,296] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:25:11,326] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:25:11,337] {logging_mixin.py:109} INFO - [2022-02-14 09:25:11,336] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:25:11,350] {logging_mixin.py:109} INFO - [2022-02-14 09:25:11,350] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:25:11,372] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2022-02-14 09:55:51,213] {processor.py:163} INFO - Started process (PID=4948) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:55:51,215] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:55:51,215] {logging_mixin.py:109} INFO - [2022-02-14 09:55:51,215] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:55:51,245] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:55:51,258] {logging_mixin.py:109} INFO - [2022-02-14 09:55:51,258] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:55:51,274] {logging_mixin.py:109} INFO - [2022-02-14 09:55:51,274] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:55:51,297] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.086 seconds
+[2022-02-14 09:56:25,855] {processor.py:163} INFO - Started process (PID=4982) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:56:25,860] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:56:25,862] {logging_mixin.py:109} INFO - [2022-02-14 09:56:25,862] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:56:25,928] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:56:25,943] {logging_mixin.py:109} INFO - [2022-02-14 09:56:25,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:56:25,962] {logging_mixin.py:109} INFO - [2022-02-14 09:56:25,962] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:56:25,986] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.140 seconds
+[2022-02-14 09:57:03,265] {processor.py:163} INFO - Started process (PID=5014) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:57:03,269] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:57:03,270] {logging_mixin.py:109} INFO - [2022-02-14 09:57:03,270] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:57:03,299] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:57:03,308] {logging_mixin.py:109} INFO - [2022-02-14 09:57:03,308] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:57:03,322] {logging_mixin.py:109} INFO - [2022-02-14 09:57:03,322] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:57:03,348] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2022-02-14 09:57:57,634] {processor.py:163} INFO - Started process (PID=5068) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:57:57,637] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:57:57,638] {logging_mixin.py:109} INFO - [2022-02-14 09:57:57,638] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:57:57,660] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:57:57,671] {logging_mixin.py:109} INFO - [2022-02-14 09:57:57,671] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:57:57,686] {logging_mixin.py:109} INFO - [2022-02-14 09:57:57,686] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:57:57,703] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2022-02-14 09:58:29,129] {processor.py:163} INFO - Started process (PID=5097) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:58:29,130] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:58:29,131] {logging_mixin.py:109} INFO - [2022-02-14 09:58:29,131] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:58:29,153] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:58:29,162] {logging_mixin.py:109} INFO - [2022-02-14 09:58:29,162] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:58:29,174] {logging_mixin.py:109} INFO - [2022-02-14 09:58:29,174] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:58:29,194] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2022-02-14 09:59:02,986] {processor.py:163} INFO - Started process (PID=5128) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:59:02,994] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:59:02,995] {logging_mixin.py:109} INFO - [2022-02-14 09:59:02,995] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:59:03,015] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:59:03,025] {logging_mixin.py:109} INFO - [2022-02-14 09:59:03,024] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:59:03,041] {logging_mixin.py:109} INFO - [2022-02-14 09:59:03,041] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:59:03,062] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2022-02-14 09:59:36,722] {processor.py:163} INFO - Started process (PID=5160) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:59:36,731] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 09:59:36,731] {logging_mixin.py:109} INFO - [2022-02-14 09:59:36,731] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:59:36,755] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 09:59:36,764] {logging_mixin.py:109} INFO - [2022-02-14 09:59:36,764] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:59:36,777] {logging_mixin.py:109} INFO - [2022-02-14 09:59:36,777] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 09:59:36,793] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2022-02-14 10:00:12,987] {processor.py:163} INFO - Started process (PID=5193) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:00:12,988] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:00:12,988] {logging_mixin.py:109} INFO - [2022-02-14 10:00:12,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:00:13,011] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:00:13,019] {logging_mixin.py:109} INFO - [2022-02-14 10:00:13,019] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:00:13,032] {logging_mixin.py:109} INFO - [2022-02-14 10:00:13,031] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:00:13,052] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2022-02-14 10:00:45,056] {processor.py:163} INFO - Started process (PID=5225) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:00:45,057] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:00:45,058] {logging_mixin.py:109} INFO - [2022-02-14 10:00:45,058] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:00:45,088] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:00:45,097] {logging_mixin.py:109} INFO - [2022-02-14 10:00:45,097] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:00:45,111] {logging_mixin.py:109} INFO - [2022-02-14 10:00:45,111] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:00:45,129] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:01:21,683] {processor.py:163} INFO - Started process (PID=5261) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:01:21,692] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:01:21,693] {logging_mixin.py:109} INFO - [2022-02-14 10:01:21,693] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:01:21,718] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:01:21,728] {logging_mixin.py:109} INFO - [2022-02-14 10:01:21,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:01:21,741] {logging_mixin.py:109} INFO - [2022-02-14 10:01:21,741] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:01:21,759] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2022-02-14 10:01:53,212] {processor.py:163} INFO - Started process (PID=5292) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:01:53,220] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:01:53,221] {logging_mixin.py:109} INFO - [2022-02-14 10:01:53,221] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:01:53,256] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:01:53,273] {logging_mixin.py:109} INFO - [2022-02-14 10:01:53,273] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:01:53,289] {logging_mixin.py:109} INFO - [2022-02-14 10:01:53,289] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:01:53,308] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.098 seconds
+[2022-02-14 10:02:29,626] {processor.py:163} INFO - Started process (PID=5324) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:02:29,628] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:02:29,629] {logging_mixin.py:109} INFO - [2022-02-14 10:02:29,629] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:02:29,669] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:02:29,686] {logging_mixin.py:109} INFO - [2022-02-14 10:02:29,686] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:02:29,704] {logging_mixin.py:109} INFO - [2022-02-14 10:02:29,704] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:02:29,725] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.105 seconds
+[2022-02-14 10:03:02,224] {processor.py:163} INFO - Started process (PID=5355) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:03:02,227] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:03:02,227] {logging_mixin.py:109} INFO - [2022-02-14 10:03:02,227] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:03:02,250] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:03:02,259] {logging_mixin.py:109} INFO - [2022-02-14 10:03:02,258] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:03:02,272] {logging_mixin.py:109} INFO - [2022-02-14 10:03:02,272] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:03:02,293] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2022-02-14 10:03:41,114] {processor.py:163} INFO - Started process (PID=5389) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:03:41,116] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:03:41,117] {logging_mixin.py:109} INFO - [2022-02-14 10:03:41,117] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:03:41,180] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:03:41,210] {logging_mixin.py:109} INFO - [2022-02-14 10:03:41,210] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:03:41,242] {logging_mixin.py:109} INFO - [2022-02-14 10:03:41,242] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:03:41,269] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.161 seconds
+[2022-02-14 10:04:15,278] {processor.py:163} INFO - Started process (PID=5420) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:04:15,279] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:04:15,280] {logging_mixin.py:109} INFO - [2022-02-14 10:04:15,280] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:04:15,313] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:04:15,326] {logging_mixin.py:109} INFO - [2022-02-14 10:04:15,326] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:04:15,344] {logging_mixin.py:109} INFO - [2022-02-14 10:04:15,344] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:04:15,365] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.089 seconds
+[2022-02-14 10:04:51,682] {processor.py:163} INFO - Started process (PID=5452) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:04:51,683] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:04:51,684] {logging_mixin.py:109} INFO - [2022-02-14 10:04:51,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:04:51,716] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:04:51,729] {logging_mixin.py:109} INFO - [2022-02-14 10:04:51,729] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:04:51,748] {logging_mixin.py:109} INFO - [2022-02-14 10:04:51,748] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:04:51,766] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.087 seconds
+[2022-02-14 10:05:31,068] {processor.py:163} INFO - Started process (PID=5488) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:05:31,070] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:05:31,071] {logging_mixin.py:109} INFO - [2022-02-14 10:05:31,071] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:05:31,093] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:05:31,101] {logging_mixin.py:109} INFO - [2022-02-14 10:05:31,101] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:05:31,116] {logging_mixin.py:109} INFO - [2022-02-14 10:05:31,116] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:05:31,140] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:06:14,640] {processor.py:163} INFO - Started process (PID=5528) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:06:14,648] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:06:14,649] {logging_mixin.py:109} INFO - [2022-02-14 10:06:14,649] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:06:14,673] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:06:14,681] {logging_mixin.py:109} INFO - [2022-02-14 10:06:14,681] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:06:14,694] {logging_mixin.py:109} INFO - [2022-02-14 10:06:14,694] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:06:14,709] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2022-02-14 10:06:47,852] {processor.py:163} INFO - Started process (PID=5559) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:06:47,854] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:06:47,855] {logging_mixin.py:109} INFO - [2022-02-14 10:06:47,855] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:06:47,892] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:06:47,907] {logging_mixin.py:109} INFO - [2022-02-14 10:06:47,907] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:06:47,929] {logging_mixin.py:109} INFO - [2022-02-14 10:06:47,928] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:06:47,951] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.104 seconds
+[2022-02-14 10:07:20,208] {processor.py:163} INFO - Started process (PID=5590) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:07:20,210] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:07:20,211] {logging_mixin.py:109} INFO - [2022-02-14 10:07:20,210] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:07:20,237] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:07:20,247] {logging_mixin.py:109} INFO - [2022-02-14 10:07:20,247] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:07:20,262] {logging_mixin.py:109} INFO - [2022-02-14 10:07:20,262] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:07:20,279] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2022-02-14 10:07:59,976] {processor.py:163} INFO - Started process (PID=5629) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:07:59,985] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:07:59,985] {logging_mixin.py:109} INFO - [2022-02-14 10:07:59,985] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:08:00,011] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:08:00,021] {logging_mixin.py:109} INFO - [2022-02-14 10:08:00,021] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:08:00,036] {logging_mixin.py:109} INFO - [2022-02-14 10:08:00,036] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:08:00,052] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2022-02-14 10:08:39,595] {processor.py:163} INFO - Started process (PID=5670) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:08:39,598] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:08:39,598] {logging_mixin.py:109} INFO - [2022-02-14 10:08:39,598] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:08:39,622] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:08:39,631] {logging_mixin.py:109} INFO - [2022-02-14 10:08:39,631] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:08:39,647] {logging_mixin.py:109} INFO - [2022-02-14 10:08:39,646] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:08:39,667] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:09:15,600] {processor.py:163} INFO - Started process (PID=5703) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:09:15,602] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:09:15,603] {logging_mixin.py:109} INFO - [2022-02-14 10:09:15,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:09:15,637] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:09:15,653] {logging_mixin.py:109} INFO - [2022-02-14 10:09:15,652] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:09:15,672] {logging_mixin.py:109} INFO - [2022-02-14 10:09:15,672] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:09:15,694] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.098 seconds
+[2022-02-14 10:09:54,307] {processor.py:163} INFO - Started process (PID=5739) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:09:54,309] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:09:54,310] {logging_mixin.py:109} INFO - [2022-02-14 10:09:54,310] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:09:54,333] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:09:54,344] {logging_mixin.py:109} INFO - [2022-02-14 10:09:54,344] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:09:54,359] {logging_mixin.py:109} INFO - [2022-02-14 10:09:54,359] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:09:54,375] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2022-02-14 10:10:27,328] {processor.py:163} INFO - Started process (PID=6150) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:10:27,329] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:10:27,330] {logging_mixin.py:109} INFO - [2022-02-14 10:10:27,330] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:10:27,352] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:10:27,362] {logging_mixin.py:109} INFO - [2022-02-14 10:10:27,362] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:10:27,382] {logging_mixin.py:109} INFO - [2022-02-14 10:10:27,381] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:10:27,407] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2022-02-14 10:11:07,285] {processor.py:163} INFO - Started process (PID=6189) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:11:07,288] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:11:07,289] {logging_mixin.py:109} INFO - [2022-02-14 10:11:07,288] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:11:07,402] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:11:07,432] {logging_mixin.py:109} INFO - [2022-02-14 10:11:07,432] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:11:07,451] {logging_mixin.py:109} INFO - [2022-02-14 10:11:07,451] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:11:07,469] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.198 seconds
+[2022-02-14 10:11:55,625] {processor.py:163} INFO - Started process (PID=6248) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:11:55,669] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:11:55,688] {logging_mixin.py:109} INFO - [2022-02-14 10:11:55,686] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:11:56,167] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:11:56,255] {logging_mixin.py:109} INFO - [2022-02-14 10:11:56,254] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:11:56,318] {logging_mixin.py:109} INFO - [2022-02-14 10:11:56,318] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:11:56,374] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.810 seconds
+[2022-02-14 10:12:43,807] {processor.py:163} INFO - Started process (PID=6294) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:12:43,808] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:12:43,809] {logging_mixin.py:109} INFO - [2022-02-14 10:12:43,808] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:12:43,831] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:12:43,841] {logging_mixin.py:109} INFO - [2022-02-14 10:12:43,841] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:12:43,856] {logging_mixin.py:109} INFO - [2022-02-14 10:12:43,856] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:12:43,875] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2022-02-14 10:13:32,019] {processor.py:163} INFO - Started process (PID=6358) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:13:32,022] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:13:32,022] {logging_mixin.py:109} INFO - [2022-02-14 10:13:32,022] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:13:32,053] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:13:32,065] {logging_mixin.py:109} INFO - [2022-02-14 10:13:32,064] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:13:32,083] {logging_mixin.py:109} INFO - [2022-02-14 10:13:32,083] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:13:32,109] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.093 seconds
+[2022-02-14 10:14:13,311] {processor.py:163} INFO - Started process (PID=6420) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:14:13,312] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:14:13,313] {logging_mixin.py:109} INFO - [2022-02-14 10:14:13,313] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:14:13,340] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:14:13,351] {logging_mixin.py:109} INFO - [2022-02-14 10:14:13,351] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:14:13,366] {logging_mixin.py:109} INFO - [2022-02-14 10:14:13,366] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:14:13,384] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:14:53,370] {processor.py:163} INFO - Started process (PID=6463) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:14:53,379] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:14:53,379] {logging_mixin.py:109} INFO - [2022-02-14 10:14:53,379] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:14:53,402] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:14:53,411] {logging_mixin.py:109} INFO - [2022-02-14 10:14:53,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:14:53,424] {logging_mixin.py:109} INFO - [2022-02-14 10:14:53,424] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:14:53,441] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2022-02-14 10:15:34,385] {processor.py:163} INFO - Started process (PID=6511) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:15:34,394] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:15:34,395] {logging_mixin.py:109} INFO - [2022-02-14 10:15:34,394] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:15:34,422] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:15:34,433] {logging_mixin.py:109} INFO - [2022-02-14 10:15:34,433] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:15:34,452] {logging_mixin.py:109} INFO - [2022-02-14 10:15:34,451] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:15:34,470] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2022-02-14 10:16:20,507] {processor.py:163} INFO - Started process (PID=6579) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:16:20,516] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:16:20,517] {logging_mixin.py:109} INFO - [2022-02-14 10:16:20,517] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:16:20,545] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:16:20,557] {logging_mixin.py:109} INFO - [2022-02-14 10:16:20,557] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:16:20,571] {logging_mixin.py:109} INFO - [2022-02-14 10:16:20,571] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:16:20,588] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2022-02-14 10:17:01,432] {processor.py:163} INFO - Started process (PID=6622) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:17:01,433] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:17:01,434] {logging_mixin.py:109} INFO - [2022-02-14 10:17:01,434] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:17:01,455] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:17:01,465] {logging_mixin.py:109} INFO - [2022-02-14 10:17:01,465] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:17:01,481] {logging_mixin.py:109} INFO - [2022-02-14 10:17:01,481] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:17:01,499] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2022-02-14 10:17:41,135] {processor.py:163} INFO - Started process (PID=6665) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:17:41,150] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:17:41,150] {logging_mixin.py:109} INFO - [2022-02-14 10:17:41,150] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:17:41,184] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:17:41,200] {logging_mixin.py:109} INFO - [2022-02-14 10:17:41,200] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:17:41,218] {logging_mixin.py:109} INFO - [2022-02-14 10:17:41,218] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:17:41,264] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.132 seconds
+[2022-02-14 10:18:25,660] {processor.py:163} INFO - Started process (PID=6717) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:18:25,662] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:18:25,663] {logging_mixin.py:109} INFO - [2022-02-14 10:18:25,663] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:18:25,686] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:18:25,696] {logging_mixin.py:109} INFO - [2022-02-14 10:18:25,696] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:18:25,708] {logging_mixin.py:109} INFO - [2022-02-14 10:18:25,708] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:18:25,727] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2022-02-14 10:19:09,843] {processor.py:163} INFO - Started process (PID=6763) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:19:09,845] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:19:09,846] {logging_mixin.py:109} INFO - [2022-02-14 10:19:09,845] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:19:09,889] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:19:09,906] {logging_mixin.py:109} INFO - [2022-02-14 10:19:09,906] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:19:09,924] {logging_mixin.py:109} INFO - [2022-02-14 10:19:09,924] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:19:09,944] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.103 seconds
+[2022-02-14 10:19:47,797] {processor.py:163} INFO - Started process (PID=6805) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:19:47,806] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:19:47,806] {logging_mixin.py:109} INFO - [2022-02-14 10:19:47,806] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:19:47,828] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:19:47,839] {logging_mixin.py:109} INFO - [2022-02-14 10:19:47,839] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:19:47,855] {logging_mixin.py:109} INFO - [2022-02-14 10:19:47,855] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:19:47,872] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2022-02-14 10:20:25,830] {processor.py:163} INFO - Started process (PID=6848) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:20:25,832] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:20:25,833] {logging_mixin.py:109} INFO - [2022-02-14 10:20:25,833] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:20:25,862] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:20:25,872] {logging_mixin.py:109} INFO - [2022-02-14 10:20:25,872] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:20:25,886] {logging_mixin.py:109} INFO - [2022-02-14 10:20:25,886] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:20:25,905] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.078 seconds
+[2022-02-14 10:21:06,165] {processor.py:163} INFO - Started process (PID=6892) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:21:06,166] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:21:06,167] {logging_mixin.py:109} INFO - [2022-02-14 10:21:06,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:21:06,193] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:21:06,205] {logging_mixin.py:109} INFO - [2022-02-14 10:21:06,205] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:21:06,220] {logging_mixin.py:109} INFO - [2022-02-14 10:21:06,220] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:21:06,237] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:21:42,160] {processor.py:163} INFO - Started process (PID=6934) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:21:42,162] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:21:42,163] {logging_mixin.py:109} INFO - [2022-02-14 10:21:42,163] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:21:42,191] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:21:42,201] {logging_mixin.py:109} INFO - [2022-02-14 10:21:42,201] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:21:42,225] {logging_mixin.py:109} INFO - [2022-02-14 10:21:42,225] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:21:42,253] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.095 seconds
+[2022-02-14 10:22:21,951] {processor.py:163} INFO - Started process (PID=6985) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:22:21,960] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:22:21,961] {logging_mixin.py:109} INFO - [2022-02-14 10:22:21,961] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:22:21,987] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:22:21,999] {logging_mixin.py:109} INFO - [2022-02-14 10:22:21,999] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:22:22,017] {logging_mixin.py:109} INFO - [2022-02-14 10:22:22,016] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:22:22,034] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.086 seconds
+[2022-02-14 10:23:01,680] {processor.py:163} INFO - Started process (PID=7026) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:23:01,689] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:23:01,690] {logging_mixin.py:109} INFO - [2022-02-14 10:23:01,690] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:23:01,729] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:23:01,749] {logging_mixin.py:109} INFO - [2022-02-14 10:23:01,749] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:23:01,780] {logging_mixin.py:109} INFO - [2022-02-14 10:23:01,780] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:23:01,811] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.134 seconds
+[2022-02-14 10:23:49,954] {processor.py:163} INFO - Started process (PID=7090) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:23:49,956] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:23:49,957] {logging_mixin.py:109} INFO - [2022-02-14 10:23:49,957] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:23:49,987] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:23:49,998] {logging_mixin.py:109} INFO - [2022-02-14 10:23:49,998] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:23:50,016] {logging_mixin.py:109} INFO - [2022-02-14 10:23:50,016] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:23:50,040] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.089 seconds
+[2022-02-14 10:24:31,150] {processor.py:163} INFO - Started process (PID=7138) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:24:31,159] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:24:31,159] {logging_mixin.py:109} INFO - [2022-02-14 10:24:31,159] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:24:31,191] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:24:31,207] {logging_mixin.py:109} INFO - [2022-02-14 10:24:31,206] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:24:31,222] {logging_mixin.py:109} INFO - [2022-02-14 10:24:31,222] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:24:31,238] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2022-02-14 10:25:11,748] {processor.py:163} INFO - Started process (PID=7181) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:25:11,749] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:25:11,750] {logging_mixin.py:109} INFO - [2022-02-14 10:25:11,750] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:25:11,787] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:25:11,808] {logging_mixin.py:109} INFO - [2022-02-14 10:25:11,807] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:25:11,829] {logging_mixin.py:109} INFO - [2022-02-14 10:25:11,829] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:25:11,858] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.114 seconds
+[2022-02-14 10:25:51,232] {processor.py:163} INFO - Started process (PID=7221) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:25:51,233] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:25:51,234] {logging_mixin.py:109} INFO - [2022-02-14 10:25:51,234] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:25:51,270] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:25:51,285] {logging_mixin.py:109} INFO - [2022-02-14 10:25:51,284] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:25:51,302] {logging_mixin.py:109} INFO - [2022-02-14 10:25:51,302] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:25:51,326] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.098 seconds
+[2022-02-14 10:26:28,258] {processor.py:163} INFO - Started process (PID=7261) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:26:28,260] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:26:28,261] {logging_mixin.py:109} INFO - [2022-02-14 10:26:28,261] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:26:28,298] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:26:28,310] {logging_mixin.py:109} INFO - [2022-02-14 10:26:28,310] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:26:28,326] {logging_mixin.py:109} INFO - [2022-02-14 10:26:28,326] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:26:28,342] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2022-02-14 10:27:09,151] {processor.py:163} INFO - Started process (PID=7305) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:27:09,153] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:27:09,154] {logging_mixin.py:109} INFO - [2022-02-14 10:27:09,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:27:09,187] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:27:09,200] {logging_mixin.py:109} INFO - [2022-02-14 10:27:09,200] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:27:09,217] {logging_mixin.py:109} INFO - [2022-02-14 10:27:09,217] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:27:09,236] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2022-02-14 10:27:53,393] {processor.py:163} INFO - Started process (PID=7357) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:27:53,395] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:27:53,396] {logging_mixin.py:109} INFO - [2022-02-14 10:27:53,396] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:27:53,423] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:27:53,434] {logging_mixin.py:109} INFO - [2022-02-14 10:27:53,433] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:27:53,449] {logging_mixin.py:109} INFO - [2022-02-14 10:27:53,449] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:27:53,467] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2022-02-14 10:28:34,918] {processor.py:163} INFO - Started process (PID=7402) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:28:34,919] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:28:34,921] {logging_mixin.py:109} INFO - [2022-02-14 10:28:34,920] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:28:34,984] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:28:35,002] {logging_mixin.py:109} INFO - [2022-02-14 10:28:35,002] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:28:35,021] {logging_mixin.py:109} INFO - [2022-02-14 10:28:35,021] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:28:35,047] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.133 seconds
+[2022-02-14 10:29:16,708] {processor.py:163} INFO - Started process (PID=7446) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:29:16,716] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:29:16,717] {logging_mixin.py:109} INFO - [2022-02-14 10:29:16,717] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:29:16,744] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:29:16,754] {logging_mixin.py:109} INFO - [2022-02-14 10:29:16,754] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:29:16,778] {logging_mixin.py:109} INFO - [2022-02-14 10:29:16,778] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:29:16,802] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.097 seconds
+[2022-02-14 10:29:57,196] {processor.py:163} INFO - Started process (PID=7490) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:29:57,205] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:29:57,206] {logging_mixin.py:109} INFO - [2022-02-14 10:29:57,206] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:29:57,246] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:29:57,261] {logging_mixin.py:109} INFO - [2022-02-14 10:29:57,261] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:29:57,286] {logging_mixin.py:109} INFO - [2022-02-14 10:29:57,286] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:29:57,309] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.118 seconds
+[2022-02-14 10:30:32,854] {processor.py:163} INFO - Started process (PID=7530) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:30:32,856] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:30:32,856] {logging_mixin.py:109} INFO - [2022-02-14 10:30:32,856] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:30:32,879] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:30:32,888] {logging_mixin.py:109} INFO - [2022-02-14 10:30:32,888] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:30:32,899] {logging_mixin.py:109} INFO - [2022-02-14 10:30:32,899] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:30:32,915] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2022-02-14 10:31:10,786] {processor.py:163} INFO - Started process (PID=7572) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:31:10,788] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:31:10,789] {logging_mixin.py:109} INFO - [2022-02-14 10:31:10,789] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:31:10,811] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:31:10,821] {logging_mixin.py:109} INFO - [2022-02-14 10:31:10,821] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:31:10,832] {logging_mixin.py:109} INFO - [2022-02-14 10:31:10,832] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:31:10,854] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2022-02-14 10:31:50,082] {processor.py:163} INFO - Started process (PID=7615) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:31:50,083] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:31:50,084] {logging_mixin.py:109} INFO - [2022-02-14 10:31:50,084] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:31:50,114] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:31:50,127] {logging_mixin.py:109} INFO - [2022-02-14 10:31:50,127] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:31:50,146] {logging_mixin.py:109} INFO - [2022-02-14 10:31:50,145] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:31:50,164] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2022-02-14 10:32:29,653] {processor.py:163} INFO - Started process (PID=7658) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:32:29,662] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:32:29,663] {logging_mixin.py:109} INFO - [2022-02-14 10:32:29,663] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:32:29,689] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:32:29,698] {logging_mixin.py:109} INFO - [2022-02-14 10:32:29,697] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:32:29,710] {logging_mixin.py:109} INFO - [2022-02-14 10:32:29,710] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:32:29,726] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:33:08,901] {processor.py:163} INFO - Started process (PID=7700) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:33:08,904] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:33:08,905] {logging_mixin.py:109} INFO - [2022-02-14 10:33:08,904] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:33:08,933] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:33:08,941] {logging_mixin.py:109} INFO - [2022-02-14 10:33:08,941] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:33:08,956] {logging_mixin.py:109} INFO - [2022-02-14 10:33:08,956] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:33:08,973] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:33:46,873] {processor.py:163} INFO - Started process (PID=7743) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:33:46,882] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:33:46,882] {logging_mixin.py:109} INFO - [2022-02-14 10:33:46,882] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:33:46,907] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:33:46,916] {logging_mixin.py:109} INFO - [2022-02-14 10:33:46,916] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:33:46,930] {logging_mixin.py:109} INFO - [2022-02-14 10:33:46,930] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:33:46,947] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2022-02-14 10:34:28,666] {processor.py:163} INFO - Started process (PID=7787) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:34:28,668] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:34:28,669] {logging_mixin.py:109} INFO - [2022-02-14 10:34:28,669] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:34:28,694] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:34:28,705] {logging_mixin.py:109} INFO - [2022-02-14 10:34:28,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:34:28,720] {logging_mixin.py:109} INFO - [2022-02-14 10:34:28,720] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:34:28,744] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2022-02-14 10:35:10,536] {processor.py:163} INFO - Started process (PID=7838) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:35:10,544] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:35:10,545] {logging_mixin.py:109} INFO - [2022-02-14 10:35:10,545] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:35:10,573] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:35:10,586] {logging_mixin.py:109} INFO - [2022-02-14 10:35:10,585] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:35:10,603] {logging_mixin.py:109} INFO - [2022-02-14 10:35:10,603] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:35:10,620] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.086 seconds
+[2022-02-14 10:35:50,401] {processor.py:163} INFO - Started process (PID=7881) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:35:50,403] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:35:50,403] {logging_mixin.py:109} INFO - [2022-02-14 10:35:50,403] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:35:50,434] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:35:50,444] {logging_mixin.py:109} INFO - [2022-02-14 10:35:50,444] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:35:50,459] {logging_mixin.py:109} INFO - [2022-02-14 10:35:50,459] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:35:50,475] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2022-02-14 10:36:34,077] {processor.py:163} INFO - Started process (PID=7927) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:36:34,078] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:36:34,079] {logging_mixin.py:109} INFO - [2022-02-14 10:36:34,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:36:34,117] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:36:34,132] {logging_mixin.py:109} INFO - [2022-02-14 10:36:34,132] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:36:34,150] {logging_mixin.py:109} INFO - [2022-02-14 10:36:34,150] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:36:34,167] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.093 seconds
+[2022-02-14 10:37:15,527] {processor.py:163} INFO - Started process (PID=7973) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:37:15,529] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:37:15,529] {logging_mixin.py:109} INFO - [2022-02-14 10:37:15,529] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:37:15,555] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:37:15,563] {logging_mixin.py:109} INFO - [2022-02-14 10:37:15,563] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:37:15,575] {logging_mixin.py:109} INFO - [2022-02-14 10:37:15,574] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:37:15,589] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2022-02-14 10:37:54,932] {processor.py:163} INFO - Started process (PID=8016) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:37:54,934] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:37:54,934] {logging_mixin.py:109} INFO - [2022-02-14 10:37:54,934] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:37:54,957] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:37:54,967] {logging_mixin.py:109} INFO - [2022-02-14 10:37:54,967] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:37:54,980] {logging_mixin.py:109} INFO - [2022-02-14 10:37:54,980] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:37:54,998] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2022-02-14 10:38:34,123] {processor.py:163} INFO - Started process (PID=8057) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:38:34,125] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:38:34,126] {logging_mixin.py:109} INFO - [2022-02-14 10:38:34,126] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:38:34,155] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:38:34,167] {logging_mixin.py:109} INFO - [2022-02-14 10:38:34,167] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:38:34,184] {logging_mixin.py:109} INFO - [2022-02-14 10:38:34,183] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:38:34,205] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.084 seconds
+[2022-02-14 10:39:24,478] {processor.py:163} INFO - Started process (PID=8122) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:39:24,479] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:39:24,480] {logging_mixin.py:109} INFO - [2022-02-14 10:39:24,480] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:39:24,522] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:39:24,541] {logging_mixin.py:109} INFO - [2022-02-14 10:39:24,541] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:39:24,570] {logging_mixin.py:109} INFO - [2022-02-14 10:39:24,570] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:39:24,589] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.114 seconds
+[2022-02-14 10:40:04,086] {processor.py:163} INFO - Started process (PID=8165) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:40:04,087] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:40:04,088] {logging_mixin.py:109} INFO - [2022-02-14 10:40:04,088] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:40:04,109] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:40:04,121] {logging_mixin.py:109} INFO - [2022-02-14 10:40:04,120] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:40:04,134] {logging_mixin.py:109} INFO - [2022-02-14 10:40:04,133] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:40:04,163] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2022-02-14 10:40:43,988] {processor.py:163} INFO - Started process (PID=8209) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:40:43,998] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:40:43,999] {logging_mixin.py:109} INFO - [2022-02-14 10:40:43,999] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:40:44,041] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:40:44,053] {logging_mixin.py:109} INFO - [2022-02-14 10:40:44,053] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:40:44,067] {logging_mixin.py:109} INFO - [2022-02-14 10:40:44,067] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:40:44,085] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.100 seconds
+[2022-02-14 10:41:28,016] {processor.py:163} INFO - Started process (PID=8257) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:41:28,019] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:41:28,019] {logging_mixin.py:109} INFO - [2022-02-14 10:41:28,019] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:41:28,043] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:41:28,055] {logging_mixin.py:109} INFO - [2022-02-14 10:41:28,054] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:41:28,069] {logging_mixin.py:109} INFO - [2022-02-14 10:41:28,069] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:41:28,099] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2022-02-14 10:42:20,315] {processor.py:163} INFO - Started process (PID=8325) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:42:20,317] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:42:20,318] {logging_mixin.py:109} INFO - [2022-02-14 10:42:20,318] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:42:20,361] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:42:20,379] {logging_mixin.py:109} INFO - [2022-02-14 10:42:20,378] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:42:20,402] {logging_mixin.py:109} INFO - [2022-02-14 10:42:20,402] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:42:20,424] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.113 seconds
+[2022-02-14 10:43:08,689] {processor.py:163} INFO - Started process (PID=8391) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:43:08,691] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:43:08,692] {logging_mixin.py:109} INFO - [2022-02-14 10:43:08,691] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:43:08,720] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:43:08,732] {logging_mixin.py:109} INFO - [2022-02-14 10:43:08,731] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:43:08,753] {logging_mixin.py:109} INFO - [2022-02-14 10:43:08,753] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:43:08,777] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2022-02-14 10:43:45,712] {processor.py:163} INFO - Started process (PID=8431) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:43:45,715] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:43:45,716] {logging_mixin.py:109} INFO - [2022-02-14 10:43:45,716] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:43:45,769] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:43:45,781] {logging_mixin.py:109} INFO - [2022-02-14 10:43:45,781] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:43:45,797] {logging_mixin.py:109} INFO - [2022-02-14 10:43:45,797] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:43:45,817] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.109 seconds
+[2022-02-14 10:44:31,347] {processor.py:163} INFO - Started process (PID=8595) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:44:31,348] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:44:31,349] {logging_mixin.py:109} INFO - [2022-02-14 10:44:31,349] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:44:31,377] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:44:31,388] {logging_mixin.py:109} INFO - [2022-02-14 10:44:31,388] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:44:31,400] {logging_mixin.py:109} INFO - [2022-02-14 10:44:31,400] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:44:31,422] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2022-02-14 10:45:08,647] {processor.py:163} INFO - Started process (PID=8637) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:45:08,656] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:45:08,657] {logging_mixin.py:109} INFO - [2022-02-14 10:45:08,657] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:45:08,687] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:45:08,697] {logging_mixin.py:109} INFO - [2022-02-14 10:45:08,697] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:45:08,712] {logging_mixin.py:109} INFO - [2022-02-14 10:45:08,712] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:45:08,730] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.086 seconds
+[2022-02-14 10:45:50,118] {processor.py:163} INFO - Started process (PID=8681) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:45:50,120] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:45:50,121] {logging_mixin.py:109} INFO - [2022-02-14 10:45:50,121] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:45:50,161] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:45:50,181] {logging_mixin.py:109} INFO - [2022-02-14 10:45:50,181] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:45:50,215] {logging_mixin.py:109} INFO - [2022-02-14 10:45:50,214] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:45:50,237] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.123 seconds
+[2022-02-14 10:46:29,792] {processor.py:163} INFO - Started process (PID=8722) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:46:29,801] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:46:29,802] {logging_mixin.py:109} INFO - [2022-02-14 10:46:29,802] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:46:29,823] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:46:29,831] {logging_mixin.py:109} INFO - [2022-02-14 10:46:29,831] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:46:29,843] {logging_mixin.py:109} INFO - [2022-02-14 10:46:29,843] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:46:29,859] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2022-02-14 10:47:16,909] {processor.py:163} INFO - Started process (PID=8778) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:47:16,913] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:47:16,913] {logging_mixin.py:109} INFO - [2022-02-14 10:47:16,913] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:47:16,944] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:47:16,954] {logging_mixin.py:109} INFO - [2022-02-14 10:47:16,954] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:47:16,972] {logging_mixin.py:109} INFO - [2022-02-14 10:47:16,972] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:47:16,995] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2022-02-14 10:47:58,023] {processor.py:163} INFO - Started process (PID=8821) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:47:58,024] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:47:58,025] {logging_mixin.py:109} INFO - [2022-02-14 10:47:58,025] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:47:58,052] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:47:58,067] {logging_mixin.py:109} INFO - [2022-02-14 10:47:58,067] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:47:58,082] {logging_mixin.py:109} INFO - [2022-02-14 10:47:58,082] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:47:58,107] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.087 seconds
+[2022-02-14 10:48:41,344] {processor.py:163} INFO - Started process (PID=8877) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:48:41,353] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:48:41,355] {logging_mixin.py:109} INFO - [2022-02-14 10:48:41,354] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:48:41,383] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:48:41,396] {logging_mixin.py:109} INFO - [2022-02-14 10:48:41,396] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:48:41,414] {logging_mixin.py:109} INFO - [2022-02-14 10:48:41,414] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:48:41,439] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.099 seconds
+[2022-02-14 10:49:30,985] {processor.py:163} INFO - Started process (PID=8942) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:49:30,987] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:49:30,988] {logging_mixin.py:109} INFO - [2022-02-14 10:49:30,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:49:31,015] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:49:31,027] {logging_mixin.py:109} INFO - [2022-02-14 10:49:31,027] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:49:31,042] {logging_mixin.py:109} INFO - [2022-02-14 10:49:31,042] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:49:31,059] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.078 seconds
+[2022-02-14 10:50:20,244] {processor.py:163} INFO - Started process (PID=8999) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:50:20,246] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:50:20,246] {logging_mixin.py:109} INFO - [2022-02-14 10:50:20,246] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:50:20,270] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:50:20,282] {logging_mixin.py:109} INFO - [2022-02-14 10:50:20,282] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:50:20,298] {logging_mixin.py:109} INFO - [2022-02-14 10:50:20,298] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:50:20,314] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2022-02-14 10:50:58,970] {processor.py:163} INFO - Started process (PID=9047) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:50:58,979] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:50:58,979] {logging_mixin.py:109} INFO - [2022-02-14 10:50:58,979] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:50:59,001] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:50:59,011] {logging_mixin.py:109} INFO - [2022-02-14 10:50:59,011] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:50:59,037] {logging_mixin.py:109} INFO - [2022-02-14 10:50:59,037] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:50:59,056] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2022-02-14 10:51:39,460] {processor.py:163} INFO - Started process (PID=9089) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:51:39,469] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:51:39,470] {logging_mixin.py:109} INFO - [2022-02-14 10:51:39,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:51:39,495] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:51:39,505] {logging_mixin.py:109} INFO - [2022-02-14 10:51:39,504] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:51:39,520] {logging_mixin.py:109} INFO - [2022-02-14 10:51:39,520] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:51:39,538] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2022-02-14 10:52:21,322] {processor.py:163} INFO - Started process (PID=9134) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:52:21,324] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:52:21,325] {logging_mixin.py:109} INFO - [2022-02-14 10:52:21,325] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:52:21,359] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:52:21,369] {logging_mixin.py:109} INFO - [2022-02-14 10:52:21,369] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:52:21,387] {logging_mixin.py:109} INFO - [2022-02-14 10:52:21,386] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:52:21,410] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2022-02-14 10:53:01,783] {processor.py:163} INFO - Started process (PID=9178) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:53:01,792] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:53:01,793] {logging_mixin.py:109} INFO - [2022-02-14 10:53:01,793] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:53:01,820] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:53:01,829] {logging_mixin.py:109} INFO - [2022-02-14 10:53:01,829] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:53:01,843] {logging_mixin.py:109} INFO - [2022-02-14 10:53:01,843] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:53:01,859] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2022-02-14 10:53:38,969] {processor.py:163} INFO - Started process (PID=9220) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:53:38,970] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:53:38,971] {logging_mixin.py:109} INFO - [2022-02-14 10:53:38,971] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:53:38,994] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:53:39,003] {logging_mixin.py:109} INFO - [2022-02-14 10:53:39,003] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:53:39,019] {logging_mixin.py:109} INFO - [2022-02-14 10:53:39,018] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:53:39,037] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2022-02-14 10:54:15,356] {processor.py:163} INFO - Started process (PID=9260) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:54:15,365] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:54:15,366] {logging_mixin.py:109} INFO - [2022-02-14 10:54:15,366] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:54:15,388] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:54:15,397] {logging_mixin.py:109} INFO - [2022-02-14 10:54:15,397] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:54:15,412] {logging_mixin.py:109} INFO - [2022-02-14 10:54:15,412] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:54:15,429] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 10:54:57,525] {processor.py:163} INFO - Started process (PID=9311) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:54:57,527] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:54:57,527] {logging_mixin.py:109} INFO - [2022-02-14 10:54:57,527] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:54:57,553] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:54:57,564] {logging_mixin.py:109} INFO - [2022-02-14 10:54:57,564] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:54:57,580] {logging_mixin.py:109} INFO - [2022-02-14 10:54:57,580] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:54:57,597] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2022-02-14 10:55:37,610] {processor.py:163} INFO - Started process (PID=9355) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:55:37,611] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:55:37,612] {logging_mixin.py:109} INFO - [2022-02-14 10:55:37,612] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:55:37,638] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:55:37,647] {logging_mixin.py:109} INFO - [2022-02-14 10:55:37,647] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:55:37,660] {logging_mixin.py:109} INFO - [2022-02-14 10:55:37,660] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:55:37,677] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2022-02-14 10:56:22,511] {processor.py:163} INFO - Started process (PID=9403) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:56:22,513] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:56:22,514] {logging_mixin.py:109} INFO - [2022-02-14 10:56:22,513] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:56:22,543] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:56:22,554] {logging_mixin.py:109} INFO - [2022-02-14 10:56:22,554] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:56:22,569] {logging_mixin.py:109} INFO - [2022-02-14 10:56:22,569] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:56:22,588] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2022-02-14 10:57:03,030] {processor.py:163} INFO - Started process (PID=9449) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:57:03,038] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:57:03,039] {logging_mixin.py:109} INFO - [2022-02-14 10:57:03,039] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:57:03,059] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:57:03,071] {logging_mixin.py:109} INFO - [2022-02-14 10:57:03,070] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:57:03,087] {logging_mixin.py:109} INFO - [2022-02-14 10:57:03,086] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:57:03,103] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2022-02-14 10:57:40,812] {processor.py:163} INFO - Started process (PID=9490) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:57:40,821] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:57:40,822] {logging_mixin.py:109} INFO - [2022-02-14 10:57:40,822] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:57:40,855] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:57:40,870] {logging_mixin.py:109} INFO - [2022-02-14 10:57:40,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:57:40,887] {logging_mixin.py:109} INFO - [2022-02-14 10:57:40,887] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:57:40,918] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.109 seconds
+[2022-02-14 10:58:20,820] {processor.py:163} INFO - Started process (PID=9643) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:58:20,822] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:58:20,823] {logging_mixin.py:109} INFO - [2022-02-14 10:58:20,822] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:58:20,846] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:58:20,858] {logging_mixin.py:109} INFO - [2022-02-14 10:58:20,858] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:58:20,871] {logging_mixin.py:109} INFO - [2022-02-14 10:58:20,870] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:58:20,888] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2022-02-14 10:58:54,860] {processor.py:163} INFO - Started process (PID=9682) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:58:54,863] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:58:54,864] {logging_mixin.py:109} INFO - [2022-02-14 10:58:54,864] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:58:54,887] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:58:54,897] {logging_mixin.py:109} INFO - [2022-02-14 10:58:54,897] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:58:54,911] {logging_mixin.py:109} INFO - [2022-02-14 10:58:54,910] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:58:54,929] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2022-02-14 10:59:30,986] {processor.py:163} INFO - Started process (PID=9722) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:59:30,988] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 10:59:30,989] {logging_mixin.py:109} INFO - [2022-02-14 10:59:30,989] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:59:31,015] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 10:59:31,026] {logging_mixin.py:109} INFO - [2022-02-14 10:59:31,026] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:59:31,041] {logging_mixin.py:109} INFO - [2022-02-14 10:59:31,041] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 10:59:31,060] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2022-02-14 11:00:12,064] {processor.py:163} INFO - Started process (PID=9765) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:00:12,067] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:00:12,068] {logging_mixin.py:109} INFO - [2022-02-14 11:00:12,068] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:00:12,106] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:00:12,121] {logging_mixin.py:109} INFO - [2022-02-14 11:00:12,121] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:00:12,143] {logging_mixin.py:109} INFO - [2022-02-14 11:00:12,143] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:00:12,169] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.108 seconds
+[2022-02-14 11:00:51,566] {processor.py:163} INFO - Started process (PID=9807) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:00:51,568] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:00:51,569] {logging_mixin.py:109} INFO - [2022-02-14 11:00:51,569] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:00:51,596] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:00:51,605] {logging_mixin.py:109} INFO - [2022-02-14 11:00:51,605] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:00:51,619] {logging_mixin.py:109} INFO - [2022-02-14 11:00:51,619] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:00:51,634] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2022-02-14 11:01:29,308] {processor.py:163} INFO - Started process (PID=9847) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:01:29,310] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:01:29,310] {logging_mixin.py:109} INFO - [2022-02-14 11:01:29,310] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:01:29,344] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:01:29,356] {logging_mixin.py:109} INFO - [2022-02-14 11:01:29,356] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:01:29,371] {logging_mixin.py:109} INFO - [2022-02-14 11:01:29,371] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:01:29,390] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2022-02-14 11:02:05,286] {processor.py:163} INFO - Started process (PID=9887) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:02:05,288] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:02:05,288] {logging_mixin.py:109} INFO - [2022-02-14 11:02:05,288] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:02:05,317] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:02:05,328] {logging_mixin.py:109} INFO - [2022-02-14 11:02:05,328] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:02:05,343] {logging_mixin.py:109} INFO - [2022-02-14 11:02:05,343] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:02:05,359] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2022-02-14 11:02:41,090] {processor.py:163} INFO - Started process (PID=9927) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:02:41,098] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:02:41,098] {logging_mixin.py:109} INFO - [2022-02-14 11:02:41,098] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:02:41,121] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:02:41,129] {logging_mixin.py:109} INFO - [2022-02-14 11:02:41,129] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:02:41,143] {logging_mixin.py:109} INFO - [2022-02-14 11:02:41,142] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:02:41,164] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2022-02-14 11:03:18,049] {processor.py:163} INFO - Started process (PID=9968) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:03:18,058] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:03:18,059] {logging_mixin.py:109} INFO - [2022-02-14 11:03:18,059] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:03:18,081] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:03:18,090] {logging_mixin.py:109} INFO - [2022-02-14 11:03:18,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:03:18,104] {logging_mixin.py:109} INFO - [2022-02-14 11:03:18,104] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:03:18,120] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2022-02-14 11:03:57,152] {processor.py:163} INFO - Started process (PID=10018) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:03:57,153] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:03:57,154] {logging_mixin.py:109} INFO - [2022-02-14 11:03:57,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:03:57,178] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:03:57,189] {logging_mixin.py:109} INFO - [2022-02-14 11:03:57,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:03:57,204] {logging_mixin.py:109} INFO - [2022-02-14 11:03:57,204] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:03:57,219] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2022-02-14 11:04:35,418] {processor.py:163} INFO - Started process (PID=10060) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:04:35,419] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:04:35,420] {logging_mixin.py:109} INFO - [2022-02-14 11:04:35,420] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:04:35,439] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:04:35,447] {logging_mixin.py:109} INFO - [2022-02-14 11:04:35,447] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:04:35,462] {logging_mixin.py:109} INFO - [2022-02-14 11:04:35,461] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:04:35,477] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.061 seconds
+[2022-02-14 11:05:14,397] {processor.py:163} INFO - Started process (PID=10102) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:05:14,399] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:05:14,399] {logging_mixin.py:109} INFO - [2022-02-14 11:05:14,399] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:05:14,419] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:05:14,428] {logging_mixin.py:109} INFO - [2022-02-14 11:05:14,428] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:05:14,440] {logging_mixin.py:109} INFO - [2022-02-14 11:05:14,440] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:05:14,456] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2022-02-14 11:05:49,284] {processor.py:163} INFO - Started process (PID=10141) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:05:49,294] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:05:49,294] {logging_mixin.py:109} INFO - [2022-02-14 11:05:49,294] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:05:49,316] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:05:49,326] {logging_mixin.py:109} INFO - [2022-02-14 11:05:49,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:05:49,341] {logging_mixin.py:109} INFO - [2022-02-14 11:05:49,341] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:05:49,357] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2022-02-14 11:06:27,197] {processor.py:163} INFO - Started process (PID=10181) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:06:27,205] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:06:27,206] {logging_mixin.py:109} INFO - [2022-02-14 11:06:27,206] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:06:27,233] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:06:27,244] {logging_mixin.py:109} INFO - [2022-02-14 11:06:27,244] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:06:27,258] {logging_mixin.py:109} INFO - [2022-02-14 11:06:27,258] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:06:27,275] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2022-02-14 11:07:04,984] {processor.py:163} INFO - Started process (PID=10223) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:07:04,985] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:07:04,986] {logging_mixin.py:109} INFO - [2022-02-14 11:07:04,986] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:07:05,008] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:07:05,018] {logging_mixin.py:109} INFO - [2022-02-14 11:07:05,018] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:07:05,032] {logging_mixin.py:109} INFO - [2022-02-14 11:07:05,031] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:07:05,047] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2022-02-14 11:07:39,406] {processor.py:163} INFO - Started process (PID=10260) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:07:39,408] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:07:39,409] {logging_mixin.py:109} INFO - [2022-02-14 11:07:39,408] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:07:39,429] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:07:39,440] {logging_mixin.py:109} INFO - [2022-02-14 11:07:39,440] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:07:39,453] {logging_mixin.py:109} INFO - [2022-02-14 11:07:39,453] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:07:39,471] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2022-02-14 11:08:14,697] {processor.py:163} INFO - Started process (PID=10299) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:08:14,706] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:08:14,707] {logging_mixin.py:109} INFO - [2022-02-14 11:08:14,707] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:08:14,733] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:08:14,742] {logging_mixin.py:109} INFO - [2022-02-14 11:08:14,742] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:08:14,758] {logging_mixin.py:109} INFO - [2022-02-14 11:08:14,757] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:08:14,776] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2022-02-14 11:08:56,817] {processor.py:163} INFO - Started process (PID=10343) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:08:56,825] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:08:56,826] {logging_mixin.py:109} INFO - [2022-02-14 11:08:56,826] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:08:56,850] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:08:56,861] {logging_mixin.py:109} INFO - [2022-02-14 11:08:56,861] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:08:56,875] {logging_mixin.py:109} INFO - [2022-02-14 11:08:56,874] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:08:56,890] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2022-02-14 11:09:33,879] {processor.py:163} INFO - Started process (PID=10385) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:09:33,881] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:09:33,881] {logging_mixin.py:109} INFO - [2022-02-14 11:09:33,881] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:09:33,905] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:09:33,915] {logging_mixin.py:109} INFO - [2022-02-14 11:09:33,914] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:09:33,927] {logging_mixin.py:109} INFO - [2022-02-14 11:09:33,927] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:09:33,941] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2022-02-14 11:10:13,270] {processor.py:163} INFO - Started process (PID=10432) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:10:13,278] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:10:13,279] {logging_mixin.py:109} INFO - [2022-02-14 11:10:13,279] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:10:13,305] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:10:13,314] {logging_mixin.py:109} INFO - [2022-02-14 11:10:13,314] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:10:13,327] {logging_mixin.py:109} INFO - [2022-02-14 11:10:13,327] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:10:13,342] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2022-02-14 11:10:50,369] {processor.py:163} INFO - Started process (PID=10472) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:10:50,371] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:10:50,372] {logging_mixin.py:109} INFO - [2022-02-14 11:10:50,372] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:10:50,433] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:10:50,455] {logging_mixin.py:109} INFO - [2022-02-14 11:10:50,455] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:10:50,485] {logging_mixin.py:109} INFO - [2022-02-14 11:10:50,485] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:10:50,504] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.140 seconds
+[2022-02-14 11:11:35,771] {processor.py:163} INFO - Started process (PID=10529) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:11:35,773] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:11:35,774] {logging_mixin.py:109} INFO - [2022-02-14 11:11:35,773] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:11:35,803] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:11:35,814] {logging_mixin.py:109} INFO - [2022-02-14 11:11:35,814] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:11:35,828] {logging_mixin.py:109} INFO - [2022-02-14 11:11:35,828] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:11:35,852] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.084 seconds
+[2022-02-14 11:12:19,172] {processor.py:163} INFO - Started process (PID=10577) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:12:19,175] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2022-02-14 11:12:19,176] {logging_mixin.py:109} INFO - [2022-02-14 11:12:19,176] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:12:19,207] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2022-02-14 11:12:19,217] {logging_mixin.py:109} INFO - [2022-02-14 11:12:19,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:12:19,234] {logging_mixin.py:109} INFO - [2022-02-14 11:12:19,234] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2022-02-14 11:12:19,250] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds

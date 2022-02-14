@@ -1,0 +1,56 @@
+[2022-02-14 10:44:21,222] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: credit_card_dag.etl manual__2022-02-14T16:44:16.647584+00:00 [queued]>
+[2022-02-14 10:44:21,232] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: credit_card_dag.etl manual__2022-02-14T16:44:16.647584+00:00 [queued]>
+[2022-02-14 10:44:21,232] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 10:44:21,232] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-14 10:44:21,233] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 10:44:21,254] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): etl> on 2022-02-14 16:44:16.647584+00:00
+[2022-02-14 10:44:21,258] {standard_task_runner.py:52} INFO - Started process 8477 to run task
+[2022-02-14 10:44:21,263] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'credit_card_dag', 'etl', 'manual__2022-02-14T16:44:16.647584+00:00', '--job-id', '25', '--raw', '--subdir', 'DAGS_FOLDER/pipeline.py', '--cfg-path', '/tmp/tmpv95s7igs', '--error-file', '/tmp/tmpun477rud']
+[2022-02-14 10:44:21,264] {standard_task_runner.py:77} INFO - Job 25: Subtask etl
+[2022-02-14 10:44:21,318] {logging_mixin.py:109} INFO - Running <TaskInstance: credit_card_dag.etl manual__2022-02-14T16:44:16.647584+00:00 [running]> on host LAPTOP-GCF7F7F0.localdomain
+[2022-02-14 10:44:21,375] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=credit_card_dag
+AIRFLOW_CTX_TASK_ID=etl
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-14T16:44:16.647584+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-02-14T16:44:16.647584+00:00
+[2022-02-14 10:44:21,612] {logging_mixin.py:109} INFO -     customer_id        customer_name  click_events       date
+0         23733     Stephanie Wilson             5 2004-12-01
+1         78182         Antonio Koch            10 2006-01-10
+2         78033        Angela Barker            11 2009-11-09
+3         13457        Dustin Wright             7 2010-05-26
+4         55013          Amy Vazquez             5 2012-11-21
+5         97220      Crystal Pearson            25 2013-04-08
+6         76568        Denise Barber            20 2013-06-06
+7         16734      Jennifer Howard            20 2013-10-09
+8         90926        Angela Chaney            26 2013-12-10
+9         71672     Jennifer Edwards             3 2014-04-14
+10        11165     Darlene Roberson            20 2015-08-10
+11        30463         Brandon Ford            10 2016-09-26
+12         8020             John Cox            27 2016-12-09
+13         4781           Mark Curry            10 2018-07-19
+14        44701        Dustin Hoover            25 2019-02-12
+15        94348          Larry Riley            13 2019-04-22
+16        33510  Adrienne Morris DDS            29 2019-07-11
+17        63444        Deanna Wilcox            24 2019-07-25
+18        74597          Joshua Cook            10 2019-11-13
+19        56151        Jasmine Davis            11 2020-01-22
+20        34213      Ashley Gonzalez             8 2020-08-14
+21        79383           Sean Mayer             5 2020-10-13
+22         8777      Brian Contreras             8 2021-01-25
+23        41703        Adam Jennings            24 2021-12-29
+24        58012        Timothy Burke            27 2022-02-17
+25        83940          Carlos Hill             5 2004-03-10
+26        43881          Robert Best            27 2004-08-31
+27        17243          Scott Weiss            12 2004-09-01
+28        96764           John Reese            12 2005-09-22
+29        80737         Ronald Avery            12 2022-01-31
+[2022-02-14 10:44:21,626] {logging_mixin.py:109} INFO - Opened database successfully
+[2022-02-14 10:44:21,626] {logging_mixin.py:109} INFO - Data already exists in the database
+[2022-02-14 10:44:21,627] {logging_mixin.py:109} INFO - Close databse successfully
+[2022-02-14 10:44:21,627] {python.py:175} INFO - Done. Returned value was: None
+[2022-02-14 10:44:21,634] {taskinstance.py:1267} INFO - Marking task as SUCCESS. dag_id=credit_card_dag, task_id=etl, execution_date=20220214T164416, start_date=20220214T164421, end_date=20220214T164421
+[2022-02-14 10:44:21,678] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-02-14 10:44:21,701] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

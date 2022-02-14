@@ -1,0 +1,52 @@
+[2022-02-14 08:58:35,242] {processor.py:163} INFO - Started process (PID=3971) to work on /home/astrid/airflow/dags/payments_data.xlsx
+[2022-02-14 08:58:35,244] {processor.py:642} INFO - Processing file /home/astrid/airflow/dags/payments_data.xlsx for tasks to queue
+[2022-02-14 08:58:35,246] {logging_mixin.py:109} INFO - [2022-02-14 08:58:35,245] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/airflow/dags/payments_data.xlsx
+[2022-02-14 08:58:35,273] {processor.py:174} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: dag
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 165, in _run_file_processor
+    result: Tuple[int, int] = dag_file_processor.process_file(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 651, in process_file
+    self._deactivate_missing_dags(session, dagbag, file_path)
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 685, in _deactivate_missing_dags
+    session.query(DagModel)
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 4063, in update
+    update_op.exec_()
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/orm/persistence.py", line 1696, in exec_
+    self._do_pre_synchronize()
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/orm/persistence.py", line 1805, in _do_pre_synchronize
+    self.matched_rows = session.execute(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 1295, in execute
+    return self._connection_for_bind(bind, close_with_result=True).execute(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/home/astrid/AirflowWindows/airflow-venv/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: dag
+[SQL: SELECT dag.dag_id AS dag_dag_id 
+FROM dag 
+WHERE dag.fileloc = ? AND dag.is_active = 1 AND 1 = 1]
+[parameters: ('/home/astrid/airflow/dags/payments_data.xlsx',)]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)

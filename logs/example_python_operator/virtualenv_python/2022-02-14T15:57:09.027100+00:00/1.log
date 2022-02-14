@@ -1,0 +1,80 @@
+[2022-02-14 09:57:16,507] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: example_python_operator.virtualenv_python manual__2022-02-14T15:57:09.027100+00:00 [queued]>
+[2022-02-14 09:57:16,515] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: example_python_operator.virtualenv_python manual__2022-02-14T15:57:09.027100+00:00 [queued]>
+[2022-02-14 09:57:16,515] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 09:57:16,515] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-14 09:57:16,515] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-14 09:57:16,539] {taskinstance.py:1259} INFO - Executing <Task(_PythonVirtualenvDecoratedOperator): virtualenv_python> on 2022-02-14 15:57:09.027100+00:00
+[2022-02-14 09:57:16,541] {standard_task_runner.py:52} INFO - Started process 5027 to run task
+[2022-02-14 09:57:16,544] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'example_python_operator', 'virtualenv_python', 'manual__2022-02-14T15:57:09.027100+00:00', '--job-id', '5', '--raw', '--subdir', '/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py', '--cfg-path', '/tmp/tmp8dfa61k9', '--error-file', '/tmp/tmp6f9thscw']
+[2022-02-14 09:57:16,545] {standard_task_runner.py:77} INFO - Job 5: Subtask virtualenv_python
+[2022-02-14 09:57:16,585] {logging_mixin.py:109} INFO - Running <TaskInstance: example_python_operator.virtualenv_python manual__2022-02-14T15:57:09.027100+00:00 [running]> on host LAPTOP-GCF7F7F0.localdomain
+[2022-02-14 09:57:16,637] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example_python_operator
+AIRFLOW_CTX_TASK_ID=virtualenv_python
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-14T15:57:09.027100+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-02-14T15:57:09.027100+00:00
+[2022-02-14 09:57:16,638] {process_utils.py:160} INFO - Executing cmd: /home/astrid/challenge-env/bin/python -m virtualenv /tmp/venv8p4ibsru
+[2022-02-14 09:57:16,643] {process_utils.py:164} INFO - Output:
+[2022-02-14 09:57:16,665] {process_utils.py:168} INFO - /home/astrid/challenge-env/bin/python: No module named virtualenv
+[2022-02-14 09:57:16,670] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/decorators/base.py", line 134, in execute
+    return_value = super().execute(context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 393, in execute
+    return super().execute(context=serializable_context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 405, in execute_callable
+    prepare_virtualenv(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/python_virtualenv.py", line 96, in prepare_virtualenv
+    execute_in_subprocess(virtualenv_cmd)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/process_utils.py", line 172, in execute_in_subprocess
+    raise subprocess.CalledProcessError(exit_code, cmd)
+subprocess.CalledProcessError: Command '['/home/astrid/challenge-env/bin/python', '-m', 'virtualenv', '/tmp/venv8p4ibsru']' returned non-zero exit status 1.
+[2022-02-14 09:57:16,681] {taskinstance.py:1267} INFO - Marking task as FAILED. dag_id=example_python_operator, task_id=virtualenv_python, execution_date=20220214T155709, start_date=20220214T155716, end_date=20220214T155716
+[2022-02-14 09:57:16,707] {standard_task_runner.py:89} ERROR - Failed to execute job 5 for task virtualenv_python
+Traceback (most recent call last):
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/decorators/base.py", line 134, in execute
+    return_value = super().execute(context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 393, in execute
+    return super().execute(context=serializable_context)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/operators/python.py", line 405, in execute_callable
+    prepare_virtualenv(
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/python_virtualenv.py", line 96, in prepare_virtualenv
+    execute_in_subprocess(virtualenv_cmd)
+  File "/home/astrid/challenge-env/lib/python3.8/site-packages/airflow/utils/process_utils.py", line 172, in execute_in_subprocess
+    raise subprocess.CalledProcessError(exit_code, cmd)
+subprocess.CalledProcessError: Command '['/home/astrid/challenge-env/bin/python', '-m', 'virtualenv', '/tmp/venv8p4ibsru']' returned non-zero exit status 1.
+[2022-02-14 09:57:16,717] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-02-14 09:57:16,737] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

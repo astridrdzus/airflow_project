@@ -1,0 +1,798 @@
+[2022-02-14 09:22:38,542] {processor.py:163} INFO - Started process (PID=4104) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:22:38,543] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:22:38,544] {logging_mixin.py:109} INFO - [2022-02-14 09:22:38,544] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:22:38,570] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:22:38,578] {logging_mixin.py:109} INFO - [2022-02-14 09:22:38,578] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:22:38,600] {logging_mixin.py:109} INFO - [2022-02-14 09:22:38,599] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:22:38.599594+00:00
+[2022-02-14 09:22:38,625] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2022-02-14 09:23:16,538] {processor.py:163} INFO - Started process (PID=4136) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:23:16,540] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:23:16,541] {logging_mixin.py:109} INFO - [2022-02-14 09:23:16,541] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:23:16,569] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:23:16,582] {logging_mixin.py:109} INFO - [2022-02-14 09:23:16,582] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:23:16,602] {logging_mixin.py:109} INFO - [2022-02-14 09:23:16,602] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:23:16.602116+00:00
+[2022-02-14 09:23:16,624] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.091 seconds
+[2022-02-14 09:23:52,042] {processor.py:163} INFO - Started process (PID=4168) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:23:52,043] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:23:52,044] {logging_mixin.py:109} INFO - [2022-02-14 09:23:52,043] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:23:52,060] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:23:52,069] {logging_mixin.py:109} INFO - [2022-02-14 09:23:52,069] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:23:52,081] {logging_mixin.py:109} INFO - [2022-02-14 09:23:52,081] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:23:52.080789+00:00
+[2022-02-14 09:23:52,099] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2022-02-14 09:24:25,717] {processor.py:163} INFO - Started process (PID=4200) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:24:25,718] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:24:25,719] {logging_mixin.py:109} INFO - [2022-02-14 09:24:25,718] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:24:25,741] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:24:25,754] {logging_mixin.py:109} INFO - [2022-02-14 09:24:25,754] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:24:25,769] {logging_mixin.py:109} INFO - [2022-02-14 09:24:25,769] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:24:25.768975+00:00
+[2022-02-14 09:24:25,788] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 09:24:59,915] {processor.py:163} INFO - Started process (PID=4232) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:24:59,917] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:24:59,918] {logging_mixin.py:109} INFO - [2022-02-14 09:24:59,918] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:24:59,944] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:24:59,958] {logging_mixin.py:109} INFO - [2022-02-14 09:24:59,958] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:24:59,976] {logging_mixin.py:109} INFO - [2022-02-14 09:24:59,976] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:24:59.975796+00:00
+[2022-02-14 09:24:59,997] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2022-02-14 09:56:05,959] {processor.py:163} INFO - Started process (PID=4961) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:56:05,962] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:56:05,963] {logging_mixin.py:109} INFO - [2022-02-14 09:56:05,962] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:56:05,984] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:56:05,995] {logging_mixin.py:109} INFO - [2022-02-14 09:56:05,995] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:56:06,011] {logging_mixin.py:109} INFO - [2022-02-14 09:56:06,010] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:56:06.010607+00:00
+[2022-02-14 09:56:06,031] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2022-02-14 09:56:41,403] {processor.py:163} INFO - Started process (PID=4995) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:56:41,406] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:56:41,406] {logging_mixin.py:109} INFO - [2022-02-14 09:56:41,406] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:56:41,426] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:56:41,437] {logging_mixin.py:109} INFO - [2022-02-14 09:56:41,437] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:56:41,452] {logging_mixin.py:109} INFO - [2022-02-14 09:56:41,452] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:56:41.451627+00:00
+[2022-02-14 09:56:41,471] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2022-02-14 09:57:46,639] {processor.py:163} INFO - Started process (PID=5057) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:57:46,640] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:57:46,641] {logging_mixin.py:109} INFO - [2022-02-14 09:57:46,640] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:57:46,657] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:57:46,666] {logging_mixin.py:109} INFO - [2022-02-14 09:57:46,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:57:46,683] {logging_mixin.py:109} INFO - [2022-02-14 09:57:46,682] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:57:46.682480+00:00
+[2022-02-14 09:57:46,701] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.065 seconds
+[2022-02-14 09:58:21,118] {processor.py:163} INFO - Started process (PID=5089) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:58:21,120] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:58:21,120] {logging_mixin.py:109} INFO - [2022-02-14 09:58:21,120] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:58:21,139] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:58:21,150] {logging_mixin.py:109} INFO - [2022-02-14 09:58:21,150] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:58:21,163] {logging_mixin.py:109} INFO - [2022-02-14 09:58:21,163] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:58:21.163286+00:00
+[2022-02-14 09:58:21,179] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2022-02-14 09:58:56,950] {processor.py:163} INFO - Started process (PID=5122) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:58:56,951] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:58:56,952] {logging_mixin.py:109} INFO - [2022-02-14 09:58:56,952] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:58:56,977] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:58:56,990] {logging_mixin.py:109} INFO - [2022-02-14 09:58:56,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:58:57,005] {logging_mixin.py:109} INFO - [2022-02-14 09:58:57,004] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:58:57.004531+00:00
+[2022-02-14 09:58:57,027] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.080 seconds
+[2022-02-14 09:59:31,764] {processor.py:163} INFO - Started process (PID=5155) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:59:31,775] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 09:59:31,776] {logging_mixin.py:109} INFO - [2022-02-14 09:59:31,776] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:59:31,794] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 09:59:31,804] {logging_mixin.py:109} INFO - [2022-02-14 09:59:31,804] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 09:59:31,815] {logging_mixin.py:109} INFO - [2022-02-14 09:59:31,815] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T11:59:31.815343+00:00
+[2022-02-14 09:59:31,836] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:00:07,840] {processor.py:163} INFO - Started process (PID=5188) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:00:07,842] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:00:07,843] {logging_mixin.py:109} INFO - [2022-02-14 10:00:07,843] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:00:07,886] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:00:07,899] {logging_mixin.py:109} INFO - [2022-02-14 10:00:07,899] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:00:07,919] {logging_mixin.py:109} INFO - [2022-02-14 10:00:07,919] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:00:07.918742+00:00
+[2022-02-14 10:00:07,946] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.110 seconds
+[2022-02-14 10:00:42,762] {processor.py:163} INFO - Started process (PID=5223) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:00:42,764] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:00:42,765] {logging_mixin.py:109} INFO - [2022-02-14 10:00:42,765] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:00:42,788] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:00:42,799] {logging_mixin.py:109} INFO - [2022-02-14 10:00:42,799] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:00:42,816] {logging_mixin.py:109} INFO - [2022-02-14 10:00:42,816] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:00:42.816269+00:00
+[2022-02-14 10:00:42,833] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:01:19,984] {processor.py:163} INFO - Started process (PID=5259) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:01:19,985] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:01:19,986] {logging_mixin.py:109} INFO - [2022-02-14 10:01:19,986] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:01:20,013] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:01:20,027] {logging_mixin.py:109} INFO - [2022-02-14 10:01:20,027] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:01:20,047] {logging_mixin.py:109} INFO - [2022-02-14 10:01:20,046] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:01:20.046396+00:00
+[2022-02-14 10:01:20,067] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2022-02-14 10:01:58,247] {processor.py:163} INFO - Started process (PID=5296) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:01:58,256] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:01:58,256] {logging_mixin.py:109} INFO - [2022-02-14 10:01:58,256] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:01:58,290] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:01:58,313] {logging_mixin.py:109} INFO - [2022-02-14 10:01:58,313] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:01:58,340] {logging_mixin.py:109} INFO - [2022-02-14 10:01:58,339] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:01:58.339585+00:00
+[2022-02-14 10:01:58,363] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.119 seconds
+[2022-02-14 10:02:38,455] {processor.py:163} INFO - Started process (PID=5332) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:02:38,457] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:02:38,459] {logging_mixin.py:109} INFO - [2022-02-14 10:02:38,458] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:02:38,479] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:02:38,492] {logging_mixin.py:109} INFO - [2022-02-14 10:02:38,492] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:02:38,508] {logging_mixin.py:109} INFO - [2022-02-14 10:02:38,508] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:02:38.507617+00:00
+[2022-02-14 10:02:38,526] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:03:14,462] {processor.py:163} INFO - Started process (PID=5366) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:03:14,464] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:03:14,465] {logging_mixin.py:109} INFO - [2022-02-14 10:03:14,465] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:03:14,525] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:03:14,544] {logging_mixin.py:109} INFO - [2022-02-14 10:03:14,544] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:03:14,568] {logging_mixin.py:109} INFO - [2022-02-14 10:03:14,568] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:03:14.567489+00:00
+[2022-02-14 10:03:14,604] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.146 seconds
+[2022-02-14 10:03:52,952] {processor.py:163} INFO - Started process (PID=5399) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:03:52,955] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:03:52,956] {logging_mixin.py:109} INFO - [2022-02-14 10:03:52,955] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:03:52,981] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:03:52,994] {logging_mixin.py:109} INFO - [2022-02-14 10:03:52,993] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:03:53,017] {logging_mixin.py:109} INFO - [2022-02-14 10:03:53,017] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:03:53.016879+00:00
+[2022-02-14 10:03:53,036] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.087 seconds
+[2022-02-14 10:04:28,156] {processor.py:163} INFO - Started process (PID=5432) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:04:28,165] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:04:28,166] {logging_mixin.py:109} INFO - [2022-02-14 10:04:28,166] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:04:28,193] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:04:28,206] {logging_mixin.py:109} INFO - [2022-02-14 10:04:28,206] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:04:28,223] {logging_mixin.py:109} INFO - [2022-02-14 10:04:28,223] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:04:28.222668+00:00
+[2022-02-14 10:04:28,243] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.090 seconds
+[2022-02-14 10:05:09,774] {processor.py:163} INFO - Started process (PID=5469) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:05:09,778] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:05:09,779] {logging_mixin.py:109} INFO - [2022-02-14 10:05:09,779] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:05:09,812] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:05:09,832] {logging_mixin.py:109} INFO - [2022-02-14 10:05:09,832] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:05:09,869] {logging_mixin.py:109} INFO - [2022-02-14 10:05:09,869] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:05:09.869040+00:00
+[2022-02-14 10:05:09,901] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.132 seconds
+[2022-02-14 10:05:55,974] {processor.py:163} INFO - Started process (PID=5510) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:05:55,977] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:05:55,978] {logging_mixin.py:109} INFO - [2022-02-14 10:05:55,977] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:05:55,999] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:05:56,015] {logging_mixin.py:109} INFO - [2022-02-14 10:05:56,015] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:05:56,042] {logging_mixin.py:109} INFO - [2022-02-14 10:05:56,041] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:05:56.041058+00:00
+[2022-02-14 10:05:56,059] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.091 seconds
+[2022-02-14 10:06:31,314] {processor.py:163} INFO - Started process (PID=5544) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:06:31,323] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:06:31,324] {logging_mixin.py:109} INFO - [2022-02-14 10:06:31,323] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:06:31,341] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:06:31,353] {logging_mixin.py:109} INFO - [2022-02-14 10:06:31,353] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:06:31,367] {logging_mixin.py:109} INFO - [2022-02-14 10:06:31,367] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:06:31.367302+00:00
+[2022-02-14 10:06:31,385] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:07:09,693] {processor.py:163} INFO - Started process (PID=5580) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:07:09,701] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:07:09,702] {logging_mixin.py:109} INFO - [2022-02-14 10:07:09,702] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:07:09,721] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:07:09,730] {logging_mixin.py:109} INFO - [2022-02-14 10:07:09,729] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:07:09,745] {logging_mixin.py:109} INFO - [2022-02-14 10:07:09,745] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:07:09.745142+00:00
+[2022-02-14 10:07:09,764] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:07:47,120] {processor.py:163} INFO - Started process (PID=5617) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:07:47,129] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:07:47,129] {logging_mixin.py:109} INFO - [2022-02-14 10:07:47,129] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:07:47,149] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:07:47,159] {logging_mixin.py:109} INFO - [2022-02-14 10:07:47,159] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:07:47,174] {logging_mixin.py:109} INFO - [2022-02-14 10:07:47,173] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:07:47.173594+00:00
+[2022-02-14 10:07:47,193] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2022-02-14 10:08:26,300] {processor.py:163} INFO - Started process (PID=5659) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:08:26,301] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:08:26,302] {logging_mixin.py:109} INFO - [2022-02-14 10:08:26,302] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:08:26,336] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:08:26,353] {logging_mixin.py:109} INFO - [2022-02-14 10:08:26,353] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:08:26,373] {logging_mixin.py:109} INFO - [2022-02-14 10:08:26,372] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:08:26.372077+00:00
+[2022-02-14 10:08:26,399] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.102 seconds
+[2022-02-14 10:09:09,610] {processor.py:163} INFO - Started process (PID=5699) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:09:09,619] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:09:09,620] {logging_mixin.py:109} INFO - [2022-02-14 10:09:09,620] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:09:09,643] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:09:09,653] {logging_mixin.py:109} INFO - [2022-02-14 10:09:09,653] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:09:09,672] {logging_mixin.py:109} INFO - [2022-02-14 10:09:09,672] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:09:09.671519+00:00
+[2022-02-14 10:09:09,691] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2022-02-14 10:09:50,308] {processor.py:163} INFO - Started process (PID=5735) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:09:50,309] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:09:50,310] {logging_mixin.py:109} INFO - [2022-02-14 10:09:50,310] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:09:50,327] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:09:50,336] {logging_mixin.py:109} INFO - [2022-02-14 10:09:50,336] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:09:50,348] {logging_mixin.py:109} INFO - [2022-02-14 10:09:50,347] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:09:50.347683+00:00
+[2022-02-14 10:09:50,365] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2022-02-14 10:10:28,499] {processor.py:163} INFO - Started process (PID=6151) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:10:28,508] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:10:28,508] {logging_mixin.py:109} INFO - [2022-02-14 10:10:28,508] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:10:28,529] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:10:28,542] {logging_mixin.py:109} INFO - [2022-02-14 10:10:28,542] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:10:28,559] {logging_mixin.py:109} INFO - [2022-02-14 10:10:28,559] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:10:28.559211+00:00
+[2022-02-14 10:10:28,575] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.078 seconds
+[2022-02-14 10:11:10,868] {processor.py:163} INFO - Started process (PID=6192) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:11:10,870] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:11:10,871] {logging_mixin.py:109} INFO - [2022-02-14 10:11:10,871] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:11:10,889] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:11:10,898] {logging_mixin.py:109} INFO - [2022-02-14 10:11:10,898] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:11:10,910] {logging_mixin.py:109} INFO - [2022-02-14 10:11:10,910] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:11:10.910473+00:00
+[2022-02-14 10:11:10,926] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.061 seconds
+[2022-02-14 10:12:06,270] {processor.py:163} INFO - Started process (PID=6256) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:12:06,272] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:12:06,273] {logging_mixin.py:109} INFO - [2022-02-14 10:12:06,273] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:12:06,296] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:12:06,307] {logging_mixin.py:109} INFO - [2022-02-14 10:12:06,306] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:12:06,327] {logging_mixin.py:109} INFO - [2022-02-14 10:12:06,326] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:12:06.326556+00:00
+[2022-02-14 10:12:06,353] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2022-02-14 10:12:53,562] {processor.py:163} INFO - Started process (PID=6302) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:12:53,564] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:12:53,565] {logging_mixin.py:109} INFO - [2022-02-14 10:12:53,565] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:12:53,589] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:12:53,600] {logging_mixin.py:109} INFO - [2022-02-14 10:12:53,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:12:53,616] {logging_mixin.py:109} INFO - [2022-02-14 10:12:53,616] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:12:53.615776+00:00
+[2022-02-14 10:12:53,636] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2022-02-14 10:13:41,943] {processor.py:163} INFO - Started process (PID=6367) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:13:41,944] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:13:41,945] {logging_mixin.py:109} INFO - [2022-02-14 10:13:41,945] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:13:41,968] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:13:41,978] {logging_mixin.py:109} INFO - [2022-02-14 10:13:41,978] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:13:41,993] {logging_mixin.py:109} INFO - [2022-02-14 10:13:41,992] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:13:41.992667+00:00
+[2022-02-14 10:13:42,010] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2022-02-14 10:14:29,937] {processor.py:163} INFO - Started process (PID=6436) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:14:29,946] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:14:29,946] {logging_mixin.py:109} INFO - [2022-02-14 10:14:29,946] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:14:29,966] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:14:29,976] {logging_mixin.py:109} INFO - [2022-02-14 10:14:29,976] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:14:29,992] {logging_mixin.py:109} INFO - [2022-02-14 10:14:29,991] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:14:29.991580+00:00
+[2022-02-14 10:14:30,010] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2022-02-14 10:15:11,483] {processor.py:163} INFO - Started process (PID=6485) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:15:11,484] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:15:11,485] {logging_mixin.py:109} INFO - [2022-02-14 10:15:11,485] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:15:11,504] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:15:11,515] {logging_mixin.py:109} INFO - [2022-02-14 10:15:11,515] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:15:11,530] {logging_mixin.py:109} INFO - [2022-02-14 10:15:11,530] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:15:11.530424+00:00
+[2022-02-14 10:15:11,547] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.066 seconds
+[2022-02-14 10:15:53,137] {processor.py:163} INFO - Started process (PID=6536) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:15:53,146] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:15:53,147] {logging_mixin.py:109} INFO - [2022-02-14 10:15:53,147] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:15:53,169] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:15:53,181] {logging_mixin.py:109} INFO - [2022-02-14 10:15:53,181] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:15:53,200] {logging_mixin.py:109} INFO - [2022-02-14 10:15:53,200] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:15:53.199667+00:00
+[2022-02-14 10:15:53,219] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2022-02-14 10:16:37,875] {processor.py:163} INFO - Started process (PID=6602) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:16:37,876] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:16:37,877] {logging_mixin.py:109} INFO - [2022-02-14 10:16:37,877] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:16:37,896] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:16:37,904] {logging_mixin.py:109} INFO - [2022-02-14 10:16:37,904] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:16:37,916] {logging_mixin.py:109} INFO - [2022-02-14 10:16:37,916] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:16:37.916333+00:00
+[2022-02-14 10:16:37,932] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2022-02-14 10:17:18,681] {processor.py:163} INFO - Started process (PID=6644) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:17:18,684] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:17:18,684] {logging_mixin.py:109} INFO - [2022-02-14 10:17:18,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:17:18,708] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:17:18,724] {logging_mixin.py:109} INFO - [2022-02-14 10:17:18,724] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:17:18,745] {logging_mixin.py:109} INFO - [2022-02-14 10:17:18,744] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:17:18.744412+00:00
+[2022-02-14 10:17:18,766] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.087 seconds
+[2022-02-14 10:18:02,677] {processor.py:163} INFO - Started process (PID=6691) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:18:02,679] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:18:02,680] {logging_mixin.py:109} INFO - [2022-02-14 10:18:02,680] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:18:02,708] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:18:02,725] {logging_mixin.py:109} INFO - [2022-02-14 10:18:02,725] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:18:02,746] {logging_mixin.py:109} INFO - [2022-02-14 10:18:02,746] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:18:02.745797+00:00
+[2022-02-14 10:18:02,766] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.091 seconds
+[2022-02-14 10:18:48,389] {processor.py:163} INFO - Started process (PID=6736) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:18:48,391] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:18:48,391] {logging_mixin.py:109} INFO - [2022-02-14 10:18:48,391] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:18:48,411] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:18:48,425] {logging_mixin.py:109} INFO - [2022-02-14 10:18:48,425] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:18:48,440] {logging_mixin.py:109} INFO - [2022-02-14 10:18:48,440] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:18:48.439979+00:00
+[2022-02-14 10:18:48,458] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2022-02-14 10:19:28,263] {processor.py:163} INFO - Started process (PID=6787) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:19:28,264] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:19:28,265] {logging_mixin.py:109} INFO - [2022-02-14 10:19:28,265] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:19:28,284] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:19:28,294] {logging_mixin.py:109} INFO - [2022-02-14 10:19:28,294] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:19:28,307] {logging_mixin.py:109} INFO - [2022-02-14 10:19:28,307] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:19:28.307272+00:00
+[2022-02-14 10:19:28,324] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2022-02-14 10:20:08,664] {processor.py:163} INFO - Started process (PID=6830) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:20:08,665] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:20:08,666] {logging_mixin.py:109} INFO - [2022-02-14 10:20:08,666] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:20:08,684] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:20:08,693] {logging_mixin.py:109} INFO - [2022-02-14 10:20:08,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:20:08,705] {logging_mixin.py:109} INFO - [2022-02-14 10:20:08,705] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:20:08.705346+00:00
+[2022-02-14 10:20:08,721] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2022-02-14 10:20:46,959] {processor.py:163} INFO - Started process (PID=6875) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:20:46,968] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:20:46,969] {logging_mixin.py:109} INFO - [2022-02-14 10:20:46,969] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:20:47,003] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:20:47,028] {logging_mixin.py:109} INFO - [2022-02-14 10:20:47,027] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:20:47,069] {logging_mixin.py:109} INFO - [2022-02-14 10:20:47,068] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:20:47.068022+00:00
+[2022-02-14 10:20:47,147] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.190 seconds
+[2022-02-14 10:21:25,630] {processor.py:163} INFO - Started process (PID=6917) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:21:25,636] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:21:25,637] {logging_mixin.py:109} INFO - [2022-02-14 10:21:25,637] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:21:25,654] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:21:25,664] {logging_mixin.py:109} INFO - [2022-02-14 10:21:25,664] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:21:25,677] {logging_mixin.py:109} INFO - [2022-02-14 10:21:25,677] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:21:25.676965+00:00
+[2022-02-14 10:21:25,695] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2022-02-14 10:22:04,311] {processor.py:163} INFO - Started process (PID=6962) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:22:04,313] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:22:04,313] {logging_mixin.py:109} INFO - [2022-02-14 10:22:04,313] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:22:04,335] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:22:04,344] {logging_mixin.py:109} INFO - [2022-02-14 10:22:04,344] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:22:04,356] {logging_mixin.py:109} INFO - [2022-02-14 10:22:04,356] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:22:04.356547+00:00
+[2022-02-14 10:22:04,376] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2022-02-14 10:22:48,891] {processor.py:163} INFO - Started process (PID=7015) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:22:48,892] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:22:48,893] {logging_mixin.py:109} INFO - [2022-02-14 10:22:48,893] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:22:48,912] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:22:48,921] {logging_mixin.py:109} INFO - [2022-02-14 10:22:48,921] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:22:48,935] {logging_mixin.py:109} INFO - [2022-02-14 10:22:48,934] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:22:48.934599+00:00
+[2022-02-14 10:22:48,952] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2022-02-14 10:23:36,875] {processor.py:163} INFO - Started process (PID=7073) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:23:36,877] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:23:36,878] {logging_mixin.py:109} INFO - [2022-02-14 10:23:36,877] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:23:36,894] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:23:36,904] {logging_mixin.py:109} INFO - [2022-02-14 10:23:36,904] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:23:36,918] {logging_mixin.py:109} INFO - [2022-02-14 10:23:36,918] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:23:36.918401+00:00
+[2022-02-14 10:23:36,934] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.061 seconds
+[2022-02-14 10:24:16,035] {processor.py:163} INFO - Started process (PID=7117) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:24:16,037] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:24:16,038] {logging_mixin.py:109} INFO - [2022-02-14 10:24:16,038] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:24:16,062] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:24:16,072] {logging_mixin.py:109} INFO - [2022-02-14 10:24:16,072] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:24:16,086] {logging_mixin.py:109} INFO - [2022-02-14 10:24:16,086] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:24:16.085942+00:00
+[2022-02-14 10:24:16,103] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2022-02-14 10:24:55,598] {processor.py:163} INFO - Started process (PID=7161) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:24:55,600] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:24:55,602] {logging_mixin.py:109} INFO - [2022-02-14 10:24:55,601] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:24:55,630] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:24:55,643] {logging_mixin.py:109} INFO - [2022-02-14 10:24:55,643] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:24:55,663] {logging_mixin.py:109} INFO - [2022-02-14 10:24:55,663] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:24:55.662528+00:00
+[2022-02-14 10:24:55,684] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.089 seconds
+[2022-02-14 10:25:45,298] {processor.py:163} INFO - Started process (PID=7216) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:25:45,300] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:25:45,301] {logging_mixin.py:109} INFO - [2022-02-14 10:25:45,301] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:25:45,323] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:25:45,334] {logging_mixin.py:109} INFO - [2022-02-14 10:25:45,334] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:25:45,351] {logging_mixin.py:109} INFO - [2022-02-14 10:25:45,351] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:25:45.350953+00:00
+[2022-02-14 10:25:45,380] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2022-02-14 10:26:33,280] {processor.py:163} INFO - Started process (PID=7265) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:26:33,282] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:26:33,283] {logging_mixin.py:109} INFO - [2022-02-14 10:26:33,282] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:26:33,311] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:26:33,329] {logging_mixin.py:109} INFO - [2022-02-14 10:26:33,329] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:26:33,347] {logging_mixin.py:109} INFO - [2022-02-14 10:26:33,347] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:26:33.347004+00:00
+[2022-02-14 10:26:33,372] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.095 seconds
+[2022-02-14 10:27:14,170] {processor.py:163} INFO - Started process (PID=7309) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:27:14,179] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:27:14,180] {logging_mixin.py:109} INFO - [2022-02-14 10:27:14,180] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:27:14,204] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:27:14,216] {logging_mixin.py:109} INFO - [2022-02-14 10:27:14,215] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:27:14,234] {logging_mixin.py:109} INFO - [2022-02-14 10:27:14,234] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:27:14.233824+00:00
+[2022-02-14 10:27:14,253] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2022-02-14 10:27:57,311] {processor.py:163} INFO - Started process (PID=7361) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:27:57,313] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:27:57,314] {logging_mixin.py:109} INFO - [2022-02-14 10:27:57,314] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:27:57,346] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:27:57,367] {logging_mixin.py:109} INFO - [2022-02-14 10:27:57,366] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:27:57,398] {logging_mixin.py:109} INFO - [2022-02-14 10:27:57,397] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:27:57.397289+00:00
+[2022-02-14 10:27:57,430] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.122 seconds
+[2022-02-14 10:28:39,318] {processor.py:163} INFO - Started process (PID=7406) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:28:39,319] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:28:39,320] {logging_mixin.py:109} INFO - [2022-02-14 10:28:39,320] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:28:39,339] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:28:39,350] {logging_mixin.py:109} INFO - [2022-02-14 10:28:39,350] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:28:39,368] {logging_mixin.py:109} INFO - [2022-02-14 10:28:39,368] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:28:39.368314+00:00
+[2022-02-14 10:28:39,393] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2022-02-14 10:29:20,563] {processor.py:163} INFO - Started process (PID=7450) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:29:20,565] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:29:20,566] {logging_mixin.py:109} INFO - [2022-02-14 10:29:20,566] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:29:20,588] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:29:20,601] {logging_mixin.py:109} INFO - [2022-02-14 10:29:20,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:29:20,620] {logging_mixin.py:109} INFO - [2022-02-14 10:29:20,620] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:29:20.620265+00:00
+[2022-02-14 10:29:20,643] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.082 seconds
+[2022-02-14 10:30:02,225] {processor.py:163} INFO - Started process (PID=7494) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:30:02,237] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:30:02,238] {logging_mixin.py:109} INFO - [2022-02-14 10:30:02,238] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:30:02,307] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:30:02,338] {logging_mixin.py:109} INFO - [2022-02-14 10:30:02,338] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:30:02,365] {logging_mixin.py:109} INFO - [2022-02-14 10:30:02,365] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:30:02.364551+00:00
+[2022-02-14 10:30:02,391] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.172 seconds
+[2022-02-14 10:30:46,930] {processor.py:163} INFO - Started process (PID=7543) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:30:46,932] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:30:46,933] {logging_mixin.py:109} INFO - [2022-02-14 10:30:46,933] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:30:46,960] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:30:46,972] {logging_mixin.py:109} INFO - [2022-02-14 10:30:46,971] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:30:46,987] {logging_mixin.py:109} INFO - [2022-02-14 10:30:46,987] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:30:46.986896+00:00
+[2022-02-14 10:30:47,005] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2022-02-14 10:31:31,737] {processor.py:163} INFO - Started process (PID=7598) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:31:31,739] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:31:31,740] {logging_mixin.py:109} INFO - [2022-02-14 10:31:31,740] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:31:31,765] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:31:31,775] {logging_mixin.py:109} INFO - [2022-02-14 10:31:31,775] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:31:31,788] {logging_mixin.py:109} INFO - [2022-02-14 10:31:31,788] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:31:31.788528+00:00
+[2022-02-14 10:31:31,806] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2022-02-14 10:32:11,228] {processor.py:163} INFO - Started process (PID=7641) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:32:11,237] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:32:11,238] {logging_mixin.py:109} INFO - [2022-02-14 10:32:11,237] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:32:11,257] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:32:11,266] {logging_mixin.py:109} INFO - [2022-02-14 10:32:11,266] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:32:11,279] {logging_mixin.py:109} INFO - [2022-02-14 10:32:11,279] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:32:11.279162+00:00
+[2022-02-14 10:32:11,298] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2022-02-14 10:32:50,474] {processor.py:163} INFO - Started process (PID=7684) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:32:50,475] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:32:50,476] {logging_mixin.py:109} INFO - [2022-02-14 10:32:50,476] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:32:50,496] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:32:50,509] {logging_mixin.py:109} INFO - [2022-02-14 10:32:50,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:32:50,523] {logging_mixin.py:109} INFO - [2022-02-14 10:32:50,523] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:32:50.523428+00:00
+[2022-02-14 10:32:50,541] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.069 seconds
+[2022-02-14 10:33:30,226] {processor.py:163} INFO - Started process (PID=7728) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:33:30,235] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:33:30,236] {logging_mixin.py:109} INFO - [2022-02-14 10:33:30,236] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:33:30,259] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:33:30,269] {logging_mixin.py:109} INFO - [2022-02-14 10:33:30,269] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:33:30,285] {logging_mixin.py:109} INFO - [2022-02-14 10:33:30,285] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:33:30.284789+00:00
+[2022-02-14 10:33:30,302] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.078 seconds
+[2022-02-14 10:34:09,713] {processor.py:163} INFO - Started process (PID=7770) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:34:09,722] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:34:09,723] {logging_mixin.py:109} INFO - [2022-02-14 10:34:09,723] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:34:09,741] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:34:09,750] {logging_mixin.py:109} INFO - [2022-02-14 10:34:09,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:34:09,765] {logging_mixin.py:109} INFO - [2022-02-14 10:34:09,765] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:34:09.764734+00:00
+[2022-02-14 10:34:09,783] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2022-02-14 10:34:51,891] {processor.py:163} INFO - Started process (PID=7814) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:34:51,893] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:34:51,894] {logging_mixin.py:109} INFO - [2022-02-14 10:34:51,894] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:34:51,934] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:34:51,948] {logging_mixin.py:109} INFO - [2022-02-14 10:34:51,948] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:34:51,972] {logging_mixin.py:109} INFO - [2022-02-14 10:34:51,972] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:34:51.971086+00:00
+[2022-02-14 10:34:51,994] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.106 seconds
+[2022-02-14 10:35:30,865] {processor.py:163} INFO - Started process (PID=7858) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:35:30,874] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:35:30,874] {logging_mixin.py:109} INFO - [2022-02-14 10:35:30,874] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:35:30,894] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:35:30,903] {logging_mixin.py:109} INFO - [2022-02-14 10:35:30,903] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:35:30,918] {logging_mixin.py:109} INFO - [2022-02-14 10:35:30,918] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:35:30.918254+00:00
+[2022-02-14 10:35:30,935] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2022-02-14 10:36:13,568] {processor.py:163} INFO - Started process (PID=7903) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:36:13,570] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:36:13,571] {logging_mixin.py:109} INFO - [2022-02-14 10:36:13,571] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:36:13,593] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:36:13,604] {logging_mixin.py:109} INFO - [2022-02-14 10:36:13,604] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:36:13,619] {logging_mixin.py:109} INFO - [2022-02-14 10:36:13,619] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:36:13.618955+00:00
+[2022-02-14 10:36:13,635] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2022-02-14 10:36:56,001] {processor.py:163} INFO - Started process (PID=7954) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:36:56,004] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:36:56,005] {logging_mixin.py:109} INFO - [2022-02-14 10:36:56,005] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:36:56,026] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:36:56,036] {logging_mixin.py:109} INFO - [2022-02-14 10:36:56,036] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:36:56,051] {logging_mixin.py:109} INFO - [2022-02-14 10:36:56,051] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:36:56.050964+00:00
+[2022-02-14 10:36:56,068] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2022-02-14 10:37:37,479] {processor.py:163} INFO - Started process (PID=8000) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:37:37,481] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:37:37,482] {logging_mixin.py:109} INFO - [2022-02-14 10:37:37,482] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:37:37,518] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:37:37,533] {logging_mixin.py:109} INFO - [2022-02-14 10:37:37,533] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:37:37,562] {logging_mixin.py:109} INFO - [2022-02-14 10:37:37,562] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:37:37.561989+00:00
+[2022-02-14 10:37:37,581] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.104 seconds
+[2022-02-14 10:38:15,810] {processor.py:163} INFO - Started process (PID=8042) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:38:15,813] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:38:15,814] {logging_mixin.py:109} INFO - [2022-02-14 10:38:15,814] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:38:15,869] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:38:15,887] {logging_mixin.py:109} INFO - [2022-02-14 10:38:15,886] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:38:15,918] {logging_mixin.py:109} INFO - [2022-02-14 10:38:15,917] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:38:15.912828+00:00
+[2022-02-14 10:38:15,949] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.143 seconds
+[2022-02-14 10:39:09,103] {processor.py:163} INFO - Started process (PID=8101) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:39:09,104] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:39:09,105] {logging_mixin.py:109} INFO - [2022-02-14 10:39:09,104] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:39:09,121] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:39:09,130] {logging_mixin.py:109} INFO - [2022-02-14 10:39:09,130] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:39:09,144] {logging_mixin.py:109} INFO - [2022-02-14 10:39:09,143] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:39:09.143607+00:00
+[2022-02-14 10:39:09,165] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.065 seconds
+[2022-02-14 10:39:49,831] {processor.py:163} INFO - Started process (PID=8145) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:39:49,832] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:39:49,833] {logging_mixin.py:109} INFO - [2022-02-14 10:39:49,833] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:39:49,859] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:39:49,872] {logging_mixin.py:109} INFO - [2022-02-14 10:39:49,872] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:39:49,890] {logging_mixin.py:109} INFO - [2022-02-14 10:39:49,889] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:39:49.889436+00:00
+[2022-02-14 10:39:49,912] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2022-02-14 10:40:29,987] {processor.py:163} INFO - Started process (PID=8188) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:40:29,989] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:40:29,990] {logging_mixin.py:109} INFO - [2022-02-14 10:40:29,990] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:40:30,012] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:40:30,021] {logging_mixin.py:109} INFO - [2022-02-14 10:40:30,021] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:40:30,036] {logging_mixin.py:109} INFO - [2022-02-14 10:40:30,036] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:40:30.036541+00:00
+[2022-02-14 10:40:30,059] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:41:12,654] {processor.py:163} INFO - Started process (PID=8242) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:41:12,663] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:41:12,663] {logging_mixin.py:109} INFO - [2022-02-14 10:41:12,663] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:41:12,684] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:41:12,695] {logging_mixin.py:109} INFO - [2022-02-14 10:41:12,695] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:41:12,709] {logging_mixin.py:109} INFO - [2022-02-14 10:41:12,709] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:41:12.709607+00:00
+[2022-02-14 10:41:12,729] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2022-02-14 10:41:57,207] {processor.py:163} INFO - Started process (PID=8290) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:41:57,209] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:41:57,210] {logging_mixin.py:109} INFO - [2022-02-14 10:41:57,210] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:41:57,232] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:41:57,244] {logging_mixin.py:109} INFO - [2022-02-14 10:41:57,244] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:41:57,259] {logging_mixin.py:109} INFO - [2022-02-14 10:41:57,259] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:41:57.259353+00:00
+[2022-02-14 10:41:57,279] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2022-02-14 10:42:57,152] {processor.py:163} INFO - Started process (PID=8373) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:42:57,154] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:42:57,156] {logging_mixin.py:109} INFO - [2022-02-14 10:42:57,156] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:42:57,185] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:42:57,199] {logging_mixin.py:109} INFO - [2022-02-14 10:42:57,199] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:42:57,216] {logging_mixin.py:109} INFO - [2022-02-14 10:42:57,216] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:42:57.216418+00:00
+[2022-02-14 10:42:57,244] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.095 seconds
+[2022-02-14 10:43:37,523] {processor.py:163} INFO - Started process (PID=8417) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:43:37,525] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:43:37,526] {logging_mixin.py:109} INFO - [2022-02-14 10:43:37,526] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:43:37,557] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:43:37,570] {logging_mixin.py:109} INFO - [2022-02-14 10:43:37,570] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:43:37,589] {logging_mixin.py:109} INFO - [2022-02-14 10:43:37,589] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:43:37.588766+00:00
+[2022-02-14 10:43:37,610] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.091 seconds
+[2022-02-14 10:44:24,906] {processor.py:163} INFO - Started process (PID=8480) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:44:24,908] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:44:24,908] {logging_mixin.py:109} INFO - [2022-02-14 10:44:24,908] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:44:24,928] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:44:24,939] {logging_mixin.py:109} INFO - [2022-02-14 10:44:24,939] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:44:24,956] {logging_mixin.py:109} INFO - [2022-02-14 10:44:24,955] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:44:24.955585+00:00
+[2022-02-14 10:44:24,981] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2022-02-14 10:45:13,156] {processor.py:163} INFO - Started process (PID=8641) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:45:13,157] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:45:13,157] {logging_mixin.py:109} INFO - [2022-02-14 10:45:13,157] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:45:13,177] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:45:13,186] {logging_mixin.py:109} INFO - [2022-02-14 10:45:13,186] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:45:13,200] {logging_mixin.py:109} INFO - [2022-02-14 10:45:13,200] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:45:13.199763+00:00
+[2022-02-14 10:45:13,218] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.065 seconds
+[2022-02-14 10:45:55,375] {processor.py:163} INFO - Started process (PID=8685) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:45:55,384] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:45:55,384] {logging_mixin.py:109} INFO - [2022-02-14 10:45:55,384] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:45:55,402] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:45:55,411] {logging_mixin.py:109} INFO - [2022-02-14 10:45:55,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:45:55,423] {logging_mixin.py:109} INFO - [2022-02-14 10:45:55,422] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:45:55.422627+00:00
+[2022-02-14 10:45:55,439] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2022-02-14 10:46:43,058] {processor.py:163} INFO - Started process (PID=8734) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:46:43,067] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:46:43,068] {logging_mixin.py:109} INFO - [2022-02-14 10:46:43,068] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:46:43,089] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:46:43,099] {logging_mixin.py:109} INFO - [2022-02-14 10:46:43,099] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:46:43,119] {logging_mixin.py:109} INFO - [2022-02-14 10:46:43,118] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:46:43.118386+00:00
+[2022-02-14 10:46:43,138] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2022-02-14 10:47:35,646] {processor.py:163} INFO - Started process (PID=8801) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:47:35,655] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:47:35,656] {logging_mixin.py:109} INFO - [2022-02-14 10:47:35,656] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:47:35,676] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:47:35,688] {logging_mixin.py:109} INFO - [2022-02-14 10:47:35,688] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:47:35,703] {logging_mixin.py:109} INFO - [2022-02-14 10:47:35,703] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:47:35.703597+00:00
+[2022-02-14 10:47:35,727] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2022-02-14 10:48:19,945] {processor.py:163} INFO - Started process (PID=8847) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:48:19,953] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:48:19,954] {logging_mixin.py:109} INFO - [2022-02-14 10:48:19,954] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:48:19,973] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:48:19,983] {logging_mixin.py:109} INFO - [2022-02-14 10:48:19,982] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:48:19,998] {logging_mixin.py:109} INFO - [2022-02-14 10:48:19,997] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:48:19.997374+00:00
+[2022-02-14 10:48:20,016] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:49:11,786] {processor.py:163} INFO - Started process (PID=8910) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:49:11,788] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:49:11,788] {logging_mixin.py:109} INFO - [2022-02-14 10:49:11,788] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:49:11,807] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:49:11,819] {logging_mixin.py:109} INFO - [2022-02-14 10:49:11,819] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:49:11,835] {logging_mixin.py:109} INFO - [2022-02-14 10:49:11,835] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:49:11.834823+00:00
+[2022-02-14 10:49:11,857] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:50:04,688] {processor.py:163} INFO - Started process (PID=8985) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:50:04,690] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:50:04,691] {logging_mixin.py:109} INFO - [2022-02-14 10:50:04,691] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:50:04,715] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:50:04,727] {logging_mixin.py:109} INFO - [2022-02-14 10:50:04,727] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:50:04,745] {logging_mixin.py:109} INFO - [2022-02-14 10:50:04,745] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:50:04.744708+00:00
+[2022-02-14 10:50:04,779] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.093 seconds
+[2022-02-14 10:50:45,394] {processor.py:163} INFO - Started process (PID=9028) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:50:45,396] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:50:45,397] {logging_mixin.py:109} INFO - [2022-02-14 10:50:45,397] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:50:45,424] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:50:45,438] {logging_mixin.py:109} INFO - [2022-02-14 10:50:45,438] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:50:45,457] {logging_mixin.py:109} INFO - [2022-02-14 10:50:45,457] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:50:45.456631+00:00
+[2022-02-14 10:50:45,477] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2022-02-14 10:51:28,844] {processor.py:163} INFO - Started process (PID=9080) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:51:28,845] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:51:28,846] {logging_mixin.py:109} INFO - [2022-02-14 10:51:28,846] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:51:28,865] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:51:28,874] {logging_mixin.py:109} INFO - [2022-02-14 10:51:28,874] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:51:28,887] {logging_mixin.py:109} INFO - [2022-02-14 10:51:28,887] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:51:28.887364+00:00
+[2022-02-14 10:51:28,905] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2022-02-14 10:52:13,811] {processor.py:163} INFO - Started process (PID=9127) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:52:13,820] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:52:13,821] {logging_mixin.py:109} INFO - [2022-02-14 10:52:13,820] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:52:13,846] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:52:13,857] {logging_mixin.py:109} INFO - [2022-02-14 10:52:13,857] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:52:13,871] {logging_mixin.py:109} INFO - [2022-02-14 10:52:13,870] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:52:13.870554+00:00
+[2022-02-14 10:52:13,892] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2022-02-14 10:52:52,598] {processor.py:163} INFO - Started process (PID=9169) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:52:52,602] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:52:52,603] {logging_mixin.py:109} INFO - [2022-02-14 10:52:52,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:52:52,625] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:52:52,635] {logging_mixin.py:109} INFO - [2022-02-14 10:52:52,635] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:52:52,651] {logging_mixin.py:109} INFO - [2022-02-14 10:52:52,651] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:52:52.650802+00:00
+[2022-02-14 10:52:52,677] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.082 seconds
+[2022-02-14 10:53:30,927] {processor.py:163} INFO - Started process (PID=9212) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:53:30,937] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:53:30,937] {logging_mixin.py:109} INFO - [2022-02-14 10:53:30,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:53:30,958] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:53:30,968] {logging_mixin.py:109} INFO - [2022-02-14 10:53:30,968] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:53:30,981] {logging_mixin.py:109} INFO - [2022-02-14 10:53:30,981] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:53:30.981012+00:00
+[2022-02-14 10:53:30,997] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2022-02-14 10:54:10,192] {processor.py:163} INFO - Started process (PID=9255) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:54:10,195] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:54:10,196] {logging_mixin.py:109} INFO - [2022-02-14 10:54:10,196] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:54:10,216] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:54:10,226] {logging_mixin.py:109} INFO - [2022-02-14 10:54:10,226] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:54:10,239] {logging_mixin.py:109} INFO - [2022-02-14 10:54:10,238] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:54:10.238708+00:00
+[2022-02-14 10:54:10,255] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.066 seconds
+[2022-02-14 10:54:49,506] {processor.py:163} INFO - Started process (PID=9297) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:54:49,514] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:54:49,515] {logging_mixin.py:109} INFO - [2022-02-14 10:54:49,515] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:54:49,531] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:54:49,543] {logging_mixin.py:109} INFO - [2022-02-14 10:54:49,542] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:54:49,558] {logging_mixin.py:109} INFO - [2022-02-14 10:54:49,558] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:54:49.558372+00:00
+[2022-02-14 10:54:49,574] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2022-02-14 10:55:31,887] {processor.py:163} INFO - Started process (PID=9349) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:55:31,889] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:55:31,889] {logging_mixin.py:109} INFO - [2022-02-14 10:55:31,889] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:55:31,908] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:55:31,919] {logging_mixin.py:109} INFO - [2022-02-14 10:55:31,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:55:31,937] {logging_mixin.py:109} INFO - [2022-02-14 10:55:31,937] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:55:31.937318+00:00
+[2022-02-14 10:55:31,959] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:56:12,406] {processor.py:163} INFO - Started process (PID=9392) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:56:12,408] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:56:12,409] {logging_mixin.py:109} INFO - [2022-02-14 10:56:12,409] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:56:12,438] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:56:12,450] {logging_mixin.py:109} INFO - [2022-02-14 10:56:12,450] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:56:12,482] {logging_mixin.py:109} INFO - [2022-02-14 10:56:12,481] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:56:12.480728+00:00
+[2022-02-14 10:56:12,508] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.105 seconds
+[2022-02-14 10:56:56,678] {processor.py:163} INFO - Started process (PID=9443) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:56:56,680] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:56:56,681] {logging_mixin.py:109} INFO - [2022-02-14 10:56:56,680] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:56:56,705] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:56:56,720] {logging_mixin.py:109} INFO - [2022-02-14 10:56:56,720] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:56:56,740] {logging_mixin.py:109} INFO - [2022-02-14 10:56:56,740] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:56:56.740315+00:00
+[2022-02-14 10:56:56,760] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2022-02-14 10:57:35,324] {processor.py:163} INFO - Started process (PID=9485) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:57:35,326] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:57:35,327] {logging_mixin.py:109} INFO - [2022-02-14 10:57:35,327] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:57:35,347] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:57:35,358] {logging_mixin.py:109} INFO - [2022-02-14 10:57:35,358] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:57:35,372] {logging_mixin.py:109} INFO - [2022-02-14 10:57:35,372] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:57:35.371883+00:00
+[2022-02-14 10:57:35,395] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:58:16,900] {processor.py:163} INFO - Started process (PID=9639) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:58:16,908] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:58:16,909] {logging_mixin.py:109} INFO - [2022-02-14 10:58:16,909] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:58:16,926] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:58:16,935] {logging_mixin.py:109} INFO - [2022-02-14 10:58:16,935] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:58:16,948] {logging_mixin.py:109} INFO - [2022-02-14 10:58:16,948] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:58:16.947832+00:00
+[2022-02-14 10:58:16,972] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-02-14 10:58:58,324] {processor.py:163} INFO - Started process (PID=9685) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:58:58,326] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:58:58,326] {logging_mixin.py:109} INFO - [2022-02-14 10:58:58,326] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:58:58,350] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:58:58,364] {logging_mixin.py:109} INFO - [2022-02-14 10:58:58,364] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:58:58,383] {logging_mixin.py:109} INFO - [2022-02-14 10:58:58,383] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:58:58.382835+00:00
+[2022-02-14 10:58:58,406] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2022-02-14 10:59:40,175] {processor.py:163} INFO - Started process (PID=9730) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:59:40,176] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 10:59:40,177] {logging_mixin.py:109} INFO - [2022-02-14 10:59:40,177] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:59:40,199] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 10:59:40,211] {logging_mixin.py:109} INFO - [2022-02-14 10:59:40,210] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 10:59:40,227] {logging_mixin.py:109} INFO - [2022-02-14 10:59:40,227] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T12:59:40.226761+00:00
+[2022-02-14 10:59:40,244] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2022-02-14 11:00:22,992] {processor.py:163} INFO - Started process (PID=9775) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:00:23,001] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:00:23,002] {logging_mixin.py:109} INFO - [2022-02-14 11:00:23,002] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:00:23,028] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:00:23,041] {logging_mixin.py:109} INFO - [2022-02-14 11:00:23,041] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:00:23,059] {logging_mixin.py:109} INFO - [2022-02-14 11:00:23,059] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:00:23.059158+00:00
+[2022-02-14 11:00:23,083] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.094 seconds
+[2022-02-14 11:01:04,164] {processor.py:163} INFO - Started process (PID=9825) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:01:04,173] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:01:04,174] {logging_mixin.py:109} INFO - [2022-02-14 11:01:04,174] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:01:04,192] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:01:04,203] {logging_mixin.py:109} INFO - [2022-02-14 11:01:04,203] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:01:04,217] {logging_mixin.py:109} INFO - [2022-02-14 11:01:04,217] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:01:04.217121+00:00
+[2022-02-14 11:01:04,233] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2022-02-14 11:01:43,410] {processor.py:163} INFO - Started process (PID=9866) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:01:43,414] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:01:43,415] {logging_mixin.py:109} INFO - [2022-02-14 11:01:43,415] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:01:43,445] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:01:43,459] {logging_mixin.py:109} INFO - [2022-02-14 11:01:43,459] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:01:43,477] {logging_mixin.py:109} INFO - [2022-02-14 11:01:43,477] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:01:43.476925+00:00
+[2022-02-14 11:01:43,498] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.090 seconds
+[2022-02-14 11:02:22,220] {processor.py:163} INFO - Started process (PID=9908) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:02:22,222] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:02:22,222] {logging_mixin.py:109} INFO - [2022-02-14 11:02:22,222] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:02:22,242] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:02:22,254] {logging_mixin.py:109} INFO - [2022-02-14 11:02:22,254] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:02:22,267] {logging_mixin.py:109} INFO - [2022-02-14 11:02:22,267] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:02:22.267238+00:00
+[2022-02-14 11:02:22,283] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2022-02-14 11:02:57,086] {processor.py:163} INFO - Started process (PID=9949) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:02:57,089] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:02:57,090] {logging_mixin.py:109} INFO - [2022-02-14 11:02:57,090] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:02:57,112] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:02:57,120] {logging_mixin.py:109} INFO - [2022-02-14 11:02:57,120] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:02:57,135] {logging_mixin.py:109} INFO - [2022-02-14 11:02:57,135] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:02:57.135042+00:00
+[2022-02-14 11:02:57,153] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.069 seconds
+[2022-02-14 11:03:34,967] {processor.py:163} INFO - Started process (PID=9991) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:03:34,971] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:03:34,971] {logging_mixin.py:109} INFO - [2022-02-14 11:03:34,971] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:03:34,989] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:03:34,999] {logging_mixin.py:109} INFO - [2022-02-14 11:03:34,998] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:03:35,012] {logging_mixin.py:109} INFO - [2022-02-14 11:03:35,011] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:03:35.011574+00:00
+[2022-02-14 11:03:35,028] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2022-02-14 11:04:13,440] {processor.py:163} INFO - Started process (PID=10034) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:04:13,449] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:04:13,449] {logging_mixin.py:109} INFO - [2022-02-14 11:04:13,449] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:04:13,471] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:04:13,481] {logging_mixin.py:109} INFO - [2022-02-14 11:04:13,481] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:04:13,494] {logging_mixin.py:109} INFO - [2022-02-14 11:04:13,494] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:04:13.494068+00:00
+[2022-02-14 11:04:13,516] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2022-02-14 11:04:55,961] {processor.py:163} INFO - Started process (PID=10079) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:04:55,963] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:04:55,963] {logging_mixin.py:109} INFO - [2022-02-14 11:04:55,963] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:04:55,981] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:04:55,990] {logging_mixin.py:109} INFO - [2022-02-14 11:04:55,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:04:56,006] {logging_mixin.py:109} INFO - [2022-02-14 11:04:56,006] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:04:56.005943+00:00
+[2022-02-14 11:04:56,025] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2022-02-14 11:05:33,674] {processor.py:163} INFO - Started process (PID=10120) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:05:33,683] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:05:33,684] {logging_mixin.py:109} INFO - [2022-02-14 11:05:33,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:05:33,708] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:05:33,725] {logging_mixin.py:109} INFO - [2022-02-14 11:05:33,724] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:05:33,745] {logging_mixin.py:109} INFO - [2022-02-14 11:05:33,745] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:05:33.745137+00:00
+[2022-02-14 11:05:33,766] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.094 seconds
+[2022-02-14 11:06:16,860] {processor.py:163} INFO - Started process (PID=10172) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:06:16,862] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:06:16,863] {logging_mixin.py:109} INFO - [2022-02-14 11:06:16,862] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:06:16,881] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:06:16,891] {logging_mixin.py:109} INFO - [2022-02-14 11:06:16,891] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:06:16,903] {logging_mixin.py:109} INFO - [2022-02-14 11:06:16,903] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:06:16.903564+00:00
+[2022-02-14 11:06:16,919] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.061 seconds
+[2022-02-14 11:06:57,204] {processor.py:163} INFO - Started process (PID=10215) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:06:57,206] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:06:57,206] {logging_mixin.py:109} INFO - [2022-02-14 11:06:57,206] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:06:57,226] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:06:57,236] {logging_mixin.py:109} INFO - [2022-02-14 11:06:57,236] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:06:57,248] {logging_mixin.py:109} INFO - [2022-02-14 11:06:57,248] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:06:57.248052+00:00
+[2022-02-14 11:06:57,264] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.062 seconds
+[2022-02-14 11:07:39,656] {processor.py:163} INFO - Started process (PID=10261) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:07:39,657] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:07:39,658] {logging_mixin.py:109} INFO - [2022-02-14 11:07:39,657] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:07:39,675] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:07:39,688] {logging_mixin.py:109} INFO - [2022-02-14 11:07:39,687] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:07:39,699] {logging_mixin.py:109} INFO - [2022-02-14 11:07:39,699] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:07:39.699123+00:00
+[2022-02-14 11:07:39,718] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.065 seconds
+[2022-02-14 11:08:17,270] {processor.py:163} INFO - Started process (PID=10302) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:08:17,273] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:08:17,275] {logging_mixin.py:109} INFO - [2022-02-14 11:08:17,274] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:08:17,298] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:08:17,310] {logging_mixin.py:109} INFO - [2022-02-14 11:08:17,310] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:08:17,327] {logging_mixin.py:109} INFO - [2022-02-14 11:08:17,327] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:08:17.327426+00:00
+[2022-02-14 11:08:17,345] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2022-02-14 11:08:59,391] {processor.py:163} INFO - Started process (PID=10346) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:08:59,393] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:08:59,394] {logging_mixin.py:109} INFO - [2022-02-14 11:08:59,393] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:08:59,412] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:08:59,421] {logging_mixin.py:109} INFO - [2022-02-14 11:08:59,421] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:08:59,434] {logging_mixin.py:109} INFO - [2022-02-14 11:08:59,433] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:08:59.433730+00:00
+[2022-02-14 11:08:59,449] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2022-02-14 11:09:37,128] {processor.py:163} INFO - Started process (PID=10388) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:09:37,130] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:09:37,130] {logging_mixin.py:109} INFO - [2022-02-14 11:09:37,130] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:09:37,149] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:09:37,160] {logging_mixin.py:109} INFO - [2022-02-14 11:09:37,160] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:09:37,175] {logging_mixin.py:109} INFO - [2022-02-14 11:09:37,175] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:09:37.175339+00:00
+[2022-02-14 11:09:37,192] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.066 seconds
+[2022-02-14 11:10:17,274] {processor.py:163} INFO - Started process (PID=10436) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:10:17,276] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:10:17,277] {logging_mixin.py:109} INFO - [2022-02-14 11:10:17,277] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:10:17,303] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:10:17,314] {logging_mixin.py:109} INFO - [2022-02-14 11:10:17,314] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:10:17,331] {logging_mixin.py:109} INFO - [2022-02-14 11:10:17,331] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:10:17.330861+00:00
+[2022-02-14 11:10:17,349] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2022-02-14 11:11:01,834] {processor.py:163} INFO - Started process (PID=10490) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:11:01,836] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:11:01,839] {logging_mixin.py:109} INFO - [2022-02-14 11:11:01,838] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:11:01,878] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:11:01,893] {logging_mixin.py:109} INFO - [2022-02-14 11:11:01,892] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:11:01,912] {logging_mixin.py:109} INFO - [2022-02-14 11:11:01,911] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:11:01.911655+00:00
+[2022-02-14 11:11:01,933] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.103 seconds
+[2022-02-14 11:11:48,843] {processor.py:163} INFO - Started process (PID=10539) to work on /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:11:48,846] {processor.py:642} INFO - Processing file /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-02-14 11:11:48,846] {logging_mixin.py:109} INFO - [2022-02-14 11:11:48,846] {dagbag.py:500} INFO - Filling up the DagBag from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:11:48,876] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-02-14 11:11:48,888] {logging_mixin.py:109} INFO - [2022-02-14 11:11:48,888] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-14 11:11:48,907] {logging_mixin.py:109} INFO - [2022-02-14 11:11:48,907] {dag.py:2935} INFO - Setting next_dagrun for latest_only to 2022-02-14T13:11:48.906678+00:00
+[2022-02-14 11:11:48,931] {processor.py:171} INFO - Processing /home/astrid/challenge-env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.090 seconds
